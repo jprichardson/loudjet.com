@@ -21,7 +21,8 @@ Struggle
 
 Faced with the pending launch of my company's new product, my mind is ironically clear and calm. First three months of this year were brutal, almost more than college. Though, during this time, I've learned more about myself than in other times. Even better, I've learned what I'm capable of. 
 
-I was able to sustain working for on 4-5 hours a sleep per night 6 days/week. I got more done in three months than I got done in two years. I did this by going on an information diet, and leveraging both the [Pareto principle][pp] (focus on what matters) and [Parkison's Law][pl] (set work timers). (Thanks Tim Ferriss, I actually read [his book][4] after the fact and noticed the formal labels for these techniques) It is true that through suffering, brings strength. Through suffering, you can learn a lot about yourself and your friends and family.
+I was able to sustain working for on 4-5 hours a sleep per night 6 days/week. I got more done in three months than I got done in two years. I did this by going on an information diet, and leveraging both the [Pareto principle][pp] (focus on what matters) and [Parkison's Law][pl] (set work timers). (Thanks Tim Ferriss, I actually read [his book][4] after the fact and noticed the formal labels for these techniques) It is true that through suffering, brings strength. Through suffering, you can learn a lot about yourself.
+
 
 
 You have a mission?
