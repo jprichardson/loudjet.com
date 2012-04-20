@@ -7,6 +7,7 @@ Blog on business, philosophy, life, culture, and compassion.
 ----
 
 ### April
-* [my mission](articles/2012/04/my-mission.md)
+* [my
+  mission](https://github.com/jprichardson/loudjet.com/blob/master/articles/2012/04/my-mission.md)
 
 
