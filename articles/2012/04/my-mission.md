@@ -16,8 +16,8 @@ Jeff Bezo's coined [Regret Minimization Framework][rmf]. In short, one of the be
 
 
 
-My Mission
-----------
+Struggle
+--------
 
 Faced with the pending launch of my company's new product, my mind is ironically clear and calm. First three months of this year were brutal, almost more than college. Though, during this time, I've learned more about myself than in other times. Even better, I've learned what I'm capable of. 
 
