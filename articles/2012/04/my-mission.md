@@ -56,7 +56,7 @@ I will:
 * only support politicians who want to maximize government effectiveness while reducing waste
 * only support those politicians who espouse the belief of the dignity of human lives
 * only support those politicians that preach of compassion and tolerance of others regardless of race, religion, gender, or sexual orientation
-* lend me ear to a friend, family member, or even stranger who is in need
+* lend my ear to a friend, family member, or even stranger who is in need
 
 
 I take this statement to heart:
@@ -65,7 +65,7 @@ I take this statement to heart:
 > 
 > -- The Declaration of Independence, 1776
 
-I want to build this great nation into one that maximize's liberty (term from my great friend Brian) of its citizens. One that encourages each and every one of us to strive to do our best, to tolerate others, and to build up and create. Do not mistake this as a statement of nationalism. Rather, look at this as statement of being a good steward to humanity.
+I want to build this great nation into one that maximize's liberty (term from my great friend Brian) of its citizens. One that encourages each and every one of us to strive to do our best, to tolerate others, and to build up and create. Do not mistake this as a statement of nationalism. Rather, look at this as a statment and a guide to being a good steward of humanity.
 
 Ideas are like a virus, this one will spread.
 
