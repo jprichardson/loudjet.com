@@ -4,6 +4,8 @@ AUTHOR: JP (jprichardson@gmail.com)
 TAGS: death, mission, regrets
 -->
 
+My Mission
+==========
 
 Regrets
 -------
@@ -67,6 +69,8 @@ I take this statement to heart:
 > -- The Declaration of Independence, 1776
 
 I want to build this great nation into one that maximize's liberty (term from my great friend Brian) of its citizens. One that encourages each and every one of us to strive to do our best, to tolerate others, and to build up and create. Do not mistake this as a statement of nationalism. Rather, look at this as a statment and a guide to being a good steward of humanity.
+
+I want to leave the world much better off than when I entered it.
 
 Ideas are like a virus, this one will spread.
 
