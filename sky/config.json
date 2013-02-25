@@ -14,11 +14,11 @@
   },
   "partials": {
     "disqus": {
-      "shortname": "procbits",
-      "url": "http://procbits.com/{{slug}}/"
+      "shortname": "",
+      "url": ""
     },
     "googleAnalytics": {
-      "id": "UA-35069840-2"
+      "id": ""
     }
   }
 }
