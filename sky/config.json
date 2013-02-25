@@ -1,15 +1,24 @@
 {
   "blog": {
-    "name": "techneur",
-    "url": "http://techneur.com/",
-    "tagline": "Where technology and entrepreneurship meet and entrepreneurial experiences for the hungry & nimble mind."
+    "name": "loudjet",
+    "url": "http://loudjet.com",
+    "tagline": "Becoming a Better Human - Promoting tolerance of others, compassion for the suffering, and freedom of the individual",
+    "author": "JP Richardson"
   },
   "articles": {
     "urlformat": "{{slug}}",
     "index": "index.html"
   },
   "build": {
-    "outputDir": "public/"
+    "outputDir": "data/"
   },
-  "partials": {}
+  "partials": {
+    "disqus": {
+      "shortname": "procbits",
+      "url": "http://procbits.com/{{slug}}/"
+    },
+    "googleAnalytics": {
+      "id": "UA-35069840-2"
+    }
+  }
 }
