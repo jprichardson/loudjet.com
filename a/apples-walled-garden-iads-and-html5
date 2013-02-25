@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Apple's Walled Garden: iAds and html5:</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="JP Richardson">
+    <mete name="description" content="">
+
+    <link href="http://netdna.bootstrapcdn.com/bootswatch/2.1.1/spacelab/bootstrap.min.css" rel="stylesheet">
+    <link href="/vendor/highlight.js/styles/vs.css" rel="stylesheet">
+    <!--<link href="style.css" rel="stylesheet">-->
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', '']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  </head>
+  <body>
+    
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid nav-container">
+          <nav role="navigation">
+            <a class="brand" title="" href="http://loudjet.com">loudjet</a>
+            
+            <p class="navbar-text pull-left">
+              Becoming a Better Human - Promoting tolerance of others, compassion for the suffering, and freedom of the individual
+            </p>
+          </nav>
+
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container-fluid">
+      <div id="content" class="clearfix row-fluid">
+        <div id="main" class="span8 clearfix" role="main">
+
+
+<h1>Apple&#39;s Walled Garden: iAds and html5:</h1>
+<p><img src="http://media.tumblr.com/tumblr_l1fcq7hEhz1qzbc4f.jpg" alt="Apple&#39;s Walled
+Garden"></p>
+<p>Apple is building a wall around the lush garden that is the app store. 
+Their end-game is to keep everybody happy by funneling mass amounts of
+advertising monies.  How will this work?  Grab an Orange and follow me…</p>
+<p>Jobs’s company needs to do two major things to capture consumers:</p>
+<ol>
+<li>Have the best content</li>
+<li>Offer that content for relatively nothing</li>
+</ol>
+<p>This is where iAds comes into play.  Apple plans to launch iAds as a
+premium advertising campaign, and has hinted at charging premium
+prices.  With this in mind, developers can incorporate these emotionally
+interactive ads as a viable revenue module.  Developers can focus on
+delivering a great experience while Apple handles the monetization. 
+It’s a win for consumers and it’s a win for developers. </p>
+<p>So who loses? Maybe no one.  If Apple has increased our content
+consumption by making it more efficient (mobile), then they’ve just
+created more eyespace for ads rather than taking it from someone else. 
+With advertising budgets already in a stranglehold from cutbacks, I’m
+inclined to believe the opposite.  Smart companies will wager their
+advertising dollars towards a more interactive media.  Big Traditional
+Media (BTM) will start to see their ad revenues fade.  Especially print,
+until it migrates…</p>
+<p><strong>As Apple gives developers a piece of their advertising pie, they’re
+also building a wall to keep developers eating what they’re cooking. </strong></p>
+<p>Here’s the brick and mortar:</p>
+<p>​1) Apple just restricted the use of any interpretive language or
+language other than Objective C.</p>
+<ul>
+<li>This makes it that much harder for developers to transfer their apps
+across platforms.  Apple just burned down <a href="http://www.appcelerator.com/products/titanium-cross-platform-application-development/" title="Titanium: Cross-Platform App Development">Titanium’s
+bridge</a>.</li>
+</ul>
+<p>​2) Apple just restricted anyone from sending any app analytics out of
+the app.</p>
+<ul>
+<li>This hinders the targeting of other ad networks.  As a side effect,
+it also makes it impossible for developers to gauge user experience
+(not good Apple).  I’d be very surprised if they didn’t come out
+with some sort of standard analytics platform.</li>
+</ul>
+<p>It’s easy to see how Apple will incorporate their own ad system:</p>
+<p>I predict they’ll either classify ads themselves or have users
+classify/keyword their ads in order to define what consumer group each
+ad should target.</p>
+<p>I also predict that iAds will be smarter ads.  Since each one has a
+category attached to them (see prediction above), the ad-showcasing
+algorithm can send data back to Apple’s servers on what ads that user
+has been responding to.  That users responds great to restaurant ads? 
+Great, send them some more restaurant ads…</p>
+<p>But what about html5.  Why won’t other networks jump on board?  Apple
+can’t stop other ad networks from implementing html5 ads.  What they can
+do is filter out the bad ones (see app approval process) and deliver the
+most well-targeted ads to date since they have access to all of the user
+data.  The more well-targeted, the higher the CTR, which means that more
+developers will be motivated to create apps for users.  This is what
+Apple is banking on and if you take a look at user’s time spent mobile
+searching vs. mobile app time (30 mins/day), they’re right.</p>
+<p>This strategy, however crude, could make the iPhone the developers
+platform of choice while other platforms (google) are left in the wake. </p>
+<p>-Brian</p>
+
+
+
+          <span id="footer">
+            <br/>
+            <span style="font-size: 10px">
+              Proudly built with <a href="https://github.com/skywrite">Sky</a>.
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>

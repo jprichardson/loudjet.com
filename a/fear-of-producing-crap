@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Fear of Producing Crap</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="JP Richardson">
+    <mete name="description" content="">
+
+    <link href="http://netdna.bootstrapcdn.com/bootswatch/2.1.1/spacelab/bootstrap.min.css" rel="stylesheet">
+    <link href="/vendor/highlight.js/styles/vs.css" rel="stylesheet">
+    <!--<link href="style.css" rel="stylesheet">-->
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', '']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  </head>
+  <body>
+    
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid nav-container">
+          <nav role="navigation">
+            <a class="brand" title="" href="http://loudjet.com">loudjet</a>
+            
+            <p class="navbar-text pull-left">
+              Becoming a Better Human - Promoting tolerance of others, compassion for the suffering, and freedom of the individual
+            </p>
+          </nav>
+
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container-fluid">
+      <div id="content" class="clearfix row-fluid">
+        <div id="main" class="span8 clearfix" role="main">
+
+
+<h1>Fear of Producing Crap</h1>
+<p><img src="http://media.tumblr.com/tumblr_ldcke4yacv1qzbc4f.jpg" alt=""></p>
+<p>If you read any writings by any “life coaches” or any prominent
+entrepreneurs, you’ve undoubtedly read the word “fear” thrown around
+over and over again. The phrase “fear of failure” is a bit trite. I’ve
+never felt that I’ve had a fear of failure. I’ve always felt that I’ve
+never been afraid of failure, or even afraid of anything.</p>
+<p>I woke up after a rough night of the Husker’s losing the Big-12
+Championship. I remembered that I made a bunch of Facebook status
+updates that I probably shouldn’t have. How embarrassing. I didn’t
+really care that much though. The way I see it, people will accept the
+good with the bad. </p>
+<p>I then realized that I do have a fear. I have a fear of producing crap.
+I’m particularly referring to blogging, but this also <a href="http://reflect7.com/apps">applies to our
+software</a>. I worry that some people won’t like
+my writings. They’ll find them uninteresting. This may be true though,
+but why should I care? Doesn’t it make sense to keep pushing myself to
+write more and more? Eventually I should get better right?</p>
+<p>What if Kanye West had a fear of producing crap? If he did, he wouldn’t
+make any music then. Forgive the Kanye comparison; as I don’t have cool
+Kanye sunglasses nor did I ever get invited to the MTV
+awards. <a href="http://en.wikipedia.org/wiki/Fishsticks_(South_Park">Gayfish</a>)
+aside, to be successful, I can’t have that fear. It’s necessary to keep
+working day-in and day-out.</p>
+<p>You might enjoy:</p>
+<ol>
+<li><a href="http://techneur.com/post/1516468079/luck-surface-area">Luck Surface
+Area</a></li>
+<li><a href="http://techneur.com/post/1415352474/40-hours-is-breaking-even">40 Hours Is Breaking
+Even</a></li>
+<li><a href="http://techneur.com/post/1114058782/commitment-vs-involvement">Commitment vs
+Involvement</a></li>
+</ol>
+<p>Follow me on Twitter: <a href="http://twitter.com/jprichardson">@jprichardson</a></p>
+<p>-JP</p>
+
+
+
+          <span id="footer">
+            <br/>
+            <span style="font-size: 10px">
+              Proudly built with <a href="https://github.com/skywrite">Sky</a>.
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>

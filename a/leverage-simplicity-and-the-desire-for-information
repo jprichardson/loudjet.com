@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Leverage Simplicity and the Desire For Information</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="JP Richardson">
+    <mete name="description" content="">
+
+    <link href="http://netdna.bootstrapcdn.com/bootswatch/2.1.1/spacelab/bootstrap.min.css" rel="stylesheet">
+    <link href="/vendor/highlight.js/styles/vs.css" rel="stylesheet">
+    <!--<link href="style.css" rel="stylesheet">-->
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', '']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  </head>
+  <body>
+    
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid nav-container">
+          <nav role="navigation">
+            <a class="brand" title="" href="http://loudjet.com">loudjet</a>
+            
+            <p class="navbar-text pull-left">
+              Becoming a Better Human - Promoting tolerance of others, compassion for the suffering, and freedom of the individual
+            </p>
+          </nav>
+
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container-fluid">
+      <div id="content" class="clearfix row-fluid">
+        <div id="main" class="span8 clearfix" role="main">
+
+
+<h1>Leverage Simplicity and the Desire For Information</h1>
+<p><img src="http://media.tumblr.com/tumblr_l5wv42oLzj1qzbc4f.jpg" alt=""></p>
+<p>From time to time, my mom will clip a newspaper article or send me an
+email some info of technology that she finds interesting. This morning,
+I received an email from my mom about the Airport Remote app:</p>
+<p>If you are a developer, you’re probably thinking “what’s the big deal?”
+If you’re an entrepreneur, you’re probably thinking “meh, Orbitz,
+Expedia, Travelocity, Tripit, and a thousands of iPhone apps already
+provide me with this information.” If you’re my mom, you’re dazzled.</p>
+<p>I started thinking about when I travel and what technology I use to make
+my traveling experience better. I typically buy my tickets on Orbitz.
+Orbitz sends me text messages about flight times and if there will be
+delays. I know that other apps exist that do this very same thing as
+well. However, when I’m at the airport, I still find myself stopping to
+look at the blue screen. At every single airport I do this despite me
+knowing that Orbitz will inform me of any changes.</p>
+<p>Why do I do this? It’s the same reason that I tend to check
+<a href="http://getclicky.com/209072">Clicky</a> multiple times a day when I only
+use to check Google Analytics once a day. It’s called <a href="http://www.smashingmagazine.com/2010/04/21/five-tips-for-making-ideas-happen/">insecurity
+work</a>.
+We as humans are a bit insecure. We need to feel in control. We feel
+that we have more control when we have more information. That’s why this
+app is successful; because it’s simple and we’re insecure.</p>
+<p>So if you can build a product that can leverage people’s insatiable
+appetite for information and do so in a simple manner, I would bet that
+you’re product will succeed.</p>
+<p>Follow me on Twitter: <a href="http://twitter.com/jprichardson">@jprichardson</a></p>
+<p>-JP Richardson</p>
+<p>If you enjoyed this post, you may enjoy:</p>
+<p>1) <a href="http://techneur.com/post/696422394/software-as-a-vision">Software as a
+Vision</a></p>
+<p>​2) <a href="http://techneur.com/post/753257213/compete-on-high-touch">Compete on
+High-Touch</a></p>
+<p>​3) <a href="http://techneur.com/post/520136880/best-customer-word">The Best Word Customers Will Ever
+Hear</a></p>
+
+
+
+          <span id="footer">
+            <br/>
+            <span style="font-size: 10px">
+              Proudly built with <a href="https://github.com/skywrite">Sky</a>.
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>

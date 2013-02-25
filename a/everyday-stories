@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Bona Fide Everyday Stories</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="JP Richardson">
+    <mete name="description" content="">
+
+    <link href="http://netdna.bootstrapcdn.com/bootswatch/2.1.1/spacelab/bootstrap.min.css" rel="stylesheet">
+    <link href="/vendor/highlight.js/styles/vs.css" rel="stylesheet">
+    <!--<link href="style.css" rel="stylesheet">-->
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', '']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  </head>
+  <body>
+    
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid nav-container">
+          <nav role="navigation">
+            <a class="brand" title="" href="http://loudjet.com">loudjet</a>
+            
+            <p class="navbar-text pull-left">
+              Becoming a Better Human - Promoting tolerance of others, compassion for the suffering, and freedom of the individual
+            </p>
+          </nav>
+
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container-fluid">
+      <div id="content" class="clearfix row-fluid">
+        <div id="main" class="span8 clearfix" role="main">
+
+
+<h1>Bona Fide Everyday Stories</h1>
+<p><img src="http://media.tumblr.com/tumblr_l2ajegTitv1qzbc4f.jpg" alt=""></p>
+<p>What do the following blog posts have in common? </p>
+<ol>
+<li><a href="http://www.zeldman.com/2010/05/11/life-is-beautiful/">Life Is
+Beautiful</a></li>
+<li><a href="http://calacanis.com/2010/05/12/the-big-game-zuckerberg-and-overplaying-your-hand/">The Big Game, Zuckerberg and Overplaying your
+Hand</a></li>
+<li><a href="http://www.currentlyobsessed.com/2009/12/16/crucial-first-hire-the-do-it-all-office-admin/">Crucial first hire: the “do-it-all office
+admin”</a></li>
+</ol>
+<p>The astute reader might point out that they are all popular posts
+currently on the front page of <a href="http://news.ycombinator.com">Hacker
+News</a>; which is true. But they have
+something else in common. Have you figured it out yet?</p>
+<p>They all start out with a story. There are many
+<a href="http://www.ted.com/talks/malcolm_gladwell_on_spaghetti_sauce.html">examples</a>
+of
+<a href="http://www.wired.com/epicenter/2010/02/googles-super-bowl-ad-a-romance-in-search/">great</a>
+<a href="http://37signals.com/svn/posts/1677-j-peterman-selling-stories-not-just-products">stories</a>
+in
+<a href="http://37signals.com/svn/posts/2052-on-writing-saddleback-leather-tells-its-story-and-promotes-through-education">marketing</a>.
+This is why these blog posts are successful, they tell a story.
+Entrepreneurs: we need to start telling more stories. Seth Godin
+<a href="http://sethgodin.typepad.com/seths_blog/2006/04/ode_how_to_tell.html">wrote</a>
+what makes a good story:</p>
+<p>Most of all, great stories agree with our world view. The best stories
+don’t teach people anything new. Instead, the best stories agree with
+what the audience already believes and makes the members of the audience
+feel smart and secure when reminded how right they were in the first
+place.</p>
+<p>Stories comfort us. Stories force us to mentally engage with products.
+My favorite story is the Google Superbowl commercial. It’s a romantic
+story of a man studying abroad in Paris who meets a French woman. I
+won’t ruin it for you, you have to watch it! Here it is:</p>
+<p>Start <a href="http://gettingreal.37signals.com/ch11_Tell_Me_a_Quick_Story.php">telling
+stories</a>,
+and that’ll be one more step to making the world a better place.</p>
+<p>You can follow me on
+Twitter <a href="http://twitter.com/jprichardson">@jprichardson</a></p>
+<p>-JP</p>
+
+
+
+          <span id="footer">
+            <br/>
+            <span style="font-size: 10px">
+              Proudly built with <a href="https://github.com/skywrite">Sky</a>.
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>

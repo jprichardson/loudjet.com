@@ -6,11 +6,11 @@
     "author": "JP Richardson"
   },
   "articles": {
-    "urlformat": "{{slug}}",
+    "urlformat": "a/{{slug}}",
     "index": "index.html"
   },
   "build": {
-    "outputDir": "data/"
+    "outputDir": "./"
   },
   "partials": {
     "disqus": {

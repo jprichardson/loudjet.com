@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Curly's Law</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="JP Richardson">
+    <mete name="description" content="">
+
+    <link href="http://netdna.bootstrapcdn.com/bootswatch/2.1.1/spacelab/bootstrap.min.css" rel="stylesheet">
+    <link href="/vendor/highlight.js/styles/vs.css" rel="stylesheet">
+    <!--<link href="style.css" rel="stylesheet">-->
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', '']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  </head>
+  <body>
+    
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid nav-container">
+          <nav role="navigation">
+            <a class="brand" title="" href="http://loudjet.com">loudjet</a>
+            
+            <p class="navbar-text pull-left">
+              Becoming a Better Human - Promoting tolerance of others, compassion for the suffering, and freedom of the individual
+            </p>
+          </nav>
+
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container-fluid">
+      <div id="content" class="clearfix row-fluid">
+        <div id="main" class="span8 clearfix" role="main">
+
+
+<h1>Curly&#39;s Law</h1>
+<p><img src="http://media.tumblr.com/tumblr_l7oj5uvbcp1qzbc4f.jpg" alt=""></p>
+<p>I was an ardent reader of the blog <a href="http://codinghorror.com">Coding
+Horror</a> by Jeff Atwood (StackOverflow fame).
+It’s too bad he doesn’t blog much anymore. But Jeff has left me with a
+colossal mountain of information on software development.</p>
+<p>One of my favorite posts is on <a href="http://www.codinghorror.com/blog/2007/03/curlys-law-do-one-thing.html">Curly’s
+Law</a>.
+Curly Washburn was a cowboy in the movie City Slickers. Jeff quoted some
+dialog from the movie:</p>
+<blockquote>
+<p>Curly: Do you know what the secret of life is?\
+Curly: This. [holds up one finger]\
+Mitch: Your finger?\
+Curly: One thing. Just one thing. You stick to that and the rest don’t
+ mean shit.\
+Mitch: But what is the “one thing?”\
+Curly: [smiles] That’s what you have to find out.</p>
+</blockquote>
+<p>Jeff relates this to software. But I think the concept equally applies
+to a startup. Lack of focus can kill your startup. That’s why it’s so
+important to not overload your plate with a number of projects.</p>
+<p>Reflect7 has done this. We loaded up consulting projects and tried to
+simultaneously build multiple products - all with three guys working
+part time. Big mistake. It’s <a href="http://www.codinghorror.com/blog/2007/03/curlys-law-do-one-thing.html">nearly killed
+us</a>.</p>
+<p>I think that’s what Curly is really talking about. Do one thing, and do
+it well - and your customers will love you for it. You just have to
+discover what that one thing is.</p>
+<p>If you enjoyed this, you may enjoy:\
+<a href="http://techneur.com/post/935550443/the-startup-idea-filter">The Startup Idea
+Filter</a>\
+<a href="http://techneur.com/post/656259481/mvp-galls-law">Obey Gall’s Law</a></p>
+<p>Follow me on Twitter: <a href="http://twitter.com/jprichardson">@jprichardson</a></p>
+<p>-JP</p>
+
+
+
+          <span id="footer">
+            <br/>
+            <span style="font-size: 10px">
+              Proudly built with <a href="https://github.com/skywrite">Sky</a>.
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>

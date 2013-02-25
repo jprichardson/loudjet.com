@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Winning Isn't Everything, It's the Only Thing</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="JP Richardson">
+    <mete name="description" content="">
+
+    <link href="http://netdna.bootstrapcdn.com/bootswatch/2.1.1/spacelab/bootstrap.min.css" rel="stylesheet">
+    <link href="/vendor/highlight.js/styles/vs.css" rel="stylesheet">
+    <!--<link href="style.css" rel="stylesheet">-->
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', '']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  </head>
+  <body>
+    
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid nav-container">
+          <nav role="navigation">
+            <a class="brand" title="" href="http://loudjet.com">loudjet</a>
+            
+            <p class="navbar-text pull-left">
+              Becoming a Better Human - Promoting tolerance of others, compassion for the suffering, and freedom of the individual
+            </p>
+          </nav>
+
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container-fluid">
+      <div id="content" class="clearfix row-fluid">
+        <div id="main" class="span8 clearfix" role="main">
+
+
+<h1>Winning Isn&#39;t Everything, It&#39;s the Only Thing</h1>
+<p><img src="http://media.tumblr.com/tumblr_l5fh6dlSER1qzbc4f.jpg" alt=""></p>
+<p><a href="http://en.wikipedia.org/wiki/Vince_Lombardi">Vince Lombardi</a> once
+<a href="http://www.youtube.com/watch?v=UQAyMgVoARQ&amp;feature=related">said</a>:</p>
+<blockquote>
+<p>Winning isn’t everything, it’s the only thing. Either you’re first or
+you’re last.</p>
+</blockquote>
+<p>What does that mean for us? Does it matter if you build a great product?
+Of course it does. Does it matter if you improve the lives of your
+customers? Of course. So what the hell is my point?</p>
+<ol>
+<li>Dan Gilbert is a douchebag. More about that in a minute.</li>
+<li>You must have a winner’s mentality.</li>
+<li>Profit matters.</li>
+</ol>
+<p><strong>Dan Gilbert Is a Douchebag</strong>\
+Many of you have probably heard about <a href="http://en.wikipedia.org/wiki/LeBron_James">Lebron
+James</a> and his decision to
+play for the Miami Heat. If you didn’t know, Dan Gilbert is the owner of
+the Cleveland Cavaliers - the team Lebron James use to play for. Dan
+Gilbert <a href="http://www.nba.com/cavaliers/news/gilbert_letter_100708.html">called Lebron a coward, selfish, callous, and
+heartless</a>
+despite the fact that Lebron was out of contract. The point is that
+Lebron understands winning. He wants to win a championship badly, so he
+left after his contract expired. He didn’t do anything unethical. Who
+can blame the guy?</p>
+<p><strong>Winner’s Mentality</strong>\
+You must possess a winner’s mentality. This means that you want to tear
+the faces off of your competition in a <a href="http://twitter.com/garyvee/status/10706011672">Gary
+Vaynerchuk</a> sort of way.
+This doesn’t mean that you should copy your competition. <a href="http://techneur.com/post/550060849/rework">DON’T DO
+THIS</a>. To quote Jason Fried:
+“No one will ‘out’ Apple Apple” That is to say, no one will ‘do’ Apple
+better than Apple. The winner’s mentality is all about believing that
+you are better, and then to actually be better.</p>
+<p><strong>Profit Matters</strong>\
+You have \$100 million in revenue? That’s cute. Oh, what’s that?? You’re
+spending \$500 million? The only thing that’s worse than no profit, is
+to lose money. OK, so I admit that kind of revenue is impressive,
+perhaps that jealousy was me really being upset over… uhhhh… nevermind.
+To have a real business and to win, you must be making money.</p>
+<p><strong>To Summarize:</strong>\
+Your Business Winning = Dan Gilbert’s Douchebaggery + Winner’s Mentality
++ Profit</p>
+<p>Since it’s a truth that <a href="http://techcrunch.com/2010/07/09/techcrunch-comic-sans/">Dan Gilbert is a
+douchebag</a>,
+part of the battle has already been won for you. Now you just have to do
+the hard parts.</p>
+<p>What do you think about winning?</p>
+<p>You can follow me on Twitter:
+<a href="http://twitter.com/jprichardson">@jprichardson</a></p>
+<p>-JP Richardson</p>
+
+
+
+          <span id="footer">
+            <br/>
+            <span style="font-size: 10px">
+              Proudly built with <a href="https://github.com/skywrite">Sky</a>.
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>

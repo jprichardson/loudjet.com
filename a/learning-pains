@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Learning Pains</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="JP Richardson">
+    <mete name="description" content="">
+
+    <link href="http://netdna.bootstrapcdn.com/bootswatch/2.1.1/spacelab/bootstrap.min.css" rel="stylesheet">
+    <link href="/vendor/highlight.js/styles/vs.css" rel="stylesheet">
+    <!--<link href="style.css" rel="stylesheet">-->
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', '']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  </head>
+  <body>
+    
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid nav-container">
+          <nav role="navigation">
+            <a class="brand" title="" href="http://loudjet.com">loudjet</a>
+            
+            <p class="navbar-text pull-left">
+              Becoming a Better Human - Promoting tolerance of others, compassion for the suffering, and freedom of the individual
+            </p>
+          </nav>
+
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container-fluid">
+      <div id="content" class="clearfix row-fluid">
+        <div id="main" class="span8 clearfix" role="main">
+
+
+<h1>Learning Pains</h1>
+<p><img src="http://media.tumblr.com/tumblr_l2pbt95RbJ1qzbc4f.jpg" alt=""></p>
+<p>Last night, my business <a href="http://reflect7.com/about-us">partners and I</a>
+had one of the biggest debates within the last year of being in
+business. We ended up making a decision that will forever change our
+company. We were suppose to update our iPhone football apps. They had
+some bugs that caused them to occasionally crash and they needed to be
+updated with 2010 information.</p>
+<p>Corey brought up his concern of reputation with the sports apps, as in
+developers may shun our next product (it’s iPhone developer focused)
+because our sports app are seen as
+<a href="http://en.wikipedia.org/wiki/Shovelware">shovelware</a>. He suggested we
+either move our next product to another LLC to remove association or to
+move our sports apps to another LLC. He had a point. We dealt with this
+a bit on Reddit when I
+<a href="http://www.reddit.com/r/programming/comments/bc4ot/why_i_am_giving_up_building_a_business_on_the/">posted</a>
+my article about how <a href="http://techneur.com/post/440686528/its-all-our-fault-why-building-a-business-on-the">developing for the app store was a losing
+proposition</a>.
+But, I wasn’t willing to move anything out of Reflect7 or start anything
+outside of Reflect7. Reflect7 is who we are. It’s our brand. It’s our
+story, mistakes and everything.</p>
+<p>I didn’t agree originally. I felt that we should stick to the plan.
+Brian definitely didn’t agree. Brian’s point was that we should stick
+with the plan since it makes us money and we can move on to our ideas
+afterwards. He rationalized that to finish up the sports fan
+applications, it won’t take us much more time. Maybe a month at most.
+Then we could tackle our next projects.</p>
+<p>I soon conceded with Corey. But not for reasons of reputation. My points
+are as follows and they aren’t listed in any particular priority.</p>
+<p>​1) Time is our scarcest resource. Day jobs already consume a good
+portion of our time. Therefore, we must be selective on how we spend
+that time.</p>
+<p>​2) Money is not a motivating factor for me. I simply don’t care about
+money. Money is a means to end. I just want financial freedom. The
+sports applications were bringing on average \$2.5k a month. Not bad.
+But, I had no passion behind them. Originally, we developed them to
+solve our own problem. That is, we wanted the information in an easy
+accessible manner on our smart phone. We included the
+<a href="http://www.huskers.com/">Husker</a> logo and the player photos in the
+original Husker Fan app. We were oblivious to trademark issues (yea I
+know, we should have done due diligence). We eventually were contacted
+by the <a href="http://www.clc.com/">CLC</a> to remove it or face litigation. So we
+changed Husker Fan to Nebraska Fan. It became a generic, a commodity. We
+eventually made more teams. More commodities. The only way to make more
+money, is to make more apps. Scale to new sports and new platforms. It
+feels cheap. Concerning corporate survival, the difference between \$0
+and \$10k is nil when your expenses are \$100/month.</p>
+<p>​3) Passion &amp; purpose mean the world to me. I lost my passion and
+purpose behind the Sports Fan apps. People aren’t loyal to generics and
+commodities. I want to have a bigger impact. I want to change the world.
+This won’t happen with sports fan applications.</p>
+<p>​4) We all conceded months ago that we will eventually stop
+making/improving the sports fan apps. I rationalized that it makes sense
+for us to do it now, since it’s early in our company’s life. To make
+that kind of change later could be disastrous.</p>
+<p>​5) We developed a product idea about a month ago that we’re all
+very enthusiastic about. We also developed a non-profit idea called Mind
+Spread at <a href="http://bigomaha.com">Big Omaha</a>. Mind Spread is essentially
+Pay-It-Forward for books. We wanted to ride the momentum of Big Omaha
+and get it out ASAP. We want to recruit others to help us with our
+mission of improving the world by spreading knowledge and culture. We
+want to <a href="http://www.amazon.com/Tribes-We-Need-You-Lead/dp/1591842336">lead a
+tribe</a>. We
+believe that this would truly help us change the world and that if we
+followed Gary V’s mantra of <a href="http://garyvaynerchuk.com/post/78887853/legacy-is-greater-than-currency">Legacy >
+Currency</a>,
+we are making the right decision, as the currency would follow.</p>
+<p>​6) If we got the sports apps up and running to where they should be,
+we’ll still have problems. We screen scrape data from CBS/ESPN. They
+change the HTML, the pages change. The screen scraper misinterprets data
+at times and causes crappy data for our customers. That makes us look
+poorly. We don’t own the data we are dependent upon. I don’t mind
+putting out fires if I’m building Rome, but I don’t like trying to
+continuously fix my house that’s built on the sand.</p>
+<p>​7) I live by the axiom of living life with no regrets. If the sports
+fan apps take too long, and we can’t get Mind Spread out, I could see
+myself potentially regretting it. Whereas, if I follow my passion and
+purpose, I don’t think it’s possible to be wrong.</p>
+<p>I don’t know if we made the right decision. I like to think that we did,
+but time will tell. I do know that Brian isn’t comfortable with it, and
+that bothers me.</p>
+<p>I would really appreciate your thoughts on this post, especially if you
+disagree. Thanks for your time.</p>
+<p>Take care.</p>
+<p>You can follow me on
+Twitter <a href="http://twitter.com/jprichardson">@jprichardson</a></p>
+<p>-JP</p>
+
+
+
+          <span id="footer">
+            <br/>
+            <span style="font-size: 10px">
+              Proudly built with <a href="https://github.com/skywrite">Sky</a>.
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>

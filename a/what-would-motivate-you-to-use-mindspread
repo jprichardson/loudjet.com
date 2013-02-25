@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>What Would Motivate You to Use MindSpread?</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="JP Richardson">
+    <mete name="description" content="">
+
+    <link href="http://netdna.bootstrapcdn.com/bootswatch/2.1.1/spacelab/bootstrap.min.css" rel="stylesheet">
+    <link href="/vendor/highlight.js/styles/vs.css" rel="stylesheet">
+    <!--<link href="style.css" rel="stylesheet">-->
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', '']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  </head>
+  <body>
+    
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid nav-container">
+          <nav role="navigation">
+            <a class="brand" title="" href="http://loudjet.com">loudjet</a>
+            
+            <p class="navbar-text pull-left">
+              Becoming a Better Human - Promoting tolerance of others, compassion for the suffering, and freedom of the individual
+            </p>
+          </nav>
+
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container-fluid">
+      <div id="content" class="clearfix row-fluid">
+        <div id="main" class="span8 clearfix" role="main">
+
+
+<h1>What Would Motivate You to Use MindSpread?</h1>
+<p><img src="http://media.tumblr.com/tumblr_l6rkve1NLA1qzbc4f.jpg" alt=""></p>
+<p>Recently a commenter posted a reply on the original <a href="http://techneur.com/post/635311152/announcing-mindspread">MindSpread
+announcement</a>.
+The commenter posted this:</p>
+<blockquote>
+<p>Noble idea, but for me the question is this: Why do I need a web site
+to buy a book and give it to somebody? Assuming I’m inclined to do it
+in the first place, how much additional motivation is the web site
+really going to give me? Why subject myself to the additional
+complication of filling in the web form? How likely is it the people I
+give the book to are going to bother updating the web site to tell me
+where the book went after they read it?</p>
+</blockquote>
+<p>I started typing my response but then felt that it made more sense to
+make it a blog post because this response needs feedback as well.</p>
+<p>I should first start out by pointing that the you don’t need the website
+to buy a book. I know the commenter knew that, but for you new readers
+that fact may not be clear. Allow me to address the first question: why
+you need a website to give a book. You don’t. You don’t need MindSpread
+to give a book like you don’t need Facebook to stay in contact with your
+friends, in the same way that you don’t need Amazon to buy merchandise,
+in the same way that you dont need eBay to sell goods, in the same way
+you don’t need Youtube or Hulu to watch TV, and in the same way you
+don’t need Wikipedia for information. No, you don’t need MindSpread at
+all.</p>
+<p>It’s time for the million dollar question. Why would you use MindSpread?
+What does MindSpread offer you? When you buy a book and read it, what do
+you do with it when you are finished? Most likely it sits on your
+bookshelf for years untouched. What if you could give it to someone and
+it would make a difference in their life? What if you could give it to
+someone and know that they will give it someone else and so on and so
+forth? What if you had a website that could track all of this and you
+could see your positive impact upon the world?</p>
+<p>Yes, chances are there will be people who do not spread the books after
+they have received them. This can be solved in two ways. Technologically
+and socially. MindSpread could send them an email monthly reminding them
+to spread the book. MindSpread could integrate with Facebook Connect so
+that people would know who is not spreading books when they receive
+them.</p>
+<p>However, I don’t think that technology is the best solution to the
+problem. That’s why MindSpread will be a non-profit/charity with
+open-source code. MindSpread’s users will own MindSpread. MindSpread’s
+users will be responsible for instilling passion amongst their peers and
+the receivers of the books. MindSpread’s users will control MindSpread’s
+fate. It’s about giving.</p>
+<p>Remember MindSpread’s mission statement:</p>
+<blockquote>
+<p>To encourage the spreading of knowledge and culture throughout the
+world.</p>
+</blockquote>
+<p>You would use MindSpread for the same reason that you may help your
+neighbor shovel his drive way, for the same reason you might serve food
+at a homeless shelter, for the same reason that you might answer a
+question on a forum, for the same reason you might take time out of your
+day to listen to a friend who is hurting, for the same reason that you
+might donate food to charity. Helping other and giving makes us feel
+good. So what does MindSpread offer you? Altruism.
+Selflessness. MindSpread offers you a chance to make a difference.</p>
+<p>Follow me on Twitter: <a href="http://twitter.com/jprichardson">@jprichardson</a></p>
+<p>-JP Richardson</p>
+<p>PS:  I would appreciate any additional feedback.</p>
+
+
+
+          <span id="footer">
+            <br/>
+            <span style="font-size: 10px">
+              Proudly built with <a href="https://github.com/skywrite">Sky</a>.
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>

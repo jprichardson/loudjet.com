@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Not the Entrepreneur's Manifesto</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="JP Richardson">
+    <mete name="description" content="">
+
+    <link href="http://netdna.bootstrapcdn.com/bootswatch/2.1.1/spacelab/bootstrap.min.css" rel="stylesheet">
+    <link href="/vendor/highlight.js/styles/vs.css" rel="stylesheet">
+    <!--<link href="style.css" rel="stylesheet">-->
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', '']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  </head>
+  <body>
+    
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid nav-container">
+          <nav role="navigation">
+            <a class="brand" title="" href="http://loudjet.com">loudjet</a>
+            
+            <p class="navbar-text pull-left">
+              Becoming a Better Human - Promoting tolerance of others, compassion for the suffering, and freedom of the individual
+            </p>
+          </nav>
+
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container-fluid">
+      <div id="content" class="clearfix row-fluid">
+        <div id="main" class="span8 clearfix" role="main">
+
+
+<h1>Not the Entrepreneur&#39;s Manifesto</h1>
+<p><img src="http://media.tumblr.com/tumblr_lhgrvgFJga1qzbc4f.jpg" alt=""></p>
+<p>Did you ever read the <a href="http://en.wikipedia.org/wiki/Hacker_Manifesto">Hacker’s
+Manifesto</a>? If not, you
+can read it <a href="http://www.mithral.com/~beberg/manifesto.html">here</a>,
+<a href="http://www.technozen.com/manifesto.htm">here</a>, and
+<a href="http://www.phrack.org/issues.html?issue=7&amp;id=3#article">here</a>. I
+thought it made sense to link to it more than once just in case you read
+this post years later and one of the links is dead. I remember when I
+first read it. It was almost 12 years ago. It sent chills down my spine.
+It made me feel like I was part of something special, something that
+just transcended my everyday life.</p>
+<p>A piece of literature circulated today that caught my eye. It’s titled:
+<a href="http://www.lycaeum.org/mv/M2/ventura.html">Someone is Stealing Your
+Life</a>. You should read it. I
+read the first few paragraphs, it felt like he was building a case for
+entrepreneurship. I was blinded by my open enthusiasm by how it made me
+feel. I thought this literary piece was going to turn out to be like the
+Hacker’s Manifesto. I thought it was the Entrepreneur’s Manifesto. And
+then I got mid-way through… and realized that the whole entire essay is
+a self-defeating piece of garbage.</p>
+<p><strong>You have a <em>choice</em>.</strong> </p>
+<p>You can work for someone else, or you can work for yourself. You can
+reduce your expenditures. You can opt to use your free time to learn or
+build a business.</p>
+<p>But you have a choice. Don’t ever let yourself believe otherwise, you’ll
+only set yourself up for failure.</p>
+<p>-JP</p>
+
+
+
+          <span id="footer">
+            <br/>
+            <span style="font-size: 10px">
+              Proudly built with <a href="https://github.com/skywrite">Sky</a>.
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>

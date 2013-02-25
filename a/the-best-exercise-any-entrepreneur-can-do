@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>The Best Exercise Any Entrepreneur Can Do</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="JP Richardson">
+    <mete name="description" content="">
+
+    <link href="http://netdna.bootstrapcdn.com/bootswatch/2.1.1/spacelab/bootstrap.min.css" rel="stylesheet">
+    <link href="/vendor/highlight.js/styles/vs.css" rel="stylesheet">
+    <!--<link href="style.css" rel="stylesheet">-->
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', '']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  </head>
+  <body>
+    
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid nav-container">
+          <nav role="navigation">
+            <a class="brand" title="" href="http://loudjet.com">loudjet</a>
+            
+            <p class="navbar-text pull-left">
+              Becoming a Better Human - Promoting tolerance of others, compassion for the suffering, and freedom of the individual
+            </p>
+          </nav>
+
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container-fluid">
+      <div id="content" class="clearfix row-fluid">
+        <div id="main" class="span8 clearfix" role="main">
+
+
+<h1>The Best Exercise Any Entrepreneur Can Do</h1>
+<p><img src="http://media.tumblr.com/tumblr_l0xz2hSLqP1qzbc4f.jpg" alt=""></p>
+<p>…is to blog.</p>
+<p>Here is why entrepreneurs should blog:</p>
+<p>​1) <strong>Crystalize Thoughts</strong> - Blogging forces you to think about your
+ideas. When you write down your ideas you began to think about them.
+Reflect up on them. To quote Harry Beckwith: “Writing helps you to
+crystallize your thoughts.”</p>
+<p>​2) <strong>Feedback on Ideas</strong> - Blogging puts your ideas on an open public
+forum for criticism. Often times you come up with what you think is a
+great idea. If you blog about that idea and then solicit feedback, you
+may be surprised on what you receive. In fact, your hot idea may turn
+out to be crap.</p>
+<p>​3) <strong>Forces Learning</strong> - Blogging helps you to learn. Often times you
+won’t write about what you know, you may write about what you don’t know
+about. Thus forcing you to research.</p>
+<p>​4) <strong>Improves Communication</strong> - Blogging helps you to be a better
+communicator. You are forced to explain your thoughts and ideas in a way
+that your intended audience can understand. We all know that great
+communication skills will never hurt any entrepreneur.</p>
+<p>​5) <strong>Create More Content</strong> - Blogging is an investment in your
+business. Each time you write an article about your ideas or thoughts,
+you are creating more content. More entry points for people to learn
+more about you and your business. Exposure is good.</p>
+<p>​6) <strong>Build Credibility</strong> - Blogging allows you to share your knowledge.
+Sharing your knowledge will help to improve your credibility and build
+your personal brand.</p>
+<p>\
+I consider blogging to be a necessary mental exercise. Much like
+physical exercise is necessary for our bodies to be healthy, blogging is
+necessary for our entrepreneurial minds to stay fresh, sharp, and
+nimble.\
+\
+Do you think blogging is necessary for entrepreneurs and businesses?</p>
+<p>You can follow me on
+Twitter <a href="http://twitter.com/jprichardson">@jprichardson</a></p>
+<p>-JP</p>
+
+
+
+          <span id="footer">
+            <br/>
+            <span style="font-size: 10px">
+              Proudly built with <a href="https://github.com/skywrite">Sky</a>.
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>

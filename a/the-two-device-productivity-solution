@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>The Two-Device Productivity Solution</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="JP Richardson">
+    <mete name="description" content="">
+
+    <link href="http://netdna.bootstrapcdn.com/bootswatch/2.1.1/spacelab/bootstrap.min.css" rel="stylesheet">
+    <link href="/vendor/highlight.js/styles/vs.css" rel="stylesheet">
+    <!--<link href="style.css" rel="stylesheet">-->
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', '']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  </head>
+  <body>
+    
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid nav-container">
+          <nav role="navigation">
+            <a class="brand" title="" href="http://loudjet.com">loudjet</a>
+            
+            <p class="navbar-text pull-left">
+              Becoming a Better Human - Promoting tolerance of others, compassion for the suffering, and freedom of the individual
+            </p>
+          </nav>
+
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container-fluid">
+      <div id="content" class="clearfix row-fluid">
+        <div id="main" class="span8 clearfix" role="main">
+
+
+<h1>The Two-Device Productivity Solution</h1>
+<p><img src="http://media.tumblr.com/tumblr_lirt0iOoN81qzbc4f.png" alt=""></p>
+<p>I’m Catholic and ‘tis the season of
+<a href="http://en.wikipedia.org/wiki/Lent">Lent</a>. Cue the jokes about fish and
+priests. It’s common for Catholics to sacrifice something during the
+time of Lent. So when you are
+<a href="http://www.urbandictionary.com/define.php?term=jonesing">jonesing</a> for
+a fix of what you sacrificed, you can reflect upon the life of Jesus.
+Along with the snooze button, I gave up Reddit and Hacker News.</p>
+<p>I spent *a lot* of time on these sites. At least one to two hours a
+day. Did I come out a better person after looking at these sites? In
+mosts cases, I’d say yes. Although, I know that there were a number of
+times when I’d click “compile” or “run tests” and if it took more than 5
+seconds or so, I’d head over to those sites after I had already visited
+them for the day and look for articles to read. Doing this ended up
+becoming an excuse to waste time. Hence the need to break my addiction.</p>
+<p>After a few days I started to really miss the quality content on Hacker
+News. The content that I actually felt that caused me to learn.
+Fortunately, Seth Godin wrote an intriguing article titled: <a href="http://sethgodin.typepad.com/seths_blog/2011/03/are-you-making-something.html">Are You
+Making
+Something?</a></p>
+<blockquote>
+<p>Making something is work. Let’s define work, for a moment, as
+something you create that has a lasting value in the market.</p>
+<p>…</p>
+<p>More and more, we’re finding it easy to get engaged with activities
+that feel like work, but aren’t. I can appear just as engaged (and
+probably enjoy some of the same endorphins) when I beat someone in
+Words With Friends as I do when I’m writing the chapter for a new
+book. The challenge is that the pleasure from winning a game fades
+fast, but writing a book contributes to readers (and to me) for years
+to come.</p>
+<p>One reason for this confusion is that we’re often using precisely the
+same device to do our work as we are to distract ourselves from our
+work. The distractions come along with the productivity. The boss (and
+even our honest selves) would probably freak out if we took hours of
+ping pong breaks while at the office, but spending the same amount of
+time engaged with others online is easier to rationalize. Hence this
+proposal:</p>
+<p><strong>The two-device solution</strong></p>
+<p>Simple but bold: Only use your computer for work. Real work. The work
+of making something.Have a second device, perhaps an iPad, and use it
+for games, web commenting, online shopping, networking… anything that
+doesn’t directly create valued output (no need to have an argument
+here about which is which, which is work and which is not… draw a
+line, any line, and separate the two of them. If you don’t like the
+results from that line, draw a new line).</p>
+<p>Now, when you pick up the iPad, you can say to yourself, “break time.”
+And if you find yourself taking a lot of that break time, you’ve just
+learned something important.</p>
+</blockquote>
+<p>TL;DR: We trick ourselves into thinking that browsing the internet is
+real work since we often use the computer for real work. Solution: find
+another device to do your browsing.</p>
+<p>I’ve since done this. I use my iPad for iPhone for Facebook, Hacker
+News, CNN, etc. Essentially anything that could be considered
+consumption. My laptop is now used for only production and real work.
+The only exceptions are research or browsing APIs which constitutes
+research.</p>
+<p>The image for this blog post is of my hosts file. I have set my favorite
+sites to point to localhost so that I can’t access them. This protects
+me if I were to slip up. All major operating systems use the same
+syntax, use <a href="http://en.wikipedia.org/wiki/Hosts_(file">this Wikipedia
+page</a>) to find the location of
+your hosts file for your OS so that you can protect you from yourself.</p>
+<p>Let me know how this goes for you.</p>
+<p>You might also enjoy:</p>
+<ol>
+<li><a href="http://techneur.com/post/3900181315/what-the-successful-will-do-that-you-wont">What the Successful Will Do that You
+Won’t</a></li>
+<li><a href="http://techneur.com/post/3484249692/dont-let-brain-prevent-your-goals">Don’t Let the Brain Prevent You From Your
+Goals</a></li>
+<li><a href="http://techneur.com/post/2924693147/large-iterations-slow-momentum">Large Iterations Slow
+Momentum</a></li>
+<li><a href="http://techneur.com/post/1479262807/changing-schedules-can-force-productivity">Changing Schedules can Force
+Productivity</a></li>
+</ol>
+<p>You should follow me on Twitter:
+<a href="http://twitter.com/jprichardson">@jprichardson</a></p>
+<p>-JP</p>
+
+
+
+          <span id="footer">
+            <br/>
+            <span style="font-size: 10px">
+              Proudly built with <a href="https://github.com/skywrite">Sky</a>.
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>

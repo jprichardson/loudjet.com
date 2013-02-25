@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Relationships &gt; Resumes</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="JP Richardson">
+    <mete name="description" content="">
+
+    <link href="http://netdna.bootstrapcdn.com/bootswatch/2.1.1/spacelab/bootstrap.min.css" rel="stylesheet">
+    <link href="/vendor/highlight.js/styles/vs.css" rel="stylesheet">
+    <!--<link href="style.css" rel="stylesheet">-->
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', '']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  </head>
+  <body>
+    
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid nav-container">
+          <nav role="navigation">
+            <a class="brand" title="" href="http://loudjet.com">loudjet</a>
+            
+            <p class="navbar-text pull-left">
+              Becoming a Better Human - Promoting tolerance of others, compassion for the suffering, and freedom of the individual
+            </p>
+          </nav>
+
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container-fluid">
+      <div id="content" class="clearfix row-fluid">
+        <div id="main" class="span8 clearfix" role="main">
+
+
+<h1>Relationships &gt; Resumes</h1>
+<p><img src="http://media.tumblr.com/tumblr_l5hli2XFLC1qzbc4f.jpg" alt=""></p>
+<p>I recently spoke with my girlfriend,
+<a href="http://kayleeconrad.com/" title="kayleeconrad.com">Kaylee</a>, about the
+possibility of her landing a job on the Coast (we live in Lincoln, NE).
+She’s a graphic artist and wanted to know if I’d move out there if she
+were offered job. My response was a sugar-coated, “Hell no.” I have all
+of my family and friends here and I’m in the middle of two start-ups.
+Beyond that, if you can’t make your dream job happen here, then why
+would the coast change anything? Hell, I don’t want to be on the coasts.
+I’ll admit, if I could move my <strong>entire</strong> friend/family network to nice
+warm beach, I would. But since I can’t, I don’t want to live in an area
+that is so financially over-leveraged.</p>
+<p>Instead, Kaylee needs to work on her base at home. What does that
+require? Exposure - and I’m not talking about the kind that will get you
+locked up. Exposure means getting out of the house. Going to
+professional functions and getting involved in your areas of interest.
+If you want to make local band sites, start out by asking your friends
+if they know a local band. Then, gasp, go see the band play! If you
+connect with their message and they need your services then you’re off.
+If they don’t have money, do the first job for cheap and tell them you
+want free promo space on their site/prints.</p>
+<p>The point is to start with your network base and move out. If someone
+moves to the coast, they may have a shiny new job but they’ll have to
+start all over again. And in this job market, that shine can turn dull
+in the blink of an eye.</p>
+<p>Exposure also means staying in the house. Whether it’s blogging,
+tweeting, or getting involved in online discussions, get your ideas on
+the web. After reading <a href="http://crushitbook.com/" title="crushitbook.com">Crush
+It</a>, Kaylee started her blog
+roll with 26 gut-busting titles covering a myriad of design topics. With
+a little forethought, her blog could be a hit in the next few years.
+Then, she’ll be writing her own future instead of relying on corporate
+America to notice her. After all, why build on some other business’s
+value and not your own? Why compete every year with hundreds of new
+graphic design grads who are fresh and willing to scrap? Instead,
+compete on something those grads haven’t been able to do: build a brand.
+While they were in school, you were out meeting bands and labels. While
+they were writing papers, you were writing blog posts and tutorials.
+While they were partying, you were partying, but at the right venues
+where you could scope out the music scene.</p>
+<p>We all know someone who has gotten hired because of someone they knew.
+That should be you. Forge the meaningful relationships and it will be.
+Remember, an impressive resume can get you a job, but with an impressive
+network, you can create your own.</p>
+<p><a href="http://twitter.com/brianlambelet" title="Follow Brian Lambelet on Twitter">Follow Me on
+Twitter</a></p>
+<p>-Brian Lambelet</p>
+
+
+
+          <span id="footer">
+            <br/>
+            <span style="font-size: 10px">
+              Proudly built with <a href="https://github.com/skywrite">Sky</a>.
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>

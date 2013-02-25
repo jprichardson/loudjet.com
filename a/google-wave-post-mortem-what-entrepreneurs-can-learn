@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Google Wave Post Mortem - What Entrepreneurs Can Learn</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="JP Richardson">
+    <mete name="description" content="">
+
+    <link href="http://netdna.bootstrapcdn.com/bootswatch/2.1.1/spacelab/bootstrap.min.css" rel="stylesheet">
+    <link href="/vendor/highlight.js/styles/vs.css" rel="stylesheet">
+    <!--<link href="style.css" rel="stylesheet">-->
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', '']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  </head>
+  <body>
+    
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid nav-container">
+          <nav role="navigation">
+            <a class="brand" title="" href="http://loudjet.com">loudjet</a>
+            
+            <p class="navbar-text pull-left">
+              Becoming a Better Human - Promoting tolerance of others, compassion for the suffering, and freedom of the individual
+            </p>
+          </nav>
+
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container-fluid">
+      <div id="content" class="clearfix row-fluid">
+        <div id="main" class="span8 clearfix" role="main">
+
+
+<h1>Google Wave Post Mortem - What Entrepreneurs Can Learn</h1>
+<p><img src="http://media.tumblr.com/tumblr_l6ovff5zAY1qzbc4f.jpg" alt=""></p>
+<p>You’ve undoubtedly heard by now that Google has <a href="http://googleblog.blogspot.com/2010/08/update-on-google-wave.html">killed Google
+Wave</a>.
+As there is a lot of discussion on it on various sites:</p>
+<ul>
+<li><a href="http://tech.slashdot.org/story/10/08/04/2129201/Google-Kills-Wave-Development">Slashdot: Google Kills Wave
+Development</a></li>
+<li><a href="http://tech.slashdot.org/story/10/08/05/1337254/Why-Wave-Failed">Slashdot: Why Wave
+Failed</a></li>
+<li><a href="http://www.reddit.com/r/programming/comments/cxh4x/google_kills_wave/">Reddit: Google Kills
+Wave</a></li>
+<li><a href="http://news.ycombinator.com/item?id=1575892">HN: Google Kills Wave</a></li>
+<li><a href="http://news.ycombinator.com/item?id=1576207">HN: Save Google Wave</a></li>
+</ul>
+<p>The feature list was amazing:</p>
+<ul>
+<li>Realtime collaboration.</li>
+<li>Realtime language translation.</li>
+<li>Context aware spellchecking. </li>
+<li>Drag &amp; drop file sharing.</li>
+<li>Instant replay of the chronological changes.</li>
+<li>Open sourced protocol so that anyone could run a Wave server.  </li>
+</ul>
+<p>The goal was audacious. They wanted to replace email. Their tagline was
+“Imagine what email would look like if it were invented today.” Very
+inspirational.</p>
+<p>Despite never really using it much, I’m disappointed. I watched
+the <a href="http://www.youtube.com/watch?v=v_UyVmITiYQ">Google I/O
+video</a> (<a href="http://www.youtube.com/watch?v=Itc4253kjhw">abridged</a>)
+about a year ago and thought it was pretty damn cool. I remember when I
+first got an invite. I was ecstatic! I opened it up and played around
+with it for about 10 mins. What now? I thought.</p>
+<p>Someone on Reddit commented that they thought Google Wave was like the
+having a telephone but not having anyone to call. Why didn’t Google Wave
+succeed?</p>
+<ul>
+<li>Was it because none of your friends or family were on it?</li>
+<li>Was it because it wasn’t backwards compatible with email?</li>
+<li>Was it because the Google Wave client (googlewave.com) was buggy?</li>
+<li>Was it because Google didn’t promote it enough? Maybe they could
+have integrated it with Gmail?</li>
+<li>Was it ahead of its time?</li>
+</ul>
+<p>I think we as entrepreneurs can glean a few lessons from the demise of
+Wave.</p>
+<ol>
+<li>Flashy technology rarely means shit. Don’t get caught up into
+building something just because it’s cool or looks awesome or has
+super whizbang gadgets and gizmos.</li>
+<li>Solving problems matters. Do people really have a communication
+problem on the internet that IM/Email/Forums/Wiki can’t solve?
+Before Stackoverflow was built, the
+creators <a href="http://stackoverflow.com/about">realized</a> that existing
+web Q&amp;A solutions suck. Email or IM don’t really suck for their
+intended use. </li>
+<li>If your product depends upon a <a href="http://en.wikipedia.org/wiki/Network_effect">network
+effect</a> to be
+successful, make sure everyone and their dog can use it right away.
+Yes, I know… Google had an invite system for Gmail. You see, Gmail
+could still be used to email users on other email systems. Google
+Wave was the only Wave system. Google shouldn’t have used invites
+only.</li>
+<li>Marketing matters. If no one knows about your product, no one will
+come to use it. You have to put it in people’s faces. Google could
+have leveraged Gmail to do this.</li>
+</ol>
+<p>All is not lost though. Fortunately a lot of the code is open sourced.
+I’m sure it’ll make it into other products. Maybe someone else will come
+out with a Wave implementation. Until then, I’ll keep using trusty old
+email.</p>
+<p>If you enjoyed this, you may enjoy:\
+-  <a href="http://techneur.com/post/675685717/steve-jobs-henry-ford">Steve Jobs Is This Century’s Henry
+Ford</a></p>
+<p>Follow me on Twitter: <a href="http://twitter.com/jprichardson">@jprichardson</a></p>
+<p>-JP</p>
+
+
+
+          <span id="footer">
+            <br/>
+            <span style="font-size: 10px">
+              Proudly built with <a href="https://github.com/skywrite">Sky</a>.
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>

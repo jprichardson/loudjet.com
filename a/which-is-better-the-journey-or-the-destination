@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Which Is Better: the Journey or the Destination?</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="JP Richardson">
+    <mete name="description" content="">
+
+    <link href="http://netdna.bootstrapcdn.com/bootswatch/2.1.1/spacelab/bootstrap.min.css" rel="stylesheet">
+    <link href="/vendor/highlight.js/styles/vs.css" rel="stylesheet">
+    <!--<link href="style.css" rel="stylesheet">-->
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', '']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  </head>
+  <body>
+    
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid nav-container">
+          <nav role="navigation">
+            <a class="brand" title="" href="http://loudjet.com">loudjet</a>
+            
+            <p class="navbar-text pull-left">
+              Becoming a Better Human - Promoting tolerance of others, compassion for the suffering, and freedom of the individual
+            </p>
+          </nav>
+
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container-fluid">
+      <div id="content" class="clearfix row-fluid">
+        <div id="main" class="span8 clearfix" role="main">
+
+
+<h1>Which Is Better: the Journey or the Destination?</h1>
+<p><img src="http://media.tumblr.com/tumblr_l65fb3LIop1qzbc4f.jpg" alt=""></p>
+<p>I’m struggling. I’m struggling with the journey. My feeling probably
+resembles that of <a href="http://en.wikipedia.org/wiki/Jack_Sparrow">Captain Jack
+Sparrow’s</a> feeling of when he
+didn’t have a boat - he was looking for a boat to commandeer. I’m
+looking for my boat. I’m struggling to balance all of my projects, being
+a great father, a great fiance, a great friend, and a great business
+partner. I’m struggling to identify my purpose.</p>
+<p>Don’t get me wrong. Life is amazing. I’m fortunate enough to have a
+healthy nine-year old son, a loving fiance, business partners who happen
+to be some of my best friends, an awesome day job, and a business that
+is generating some revenue. What more could a man ask for? I think that
+I would like are two things:</p>
+<ol>
+<li>A more narrowed focus. I feel too scatter brained with every project
+that is on my plate.</li>
+<li>Purpose. Ever since I was a child, I got immense joy out of helping
+others. The more lives that I can improve, the more fulfilled that I
+feel. I’ve learned this in my software projects. If a lot of people
+use my software and it improves their lives, then I feel wonderful.
+If it’s just software that a few people benefit from, I don’t feel
+as good as I think that I could. So then the question becomes: what
+is the software or technology that you can build to improve people’s
+lives?</li>
+</ol>
+<p>It’s been said that it’s not about the destination, but it’s about the
+journey. One thing is true, I feel like I’m living and loving life to
+the fullest. When I arrive at the destination, I will have the answer;
+but until then, I will continue to document my journey on this blog.</p>
+<p>What are your thoughts? Any wisdom to share?</p>
+<p>If you enjoyed this, you may enjoy:</p>
+<ol>
+<li><a href="http://techneur.com/post/844311929/a-pessimist-presupposes-failure-an-optimist">A Pessimist Presupposes Failure, an
+Optimist Presupposes Success</a></li>
+<li><a href="http://techneur.com/post/679425561/embrace-discomfort">Embrace
+Discomfort</a></li>
+<li><a href="http://techneur.com/post/615265667/learning-pains">Learning Pains</a></li>
+</ol>
+<p>Follow me on Twitter: <a href="http://twitter.com/jprichardson">@jprichardson</a></p>
+<p>-JP</p>
+
+
+
+          <span id="footer">
+            <br/>
+            <span style="font-size: 10px">
+              Proudly built with <a href="https://github.com/skywrite">Sky</a>.
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>

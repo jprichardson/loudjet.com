@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Don't Let the Brain Prevent You From Your Goals</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="JP Richardson">
+    <mete name="description" content="">
+
+    <link href="http://netdna.bootstrapcdn.com/bootswatch/2.1.1/spacelab/bootstrap.min.css" rel="stylesheet">
+    <link href="/vendor/highlight.js/styles/vs.css" rel="stylesheet">
+    <!--<link href="style.css" rel="stylesheet">-->
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', '']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  </head>
+  <body>
+    
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid nav-container">
+          <nav role="navigation">
+            <a class="brand" title="" href="http://loudjet.com">loudjet</a>
+            
+            <p class="navbar-text pull-left">
+              Becoming a Better Human - Promoting tolerance of others, compassion for the suffering, and freedom of the individual
+            </p>
+          </nav>
+
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container-fluid">
+      <div id="content" class="clearfix row-fluid">
+        <div id="main" class="span8 clearfix" role="main">
+
+
+<h1>Don&#39;t Let the Brain Prevent You From Your Goals</h1>
+<p><img src="http://media.tumblr.com/tumblr_lh4pua0HX81qzbc4f.jpg" alt=""></p>
+<p>Today is a huge day! New Macbook Pro’s were released! It’s Steve Jobs
+Birthday! It’s my five-year anniversary with my fiance! Zomg! To you, my
+dear reader, this information may be of little relevance to you. But
+what follows is.</p>
+<p>This month I’ve set a goal to do
+5000 <a href="http://artofmanliness.com/2010/01/27/the-burpee-the-one-exercise-to-rule-them-all/">burpees</a>.
+For you math wienies, that’s just about 180 burpees a day. A burpee is
+an exercise where you quickly drop to the ground like you’re going to do
+a pushup and then burst into the air like an excited cheerleader. They
+really suck; your legs should feel like battery acid was pumped through
+them if you do them quickly enough. I have 810 left.</p>
+<p>Last week I was hit with a multitude of unexpected problems related to
+my various consulting projects. This last weekend I had to attend a
+conference from Friday until Sunday afternoon. Early this week I didn’t
+feel the best. My typical routine is to go to the gym every morning and
+do 300 burpees along with some weight-lifting. I didn’t go into the gym
+at all this week, I thought I’d do more at home if I just focused on
+burpees. I overslept today, I haven’t done one burpee yet today.</p>
+<p>Do you see what’s happening? My brain is making small excuses as to why
+I shouldn’t achieve this goal. The brain wants to be comfortable. It
+likes to try to tell you why you shouldn’t do a task that will help you
+be successful. Your brain is trying to protect you.</p>
+<p>Seth Godin call’s it <a href="http://sethgodin.typepad.com/seths_blog/2010/01/quieting-the-lizard-brain.html">the
+Resistance</a>:</p>
+<blockquote>
+<p>The resistance is the voice in the back of our head telling us to back
+off, be careful, go slow, compromise. </p>
+</blockquote>
+<p>Next time your brain is trying to prevent you from achieving, force
+yourself to persevere.</p>
+<p>You might also enjoy:</p>
+<ol>
+<li><a href="http://techneur.com/post/2714027542/negativity-fear-and-the-lizard-brain">Negativity, Fear, and the Lizard
+Brain</a></li>
+<li><a href="http://techneur.com/post/679425561/embrace-discomfort">Embrace
+Discomfort</a></li>
+<li><a href="http://techneur.com/post/711982960/if-only">If Only</a></li>
+</ol>
+<p>-JP</p>
+
+
+
+          <span id="footer">
+            <br/>
+            <span style="font-size: 10px">
+              Proudly built with <a href="https://github.com/skywrite">Sky</a>.
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>

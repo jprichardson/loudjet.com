@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>How to Make Your Meetings 10x More Efficient</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="JP Richardson">
+    <mete name="description" content="">
+
+    <link href="http://netdna.bootstrapcdn.com/bootswatch/2.1.1/spacelab/bootstrap.min.css" rel="stylesheet">
+    <link href="/vendor/highlight.js/styles/vs.css" rel="stylesheet">
+    <!--<link href="style.css" rel="stylesheet">-->
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', '']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  </head>
+  <body>
+    
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid nav-container">
+          <nav role="navigation">
+            <a class="brand" title="" href="http://loudjet.com">loudjet</a>
+            
+            <p class="navbar-text pull-left">
+              Becoming a Better Human - Promoting tolerance of others, compassion for the suffering, and freedom of the individual
+            </p>
+          </nav>
+
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container-fluid">
+      <div id="content" class="clearfix row-fluid">
+        <div id="main" class="span8 clearfix" role="main">
+
+
+<h1>How to Make Your Meetings 10x More Efficient</h1>
+<p><img src="http://media.tumblr.com/tumblr_l4gg1uPuwf1qzbc4f.jpg" alt="Meetings"></p>
+<p>Our company, <a href="http://reflect7.com" title="reflect7.com">Reflect7</a>, used to
+meet twice a week. During these meetings, we would go over necessary
+action items and end up bullshitting for an hour or two in the process.
+It was great, except that productivity was taking a backseat to our ADD.
+We were losing momentum and each meeting felt like a hassle. Little was
+getting accomplished for the amount of time we spent together. By
+limiting our communication, we were able to turn it all around.</p>
+<p>Instead of meeting in person, we met on
+<a href="http://tinychat.com" title="tinychat.com">Tinychat.com</a>. Tinychat is a web
+app that lets you instantly create a video chat room. Because Corey and
+I share the same residence, tinychat is exceptionally slow with a lot of
+lag and echo. This makes us not want to talk. Since we have action items
+that are due, we still have to communicate our progress, but we no
+longer banter the night away. I find myself using a lot of head nods and
+thumbs up instead of speaking. It’s a hassle to speak, which limits what
+we want to talk about. No longer are we shooting the shit about
+relationships or new ideas. When we do speak, it is concise and to the
+point.</p>
+<p>Since we’ve incorporated this method, there has been a change in
+momentum. When meetings are sluggish and slow, we felt it. But now they
+are fast and efficient, and we feel it too. It rubs off on us. Let’s
+face it, with multiple people, are multiple distractions. Our goal is to
+eliminate these distractions.</p>
+<p>We still meet in person when it’s necessary. The bond that creates a
+partnership can never be trumped by the internet. However, we also meet
+outside of our business setting. We’ll roll out together to South
+Lincoln for a night of fun or get together on the weekends. This is when
+we pitch our crazy ideas and talk about our relationships, experiences,
+and enlightenments.</p>
+<p><strong>Bottom Line</strong></p>
+<p>If your meetings are slowing you down, restrict communication. Doing so
+will limit the amount of fluff that each member contributes. Tangents
+will decrease as people are no longer able to share elongated stories or
+anecdotes. When you do this, make sure to set aside time for
+socialization where everyone can still connect on a personal level. The
+glue will still be there, it just doesn’t need to be applied every
+meeting.</p>
+<p><a href="http://twitter.com/brianlambelet" title="Follow me on Twitter">Follow me on
+Twitter</a></p>
+<p>-Brian Lambelet</p>
+
+
+
+          <span id="footer">
+            <br/>
+            <span style="font-size: 10px">
+              Proudly built with <a href="https://github.com/skywrite">Sky</a>.
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>

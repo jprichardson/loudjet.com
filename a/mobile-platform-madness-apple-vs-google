@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Mobile Platform Madness: Apple vs. Google</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="JP Richardson">
+    <mete name="description" content="">
+
+    <link href="http://netdna.bootstrapcdn.com/bootswatch/2.1.1/spacelab/bootstrap.min.css" rel="stylesheet">
+    <link href="/vendor/highlight.js/styles/vs.css" rel="stylesheet">
+    <!--<link href="style.css" rel="stylesheet">-->
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', '']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  </head>
+  <body>
+    
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid nav-container">
+          <nav role="navigation">
+            <a class="brand" title="" href="http://loudjet.com">loudjet</a>
+            
+            <p class="navbar-text pull-left">
+              Becoming a Better Human - Promoting tolerance of others, compassion for the suffering, and freedom of the individual
+            </p>
+          </nav>
+
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container-fluid">
+      <div id="content" class="clearfix row-fluid">
+        <div id="main" class="span8 clearfix" role="main">
+
+
+<h1>Mobile Platform Madness: Apple vs. Google</h1>
+<p><img src="http://media.tumblr.com/tumblr_l8u52r30X61qzbc4f.jpg" alt=""></p>
+<p><strong>Platform Madness</strong></p>
+<p>Over the past year-and-a-half, Reflect7 has been dealing with Apple as
+our sole mobile platform…and it almost killed us.</p>
+<p>Like other developers, we invested hundreds of man hours into a product,
+only to have it denied after a three week review process. That sort of
+lag will take the steam out of any engine. Our second denial nearly
+crippled us. Then, we did something crazy: we communicated to Apple. Our
+reviewer was very helpful. During the next update, our apps made it to
+the store without a hitch.</p>
+<p>Those stomach pains have been eliminated in the Android App Market. In
+an open-ecosystem, it’s much nicer. No worries about delays or denials
+from a cumbersome review process. The App Market is still messy, but
+Google arrived 6 months late to the app game and 22 months late to the
+mobile phone OS game.</p>
+<p>So where do we anticipate the most revenue? Right now, it’s Apple. We
+have more apps in their store with some decent exposure. As we convert
+more of our apps to the Android Market, I see the revenue for both
+platforms equaling out. I used to think that Apple would dominate.
+However, as I look back to the beginning of our iPhone apps, I didn’t
+see near as much traction as I’m seeing on the Android.</p>
+<p><strong>Advantage: Apple</strong></p>
+<p>The Apple App Store has paid out an outstanding 1B to it’s developers.
+That’s insane. The Google App Market has paid out around 21-24M. That’s
+about 2.4% of Apple’s payout. Here’s some of the contributing factors: </p>
+<ul>
+<li>The Apple App Store has about 6x as many paid apps on it (3x as many
+apps). </li>
+<li>Apple had first mover advantage by 6 months coupled with a superior
+mass of OS users at launch time</li>
+<li>Google failed to Launch with paid apps and, to this day, still
+doesn’t have paid apps in several App Market countries.</li>
+<li>Apple had a distribution model and active customers with the
+already-established iTunes at Launch.</li>
+<li>When comparing payouts, Google app numbers are inflated. A ton of
+these apps are spam apps that wouldn’t even make it on the Apple App
+Store.</li>
+</ul>
+<p>The first-mover advantage is huge because that gave Apple the ability to
+lock developers in for an entire development cycle. We ran into this.
+Why would we allocate resources to develop for a new platform when we’re
+already busting balls to just get out our next iPhone update?
+Eventually, we outsourced the job, finished our development cycle, and
+came back to tweak before releasing.</p>
+<p><strong>Less Developers = Less Competition</strong></p>
+<p>Our apps will perform well on the Android because there’s an obvious gap
+in competition and an exponentially increasing user base.</p>
+<p>Some have said that Android users don’t buy apps. Supposedly, Apple
+users spend more per app, buy more apps, and shit skittles. I call
+bullshit. Apple users aren’t any different than Android users when it
+comes to their app-purchasing DNA. As stated above, the number of
+purchase-worthy apps on the Android is significantly less than iOS.
+Apple also has better search functionality and prefilters quality.</p>
+<p>The best way to work against the spam is to position yourself above it.
+By pricing ourselves higher than everybody else in our field, we’re
+portraying greater quality. Customers probe deeper by checking our app
+description and detailed pics. The Android market gives them a 24 hour
+grace period with every app so users can decide for themselves. The
+important part here is to attract attention with the initial price
+positioning.</p>
+<p><strong>Conclusion</strong></p>
+<p>Customers gravitate towards user experience and developers follow
+customers. But rather quickly, Google has stepped up it’s game in terms
+of user-experience (I just got the Samsung Fascinate and it rocks) and
+OS adoption. It’s open platform policy gives Android a huge
+number-of-device advantage. That little robot is showing up on all sorts
+of phones. Despite all of Apple’s initial advantages, the Android OS is
+narrowing the gap.</p>
+<p>The cool thing for us is that developers are still flocking to the
+iPhone because reports are showing little aggregate revenue for the App
+Market. They aren’t realizing that a little piece of a huge Apple Pie is
+the same as a huge piece of a litte Google Pie. For our sake, I hope
+they keep listening :)</p>
+<p>If you liked this you may like:</p>
+<ol>
+<li><a href="http://techneur.com/post/1126039921/10-things-ive-learned-about-the-android-market" title="10 things I&#39;ve Learned About The Android Market">10 things I’ve Learned About The Android
+Market</a></li>
+<li><a href="http://techneur.com/post/537695552/iads-secret-sauce-how-apples-recipe-will-cause-a" title="iAds Secret Sauce: How Apple&#39;s Recipe Will Cause a Paradigm Shift">iAds Secret Sauce: How Apple’s Recipe Will Cause a Paradigm
+Shift</a></li>
+<li><a href="http://techneur.com/post/1046726534/are-you-a-commodity-foursquare-facebook-location" title="Are You a Commodity? Foursquare &gt; Facebook Location">Are You a Commodity? Foursquare > Facebook
+Location</a></li>
+</ol>
+<p>-Brian</p>
+
+
+
+          <span id="footer">
+            <br/>
+            <span style="font-size: 10px">
+              Proudly built with <a href="https://github.com/skywrite">Sky</a>.
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>

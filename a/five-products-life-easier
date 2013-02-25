@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Five Products That Would Make My Life Easier</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="JP Richardson">
+    <mete name="description" content="">
+
+    <link href="http://netdna.bootstrapcdn.com/bootswatch/2.1.1/spacelab/bootstrap.min.css" rel="stylesheet">
+    <link href="/vendor/highlight.js/styles/vs.css" rel="stylesheet">
+    <!--<link href="style.css" rel="stylesheet">-->
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', '']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  </head>
+  <body>
+    
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid nav-container">
+          <nav role="navigation">
+            <a class="brand" title="" href="http://loudjet.com">loudjet</a>
+            
+            <p class="navbar-text pull-left">
+              Becoming a Better Human - Promoting tolerance of others, compassion for the suffering, and freedom of the individual
+            </p>
+          </nav>
+
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container-fluid">
+      <div id="content" class="clearfix row-fluid">
+        <div id="main" class="span8 clearfix" role="main">
+
+
+<h1>Five Products That Would Make My Life Easier</h1>
+<p><img src="http://media.tumblr.com/tumblr_l1mn8fh9By1qzbc4f.jpg" alt=""></p>
+<p>I would love to see these products. As an entrepreneur, I’m
+always incessantly looking for ways to improve my life. You may be
+wondering, why don’t I work on any of these if I agree with the
+“<a href="http://techneur.com/post/550060849/rework">scratch your own itch</a>” or
+“solve your own problems” mantras. Well, I just might. =)</p>
+<p><strong>Audio Book/eBook/Hard Copy Deal</strong>\
+I realize that I can have all three now. But publishers should really
+create a package deal that has all three products discounted. I love my
+<a href="http://techneur.com/post/519935580/ipad-smart-monkey">iPad for
+reading</a>. It stays
+in my car constantly. When I have some dead time in my car or an office,
+I pull out my iPad and start reading. I run about three miles daily. I
+typically listen to audio books. Sometimes I find myself wanting the
+tangible feel of a book. Whether it’s outside in the bright sun, or
+laying on a couch. At times, a book just feels natural. Admittedly, this
+is probably due to my bias of using books for years; over time I’m sure
+this will change. Is anyone at Amazon listening?</p>
+<p><strong>Mint For Business</strong>\
+I know what you’re thinking, why don’t I just use Mint for my business?
+Mint is cute. I can tag and categorize each transaction. That’s it. I
+want to easily generate P&amp;L statements. I want total control of my
+business finances. I want to see how much I spent on software last year
+(I know Mint can do this). The real value lies in the aggregate. How
+many other companies with 5 to 15 employees are receiving similar
+revenues? How many other companies in the software industry are spending
+as much as I am on personnel? The possibilities are endless. Remember,
+the value is in the aggregate. Steal this idea. If you can execute like
+<a href="http://en.wikipedia.org/wiki/Aaron_Patzer">Aaron Patzer</a>, you’ll
+probably make a Mint. Sorry for the lame joke.</p>
+<p><strong>Project Planning Softwar</strong>e\
+Ya, ya… there are <a href="http://basecamphq.com/">a lot</a> of
+<a href="http://office.microsoft.com/en-us/project/default.aspx">them</a>
+<a href="http://www.scrumd.com/">out</a> <a href="http://agilezen.com/">there</a>. I’ve tried
+most of them. In search for the perfect product. None of them fits the
+bill. I’m looking for a real simple piece of software for me to be able
+to list my projects and then be able to plan my iterations. I’m actually
+working on this one. I call it Plansation. Hopefully I can show you a
+working build before the end of my life.</p>
+<p><strong>An All Knowing/Smart Location Network</strong>\
+I want a service where I can find out which restaurant is having deals
+around me. Which bar is having happy hour specials. What do my friends
+think of this hole-in-the-wall restaurant? How much will it cost to get
+my slacks pressed somewhere near my hotel? We have articulated this
+vision a bit <a href="http://reflect7.com/vision">here</a>. Guess what? There’s an
+<a href="http://siri.com/">app</a> for that. At least one that’s pretty damn close.
+Oh ya, <a href="http://techcrunch.com/2010/04/28/apple-buys-virtual-personal-assistant-startup-siri/">Apple bought them
+yesterday</a>. </p>
+<p><strong>Social Network For Entrepreneurs</strong>\
+I currently use <a href="http://news.ycombinator.com">Hacker News</a>,
+<a href="http://foundersmix.com">FoundersMix</a>,
+<a href="http://answers.onstartups.com">Answers.OnStartups</a>, <a href="http://startupnation.com">Startup
+Nation</a>, and LinkedIn (although, I think
+LinkedIn is a joke). But none of them encourage connecting with other
+entrepreneurs. In order to succeed, we need to <a href="http://techneur.com/post/532671751/finest-way-to-succeed">help each
+other</a>. We
+must share business ideas and strategies. All of the sites listed
+fail miserably at this. You had better steal this idea too, because I
+will eventually work on this as well.</p>
+<p>What products and services would make your life easier?</p>
+<p>You can follow me on
+Twitter <a href="http://twitter.com/jprichardson">@jprichardson</a></p>
+<p>-JP</p>
+
+
+
+          <span id="footer">
+            <br/>
+            <span style="font-size: 10px">
+              Proudly built with <a href="https://github.com/skywrite">Sky</a>.
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>

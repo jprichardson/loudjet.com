@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Legacy is Greater than Currency</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="JP Richardson">
+    <mete name="description" content="">
+
+    <link href="http://netdna.bootstrapcdn.com/bootswatch/2.1.1/spacelab/bootstrap.min.css" rel="stylesheet">
+    <link href="/vendor/highlight.js/styles/vs.css" rel="stylesheet">
+    <!--<link href="style.css" rel="stylesheet">-->
+
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+      <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', '']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+  </head>
+  <body>
+    
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid nav-container">
+          <nav role="navigation">
+            <a class="brand" title="" href="http://loudjet.com">loudjet</a>
+            
+            <p class="navbar-text pull-left">
+              Becoming a Better Human - Promoting tolerance of others, compassion for the suffering, and freedom of the individual
+            </p>
+          </nav>
+
+            <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </a>
+
+
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="container-fluid">
+      <div id="content" class="clearfix row-fluid">
+        <div id="main" class="span8 clearfix" role="main">
+
+
+<h1>Legacy is Greater than Currency</h1>
+<p><img src="http://media.tumblr.com/tumblr_lg9cabbR781qzbc4f.jpg" alt=""></p>
+<blockquote>
+<p><a href="http://garyvaynerchuk.com/post/78887853/legacy-is-greater-than-currency">Legacy is greater than
+currency.</a>
+- Gary Vaynerchuk</p>
+</blockquote>
+<p>This is one of my favorite Gary Vaynerchuk quotes. The premise is
+simple: if you focus on the long term or the “big picture” as Gary likes
+to say and not settle on short-term gains, the currency will come.</p>
+<p>Wath the video:</p>
+<p> <a href="http://shanemac.me/">Shane Mac</a> recently wrote an <a href="http://blog.shanemac.me/the-reason-i-check-in-isnt-what-you-think">article on why he
+uses Foursquare or Gowalla to checkin at
+places</a>.
+Shane writes:</p>
+<blockquote>
+<p>In the end, life is all about the story we create of it but
+remembering the story just got much easier. Here’s to a better world,
+better communication and spending more time with the people who
+matter. The fact that every single thing I do will be a story about my
+entire life that hopefully my kids or grandkids can read in the future
+really makes me want to do better, and more everyday. I never met my
+Grandpa but I’d love to know if he drank at the same bars that I do.
+I’d love to just know what he thought, how he acted and if he was a
+spitting image of his grandson today.</p>
+<p>Do you realize that every generation from now on will know exactly who
+we were, what we liked, where we went and who we were associated with?
+That’s why we should always ask ourselves;</p>
+<p>What’s my legacy?</p>
+<p>You are the only one who can write it nowadays. Not stories passed
+along. Not wise tales. Just truth. I think about that everyday.</p>
+</blockquote>
+<p>After watching Gary’s video and reading Shane’s post, it could be
+thought that both points are only related by the word “legacy.” </p>
+<p>Gary is encouraging us to focus on our personal brand and making
+decisions based upon the long-term. Despite that he says “… the currency
+will come” he is not encouraging us to focus on our legacy for the sake
+of currency. That’s just a side benefit. He is encouraging our focus on
+the long-term because customers will notice, friends will notice, and
+people will notice. He is encouraging it because it’s the <a href="http://lesswrong.com/lw/sm/the_meaning_of_right/">right thing
+to do</a>. This will all
+have a side-effect of improving our business. Our lives. Ourselves.</p>
+<p>Shane is encouraging us to question our legacy. For the first time in
+human history, we are presented with technology that allows us to write
+[not in the literal sense] our history as Shane points out by using
+check-in software.</p>
+<p>Both Shane and Gary indirectly and directly encourage us to use
+technology to build our legacy. We can use this technology to improve
+ourselves, our business, and our legacy. </p>
+<p>You might also enjoy:</p>
+<ol>
+<li><a href="http://techneur.com/post/524363996/the-best-exercise-any-entrepreneur-can-do">The Best Exercise Any Entrepreneur Can
+Do</a></li>
+<li><a href="http://techneur.com/post/618759385/legacy-is-not-purpose">Legacy is not
+Purpose</a></li>
+<li><a href="http://techneur.com/post/542183349/family-number-one">Always Remember Number
+One</a></li>
+</ol>
+<p>Tweet me: <a href="http://twitter.com/jprichardson">@jprichardson</a></p>
+<p>-JP</p>
+
+
+
+          <span id="footer">
+            <br/>
+            <span style="font-size: 10px">
+              Proudly built with <a href="https://github.com/skywrite">Sky</a>.
+            </span>
+          </span>
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>
