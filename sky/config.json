@@ -1,0 +1,15 @@
+{
+  "blog": {
+    "name": "techneur",
+    "url": "http://techneur.com/",
+    "tagline": "Where technology and entrepreneurship meet and entrepreneurial experiences for the hungry & nimble mind."
+  },
+  "articles": {
+    "urlformat": "{{slug}}",
+    "index": "index.html"
+  },
+  "build": {
+    "outputDir": "public/"
+  },
+  "partials": {}
+}
