@@ -1,6 +1,6 @@
 <!--
 id: 811177825
-link: http://techneur.com/post/811177825/leveraging-social-capital-eight-circle-of-hell
+link: http://loudjet.com/a/leveraging-social-capital-eight-circle-of-hell
 slug: leveraging-social-capital-eight-circle-of-hell
 date: Wed Jul 14 2010 10:45:00 GMT-0500 (CDT)
 publish: 2010-07-014

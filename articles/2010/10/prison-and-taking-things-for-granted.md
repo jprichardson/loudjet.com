@@ -1,6 +1,6 @@
 <!--
 id: 1343691145
-link: http://techneur.com/post/1343691145/prison-and-taking-things-for-granted
+link: http://loudjet.com/a/prison-and-taking-things-for-granted
 slug: prison-and-taking-things-for-granted
 date: Mon Oct 18 2010 05:07:51 GMT-0500 (CDT)
 publish: 2010-10-018

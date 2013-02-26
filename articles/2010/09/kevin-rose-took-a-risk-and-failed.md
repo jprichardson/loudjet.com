@@ -1,6 +1,6 @@
 <!--
 id: 1196807008
-link: http://techneur.com/post/1196807008/kevin-rose-took-a-risk-and-failed
+link: http://loudjet.com/a/kevin-rose-took-a-risk-and-failed
 slug: kevin-rose-took-a-risk-and-failed
 date: Sun Sep 26 2010 23:04:47 GMT-0500 (CDT)
 publish: 2010-09-026
@@ -46,10 +46,10 @@ risk will help you to achieve your dreams.
 You might also like:
 
 1.  [Discipline Is the Strength That Will Make Our Future Selves
-    Proud](http://techneur.com/post/1017665420/discipline-is-the-strength-to-do-things-that-will-make)
+    Proud](http://loudjet.com/a/discipline-is-the-strength-to-do-things-that-will-make)
 2.  [Winning Isn’t Everything, It’s the Only
-    Thing](http://techneur.com/post/800712804/winning-isnt-everything-its-the-only-thing)
-3.  [If Only](http://techneur.com/post/711982960/if-only)
+    Thing](http://loudjet.com/a/winning-isnt-everything-its-the-only-thing)
+3.  [If Only](http://loudjet.com/a/if-only)
 
 Follow me on Twitter: @jprichardson
 

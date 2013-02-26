@@ -1,6 +1,6 @@
 <!--
 id: 1126039921
-link: http://techneur.com/post/1126039921/10-things-ive-learned-about-the-android-market
+link: http://loudjet.com/a/10-things-ive-learned-about-the-android-market
 slug: 10-things-ive-learned-about-the-android-market
 date: Wed Sep 15 2010 06:24:00 GMT-0500 (CDT)
 publish: 2010-09-015
@@ -79,12 +79,12 @@ result. I trust that Google will execute.
 If you enjoyed this, you might enjoy:
 
 1.  [Google Wave Post Mortem - What Entrepreneurs Can
-    Learn](http://techneur.com/post/908299611/google-wave-post-mortem-what-entrepreneurs-can-learn)
+    Learn](http://loudjet.com/a/google-wave-post-mortem-what-entrepreneurs-can-learn)
 2.  [Give Your Customers a Story to
-    Tell](http://techneur.com/post/830872725/give-your-customers-a-story-to-tell)
+    Tell](http://loudjet.com/a/give-your-customers-a-story-to-tell)
 3.  [It’s All Our Fault, Why Building a Business on the App Store is a
     Losing
-    Proposition](http://techneur.com/post/440686528/its-all-our-fault-why-building-a-business-on-the)
+    Proposition](http://loudjet.com/a/its-all-our-fault-why-building-a-business-on-the)
 
 -Brian
 

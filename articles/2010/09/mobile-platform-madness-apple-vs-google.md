@@ -1,6 +1,6 @@
 <!--
 id: 1131451546
-link: http://techneur.com/post/1131451546/mobile-platform-madness-apple-vs-google
+link: http://loudjet.com/a/mobile-platform-madness-apple-vs-google
 slug: mobile-platform-madness-apple-vs-google
 date: Thu Sep 16 2010 05:56:47 GMT-0500 (CDT)
 publish: 2010-09-016
@@ -102,11 +102,11 @@ they keep listening :)
 If you liked this you may like:
 
 1.  [10 things I’ve Learned About The Android
-    Market](http://techneur.com/post/1126039921/10-things-ive-learned-about-the-android-market "10 things I've Learned About The Android Market")
+    Market](http://loudjet.com/a/10-things-ive-learned-about-the-android-market "10 things I've Learned About The Android Market")
 2.  [iAds Secret Sauce: How Apple’s Recipe Will Cause a Paradigm
-    Shift](http://techneur.com/post/537695552/iads-secret-sauce-how-apples-recipe-will-cause-a "iAds Secret Sauce: How Apple's Recipe Will Cause a Paradigm Shift")
+    Shift](http://loudjet.com/a/iads-secret-sauce-how-apples-recipe-will-cause-a "iAds Secret Sauce: How Apple's Recipe Will Cause a Paradigm Shift")
 3.  [Are You a Commodity? Foursquare \> Facebook
-    Location](http://techneur.com/post/1046726534/are-you-a-commodity-foursquare-facebook-location "Are You a Commodity? Foursquare > Facebook Location")
+    Location](http://loudjet.com/a/are-you-a-commodity-foursquare-facebook-location "Are You a Commodity? Foursquare > Facebook Location")
 
 -Brian
 

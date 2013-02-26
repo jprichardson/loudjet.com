@@ -1,6 +1,6 @@
 <!--
 id: 2417992256
-link: http://techneur.com/post/2417992256/yes-i-really-do-want-one-million-dollars
+link: http://loudjet.com/a/yes-i-really-do-want-one-million-dollars
 slug: yes-i-really-do-want-one-million-dollars
 date: Wed Dec 22 2010 12:00:00 GMT-0600 (CST)
 publish: 2010-12-022
@@ -61,11 +61,11 @@ and…
 You might also enjoy:
 
 1.  [So You Want to Become
-    Rich?](http://techneur.com/post/1012320994/so-you-want-to-become-rich)
+    Rich?](http://loudjet.com/a/so-you-want-to-become-rich)
 2.  [The Dream: How Gurbaksh Chahal Made Over \$100 Million
-    Dollars](http://techneur.com/post/783919676/the-dream-gurbaksh-chahal)
+    Dollars](http://loudjet.com/a/the-dream-gurbaksh-chahal)
 3.  [Admirable
-    Simplicity](http://techneur.com/post/594481128/admirable-simplicity)
+    Simplicity](http://loudjet.com/a/admirable-simplicity)
 
 Let’s Tweet: [@jprichardson](http://twitter.com/jprichardson)
 

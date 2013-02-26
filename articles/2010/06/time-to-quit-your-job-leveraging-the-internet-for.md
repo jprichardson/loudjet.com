@@ -1,6 +1,6 @@
 <!--
 id: 744940238
-link: http://techneur.com/post/744940238/time-to-quit-your-job-leveraging-the-internet-for
+link: http://loudjet.com/a/time-to-quit-your-job-leveraging-the-internet-for
 slug: time-to-quit-your-job-leveraging-the-internet-for
 date: Mon Jun 28 2010 02:58:00 GMT-0500 (CDT)
 publish: 2010-06-028
@@ -15,9 +15,9 @@ Time to Quit Your Job: Leveraging the Internet for Content Distribution (3 of 3)
 
 In the last two installments of “Time to Quit Your Job” you’ve gained
 [The
-Motivation](http://techneur.com/post/707087897/time-to-quit-your-job-the-motivation-part-1-of-3 "Techneur: Time to Quit Your Job: The Motivation (Part 1 of 3)")
+Motivation](http://loudjet.com/a/time-to-quit-your-job-the-motivation-part-1-of-3 "Techneur: Time to Quit Your Job: The Motivation (Part 1 of 3)")
 and you’ve [Fought for
-Flight](http://techneur.com/post/720958036/time-to-quit-your-job-fight-for-flight-2-of-3 "Time to Quit Your Job: Fight For Flight (2 of 3)"),
+Flight](http://loudjet.com/a/time-to-quit-your-job-fight-for-flight-2-of-3 "Time to Quit Your Job: Fight For Flight (2 of 3)"),
 now it’s time to Spread Your Wings.
 
 The internet is the ultimate equalizer for small businesses. [Gary

@@ -1,6 +1,6 @@
 <!--
 id: 835563629
-link: http://techneur.com/post/835563629/wow-youve-changed
+link: http://loudjet.com/a/wow-youve-changed
 slug: wow-youve-changed
 date: Tue Jul 20 2010 03:08:39 GMT-0500 (CDT)
 publish: 2010-07-020
@@ -80,7 +80,7 @@ for the better.
 If you liked this blog post, you should check out:
 
 ​1) [Embrace
-Discomfort](http://techneur.com/post/679425561/embrace-discomfort "Techneur: Embrace Discomfort")
+Discomfort](http://loudjet.com/a/embrace-discomfort "Techneur: Embrace Discomfort")
 
 [Follow Me on
 Twitter](http://twitter.com/brianlambelet "Follow Brian Lambelet on Twitter")

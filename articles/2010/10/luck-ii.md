@@ -1,6 +1,6 @@
 <!--
 id: 1321568428
-link: http://techneur.com/post/1321568428/luck-ii
+link: http://loudjet.com/a/luck-ii
 slug: luck-ii
 date: Fri Oct 15 2010 13:28:48 GMT-0500 (CDT)
 publish: 2010-10-015
@@ -13,7 +13,7 @@ Luck II
 
 ![](http://media.tumblr.com/tumblr_lacgnkxrq41qzbc4f.jpg)
 
-I’ve wrote about [Luck](http://techneur.com/post/948686582/luck) before,
+I’ve wrote about [Luck](http://loudjet.com/a/luck) before,
 but I’m not sure I made my point as eloquently as I would have liked.
 Recently, I was having a discussion on Hacker News about the value of
 ideas. I made the following comment:

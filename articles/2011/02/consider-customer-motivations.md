@@ -1,6 +1,6 @@
 <!--
 id: 3318455009
-link: http://techneur.com/post/3318455009/consider-customer-motivations
+link: http://loudjet.com/a/consider-customer-motivations
 slug: consider-customer-motivations
 date: Tue Feb 15 2011 19:15:32 GMT-0600 (CST)
 publish: 2011-02-015
@@ -68,7 +68,7 @@ Zero people showed up for Martin Luther King. It was for themselves, it
 was for the shared belief, the shared dream. It made them feel good.
 
 When discussing [Tribal
-Fan](http://techneur.com/post/1406631916/announcing-tribal-fan) the
+Fan](http://loudjet.com/a/announcing-tribal-fan) the
 other night, we assembled a list of things that fans do to show their
 passion and love for their teams.
 
@@ -94,11 +94,11 @@ Photo Credit:
 You might also enjoy:
 
 1.  [Steve Jobs Lesson on Marketing and
-    Beliefs](http://techneur.com/post/1035350505/steve-jobs-lesson-on-marketing-values-and-belief)
+    Beliefs](http://loudjet.com/a/steve-jobs-lesson-on-marketing-values-and-belief)
 2.  [Sports Fans and
-    Identities](http://techneur.com/post/3049599495/sports-fans-and-identities)
+    Identities](http://loudjet.com/a/sports-fans-and-identities)
 3.  [Announcing Tribal
-    Fan](http://techneur.com/post/1406631916/announcing-tribal-fan)
+    Fan](http://loudjet.com/a/announcing-tribal-fan)
 
 You should follow me on Twitter:
 [@jprichardson](http://twitter.com/jprichardson)

@@ -1,6 +1,6 @@
 <!--
 id: 3178749659
-link: http://techneur.com/post/3178749659/unmotivated-get-some-layups
+link: http://loudjet.com/a/unmotivated-get-some-layups
 slug: unmotivated-get-some-layups
 date: Tue Feb 08 2011 02:41:54 GMT-0600 (CST)
 publish: 2011-02-08
@@ -79,11 +79,11 @@ comes, making that triple-team fader will seem easy.
 If you liked this article, you may enjoy:
 
 1.  [Sometimes Completing a Project is Better Than Anything
-    Else](http://techneur.com/post/1262270878/sometimes-completing-a-project-is-better-than-anything "Sometimes Completing a Project is Better Than Anything Else")
+    Else](http://loudjet.com/a/sometimes-completing-a-project-is-better-than-anything "Sometimes Completing a Project is Better Than Anything Else")
 2.  [Large Iterations Slow
-    Momentum](http://techneur.com/post/2924693147/large-iterations-slow-momentum "Large Iterations Slow Momentum")
+    Momentum](http://loudjet.com/a/large-iterations-slow-momentum "Large Iterations Slow Momentum")
 3.  [Commitment vs.
-    Involvement](http://techneur.com/post/1114058782/commitment-vs-involvement "Commitment vs. Involvement")
+    Involvement](http://loudjet.com/a/commitment-vs-involvement "Commitment vs. Involvement")
 
 -Brian
 

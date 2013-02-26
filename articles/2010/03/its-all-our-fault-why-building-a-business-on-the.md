@@ -1,6 +1,6 @@
 <!--
 id: 440686528
-link: http://techneur.com/post/440686528/its-all-our-fault-why-building-a-business-on-the
+link: http://loudjet.com/a/its-all-our-fault-why-building-a-business-on-the
 slug: its-all-our-fault-why-building-a-business-on-the
 date: Thu Mar 11 2010 00:24:00 GMT-0600 (CST)
 publish: 2010-03-011
@@ -17,7 +17,7 @@ It's All Our Fault: Why Building a Business on the Apple App Store is a Losing P
 
 Recently, my business partner [Brian](http://reflect7.com/about-us)
 wrote an
-[article](http://techneur.com/post/430123326/iphone-company-struggle-1)
+[article](http://loudjet.com/a/iphone-company-struggle-1)
 about us promoting an app on Apple’s App Store. One of our strategies
 was to leverage our existing customers of our NBA apps to promote [Final
 Madness](http://finalmadness.com). We had done this with our NCAA

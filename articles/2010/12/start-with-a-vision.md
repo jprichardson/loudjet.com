@@ -1,6 +1,6 @@
 <!--
 id: 2325415779
-link: http://techneur.com/post/2325415779/start-with-a-vision
+link: http://loudjet.com/a/start-with-a-vision
 slug: start-with-a-vision
 date: Wed Dec 15 2010 10:25:08 GMT-0600 (CST)
 publish: 2010-12-015
@@ -48,11 +48,11 @@ vision? Do you think it’s necessary to start with a good vision?
 You might also enjoy:
 
 1.  [Change the
-    World?](http://techneur.com/post/1291554735/change-the-world)
+    World?](http://loudjet.com/a/change-the-world)
 2.  [Build a Lifestyle Business or a Social
-    Empire](http://techneur.com/post/1360391727/build-a-lifestyle-business-or-build-a-social-empire)
+    Empire](http://loudjet.com/a/build-a-lifestyle-business-or-build-a-social-empire)
 3.  [Steve Jobs’ Lesson on
-    Marketing](http://techneur.com/post/1035350505/steve-jobs-lesson-on-marketing-values-and-belief)
+    Marketing](http://loudjet.com/a/steve-jobs-lesson-on-marketing-values-and-belief)
 
 You should follow me on Twitter:
 [@jprichardson](http://twitter.com/jprichardson)

@@ -1,6 +1,6 @@
 <!--
 id: 700354594
-link: http://techneur.com/post/700354594/project-managers-are-from-imaginationland
+link: http://loudjet.com/a/project-managers-are-from-imaginationland
 slug: project-managers-are-from-imaginationland
 date: Tue Jun 15 2010 03:25:00 GMT-0500 (CDT)
 publish: 2010-06-015
@@ -68,7 +68,7 @@ knew how to communicate, but she didn’t know what. Let me rephrase, she
 regurgitated the “what” without knowing the “why”.
 
 In
-[Rework](http://techneur.com/post/550060849/rework "JP's Rework Review"),
+[Rework](http://loudjet.com/a/rework "JP's Rework Review"),
 [Jason
 Fried](http://twitter.com/jasonfried "Follow Jason Fried on Twitter")
 and [D.H.H](http://twitter.com/dhh "Follow DHH on Twitter") argue that

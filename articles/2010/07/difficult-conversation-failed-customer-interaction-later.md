@@ -1,6 +1,6 @@
 <!--
 id: 821807701
-link: http://techneur.com/post/821807701/difficult-conversation-failed-customer-interaction-later
+link: http://loudjet.com/a/difficult-conversation-failed-customer-interaction-later
 slug: difficult-conversation-failed-customer-interaction-later
 date: Fri Jul 16 2010 21:27:00 GMT-0500 (CDT)
 publish: 2010-07-016
@@ -26,7 +26,7 @@ I understand he’s busy and has obligations but I think it’s common
 courtesy to let someone know you can’t make it if you say you will.
 
 Earlier today, I was reading my typical [RSS
-articles](http://techneur.com/post/649237455/less-consumption-more-production).
+articles](http://loudjet.com/a/less-consumption-more-production).
 I read Seth Godin’s latest article[A Hierarchy of Failure Worth
 Following](http://sethgodin.typepad.com/seths_blog/2010/07/a-hierarchy-of-failure.html).
 It’s small enough, I’m going to include the whole text:

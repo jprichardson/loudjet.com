@@ -1,6 +1,6 @@
 <!--
 id: 779731344
-link: http://techneur.com/post/779731344/use-a-weakness-to-develop-a-strength
+link: http://loudjet.com/a/use-a-weakness-to-develop-a-strength
 slug: use-a-weakness-to-develop-a-strength
 date: Tue Jul 06 2010 13:13:00 GMT-0500 (CDT)
 publish: 2010-07-06

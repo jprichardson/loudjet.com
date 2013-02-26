@@ -1,6 +1,6 @@
 <!--
 id: 844311281
-link: http://techneur.com/post/844311281/facebook-connects-us-and-disconnects-us
+link: http://loudjet.com/a/facebook-connects-us-and-disconnects-us
 slug: facebook-connects-us-and-disconnects-us
 date: Thu Jul 22 2010 02:59:00 GMT-0500 (CDT)
 publish: 2010-07-022
@@ -17,7 +17,7 @@ Facebook Connects Us, And Disconnects Us
 pics over the internet. More importantly, that’s a lot of people staying
 connected. Social websites allow you to look-in on your friends. [To
 feel like your in the
-know](http://techneur.com/post/840820906/leverage-simplicity-and-the-desire-for-information)
+know](http://loudjet.com/a/leverage-simplicity-and-the-desire-for-information)
 on their happenings and whereabouts. Facebook has helped me organize and
 attend events that I wouldn’t have known about. Facebook has also kept
 me complacent about my social network…
@@ -104,7 +104,7 @@ can send to 3/4ths of your “friends” on Facebook.
 **Conclusion**
 
 JP is right - [we are insecure about not
-knowing](http://techneur.com/post/840820906/leverage-simplicity-and-the-desire-for-information).
+knowing](http://loudjet.com/a/leverage-simplicity-and-the-desire-for-information).
 Social networks give us a way to stay informed in a very convenient way.
 Perhaps so convenient that we forget that with more connections, comes
 more dilution. In the meanwhile, I’m going to take a hint from Trailer
@@ -114,7 +114,7 @@ lawn.
 If You Liked This Blog Post, You Might Like:
 
 ​1) [Leverage Simplicity and the Desire For
-Information](http://techneur.com/post/840820906/leverage-simplicity-and-the-desire-for-information)
+Information](http://loudjet.com/a/leverage-simplicity-and-the-desire-for-information)
 
 [Follow Me On
 Twitter](http://twitter.com/brianlambelet "Follow Brian Lambelet on Twitter")

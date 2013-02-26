@@ -1,6 +1,6 @@
 <!--
 id: 591587708
-link: http://techneur.com/post/591587708/everyday-stories
+link: http://loudjet.com/a/everyday-stories
 slug: everyday-stories
 date: Wed May 12 2010 00:05:00 GMT-0500 (CDT)
 publish: 2010-05-012

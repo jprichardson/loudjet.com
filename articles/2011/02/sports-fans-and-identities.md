@@ -1,6 +1,6 @@
 <!--
 id: 3049599495
-link: http://techneur.com/post/3049599495/sports-fans-and-identities
+link: http://loudjet.com/a/sports-fans-and-identities
 slug: sports-fans-and-identities
 date: Tue Feb 01 2011 10:15:10 GMT-0600 (CST)
 publish: 2011-02-01
@@ -52,17 +52,17 @@ easier.
 My point is, if you’re looking for a market, I’m not sure that there is
 any better market than sports. That’s what [we
 do](http://reflect7.com/). And that’s what [Tribal
-Fan](http://techneur.com/post/1406631916/announcing-tribal-fan) will do.
+Fan](http://loudjet.com/a/announcing-tribal-fan) will do.
 Stay tuned.
 
 You might also enjoy:
 
 1.  [Announcing Tribal
-    Fan](http://techneur.com/post/1406631916/announcing-tribal-fan)
+    Fan](http://loudjet.com/a/announcing-tribal-fan)
 2.  [Starting a Software Business and Finding a Niche
-    Market](http://techneur.com/post/2747850007/starting-a-software-business-and-finding-a-niche-market)
+    Market](http://loudjet.com/a/starting-a-software-business-and-finding-a-niche-market)
 3.  [Negativity, Fear, and the Lizard
-    Brain](http://techneur.com/post/2714027542/negativity-fear-and-the-lizard-brain)
+    Brain](http://loudjet.com/a/negativity-fear-and-the-lizard-brain)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

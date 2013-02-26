@@ -1,6 +1,6 @@
 <!--
 id: 1001442707
-link: http://techneur.com/post/1001442707/death-of-books
+link: http://loudjet.com/a/death-of-books
 slug: death-of-books
 date: Mon Aug 23 2010 22:27:00 GMT-0500 (CDT)
 publish: 2010-08-023
@@ -52,14 +52,14 @@ Seth wrote:
 
 Gary Vaynurchuk was right. The internet is kicking every bit of
 traditional media in the pants. So what does this mean for
-[MindSpread](http://techneur.com/post/635311152/announcing-mindspread)?
+[MindSpread](http://loudjet.com/a/announcing-mindspread)?
 I’m not sure yet. But this is the only the beginning, how many other
 authors will follow suit?
 
 If you enjoyed this, you may enjoy:
 
 [Steve Job’s Is This Century’s Henry
-Ford](http://techneur.com/post/675685717/steve-jobs-henry-ford) 
+Ford](http://loudjet.com/a/steve-jobs-henry-ford) 
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

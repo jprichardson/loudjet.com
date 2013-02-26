@@ -1,6 +1,6 @@
 <!--
 id: 618759385
-link: http://techneur.com/post/618759385/legacy-is-not-purpose
+link: http://loudjet.com/a/legacy-is-not-purpose
 slug: legacy-is-not-purpose
 date: Fri May 21 2010 04:13:00 GMT-0500 (CDT)
 publish: 2010-05-021
@@ -25,7 +25,7 @@ and positive regard.  Not to mention the great feeling you get inside
 when you genuinely help someone.
 
 Recently, [Reflect7](http://reflect7.com) has discussed a [directional
-change](http://techneur.com/post/615265667/learning-pains). We’ve been
+change](http://loudjet.com/a/learning-pains). We’ve been
 entertaining the idea of dropping our Sports Apps and moving directly
 towards our main goal: to have a positive impact on the world.  The
 first step is to build a book sharing website dubbed Mindspread.  I’ve
@@ -38,7 +38,7 @@ months.  During the discussion, my partners have quoted Jason Fried’s,
 “[Inspiration is
 perishable](http://37signals.com/svn/posts/72-inspiration-is-magical).” 
 I’ve addressed that position
-[here](http://techneur.com/post/616413009/inspiration-is-not-perishable).
+[here](http://loudjet.com/a/inspiration-is-not-perishable).
 They’ve also quoted Gary V, “Legacy is more valuable than currency.”  My
 good buddies believe that we should scrap the apps and get right to our
 Legacy.  But now we’re muddying the vernacular waters.  Legacy is not

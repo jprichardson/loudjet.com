@@ -1,6 +1,6 @@
 <!--
 id: 4805888326
-link: http://techneur.com/post/4805888326/metaphors-and-marketing
+link: http://loudjet.com/a/metaphors-and-marketing
 slug: metaphors-and-marketing
 date: Thu Apr 21 2011 09:15:00 GMT-0500 (CDT)
 publish: 2011-04-021
@@ -40,11 +40,11 @@ Stories sell products. Use metaphors in advertising.
 You might also enjoy:
 
 1.  [Become Master of
-    Metaphors](http://techneur.com/post/2820528921/become-master-of-metaphors)
+    Metaphors](http://loudjet.com/a/become-master-of-metaphors)
 2.  [Literature and
-    Life](http://techneur.com/post/4777208702/literature-and-life)
+    Life](http://loudjet.com/a/literature-and-life)
 3.  [To Stand Out, You Must Dazzle Your
-    Customers](http://techneur.com/post/3565725520/to-stand-out-you-must-dazzle-your-customers)
+    Customers](http://loudjet.com/a/to-stand-out-you-must-dazzle-your-customers)
 
 Since you made it this far, you should follow me on Twitter:
 [@jprichardson](http://twitter.com/jprichardson)

@@ -1,6 +1,6 @@
 <!--
 id: 635311152
-link: http://techneur.com/post/635311152/announcing-mindspread
+link: http://loudjet.com/a/announcing-mindspread
 slug: announcing-mindspread
 date: Wed May 26 2010 17:00:00 GMT-0500 (CDT)
 publish: 2010-05-026
@@ -14,7 +14,7 @@ Announcing MindSpread: Pay-It-Forward for Books
 ![](http://media.tumblr.com/tumblr_l30sw9lqQx1qzbc4f.jpg)
 
 Recently, I wrote a review of the book
-[Rework](http://techneur.com/post/550060849/rework). I asked people to
+[Rework](http://loudjet.com/a/rework). I asked people to
 comment about their favorite business philosophy and I would buy them a
 copy of Rework for free. The only stipulation was that they had to give
 it to someone else. It was a success. Most people that I communicated
@@ -70,7 +70,7 @@ links.
 
 There is one problem, ~~we don’t have much time~~, we unfortunately
 can’t make this a [priority
-now](http://techneur.com/post/535211849/dont-have-the-time) to do this
+now](http://loudjet.com/a/dont-have-the-time) to do this
 by ourselves. But, we want to see this happen. I in conjunction with
 Reflect7 will pay for hosting, initial non-profit registration, and
 other misc. costs. I think that to build the MVP, it could be done in a

@@ -1,6 +1,6 @@
 <!--
 id: 4393309779
-link: http://techneur.com/post/4393309779/fear-and-loved-ones
+link: http://loudjet.com/a/fear-and-loved-ones
 slug: fear-and-loved-ones
 date: Wed Apr 06 2011 12:15:13 GMT-0500 (CDT)
 publish: 2011-04-06
@@ -38,11 +38,11 @@ prosper.
 You might also enjoy:
 
 1.  [What the Successful Will Do That You
-    Won’t](http://techneur.com/post/3900181315/what-the-successful-will-do-that-you-wont)
+    Won’t](http://loudjet.com/a/what-the-successful-will-do-that-you-wont)
 2.  [Don’t Let the Brain Prevent You From Your
-    Goals](http://techneur.com/post/3484249692/dont-let-brain-prevent-your-goals)
+    Goals](http://loudjet.com/a/dont-let-brain-prevent-your-goals)
 3.  [Fear of Producing
-    Crap](http://techneur.com/post/2300963597/fear-of-producing-crap)
+    Crap](http://loudjet.com/a/fear-of-producing-crap)
 
 If you made it this far, you should follow me on Twitter
 [@jprichardson](http://twitter.com/jprichardson)

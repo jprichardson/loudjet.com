@@ -1,6 +1,6 @@
 <!--
 id: 562354769
-link: http://techneur.com/post/562354769/we-have-a-duty
+link: http://loudjet.com/a/we-have-a-duty
 slug: we-have-a-duty
 date: Fri Apr 30 2010 22:44:00 GMT-0500 (CDT)
 publish: 2010-04-030

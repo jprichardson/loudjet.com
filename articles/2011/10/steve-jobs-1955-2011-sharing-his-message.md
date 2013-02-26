@@ -1,6 +1,6 @@
 <!--
 id: 11100816529
-link: http://techneur.com/post/11100816529/steve-jobs-1955-2011-sharing-his-message
+link: http://loudjet.com/a/steve-jobs-1955-2011-sharing-his-message
 slug: steve-jobs-1955-2011-sharing-his-message
 date: Thu Oct 06 2011 09:35:00 GMT-0500 (CDT)
 publish: 2011-10-06
@@ -60,7 +60,7 @@ As I tucked Chris into bed, I said to him:
 > are the ones that actually do.
 
 This quote came from an [old Steve Jobs
-presentation](http://techneur.com/post/1035350505/steve-jobs-lesson-on-marketing-values-and-belief).
+presentation](http://loudjet.com/a/steve-jobs-lesson-on-marketing-values-and-belief).
 
 Much has been said about how we probably heard the news about[Steve
 Jobs’s death via his
@@ -75,11 +75,11 @@ world?
 If you enjoyed this, you might also enjoy:
 
 1.  [Saddened by Steve’s
-    Departure](http://techneur.com/post/9374819200/saddened-by-steves-departure)
+    Departure](http://loudjet.com/a/saddened-by-steves-departure)
 2.  [Steve Jobs Lesson on Marketing: Values and
-    Belief](http://techneur.com/post/1035350505/steve-jobs-lesson-on-marketing-values-and-belief)
+    Belief](http://loudjet.com/a/steve-jobs-lesson-on-marketing-values-and-belief)
 3.  [Steve Jobs is This Century’s Henry
-    Ford](http://techneur.com/post/675685717/steve-jobs-henry-ford)
+    Ford](http://loudjet.com/a/steve-jobs-henry-ford)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

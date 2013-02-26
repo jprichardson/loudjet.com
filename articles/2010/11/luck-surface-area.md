@@ -1,6 +1,6 @@
 <!--
 id: 1516468079
-link: http://techneur.com/post/1516468079/luck-surface-area
+link: http://loudjet.com/a/luck-surface-area
 slug: luck-surface-area
 date: Mon Nov 08 2010 09:44:22 GMT-0600 (CST)
 publish: 2010-11-08
@@ -43,14 +43,14 @@ increase the likelihood of someone sharing your story, your content, or
 your products. In any case, it’s a win for you.
 
 Maybe you [start blog
-now](http://techneur.com/post/524363996/the-best-exercise-any-entrepreneur-can-do)?
+now](http://loudjet.com/a/the-best-exercise-any-entrepreneur-can-do)?
 
  You may enjoy:
 
 1.  [The Best Exercise Any Entrepreneur Can
-    Do](http://techneur.com/post/524363996/the-best-exercise-any-entrepreneur-can-do)
-2.  [Luck](http://techneur.com/post/948686582/luck)
-3.  [Luck II](http://techneur.com/post/1321568428/luck-ii)
+    Do](http://loudjet.com/a/the-best-exercise-any-entrepreneur-can-do)
+2.  [Luck](http://loudjet.com/a/luck)
+3.  [Luck II](http://loudjet.com/a/luck-ii)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

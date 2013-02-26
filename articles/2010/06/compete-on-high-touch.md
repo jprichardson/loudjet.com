@@ -1,6 +1,6 @@
 <!--
 id: 753257213
-link: http://techneur.com/post/753257213/compete-on-high-touch
+link: http://loudjet.com/a/compete-on-high-touch
 slug: compete-on-high-touch
 date: Wed Jun 30 2010 04:55:12 GMT-0500 (CDT)
 publish: 2010-06-030

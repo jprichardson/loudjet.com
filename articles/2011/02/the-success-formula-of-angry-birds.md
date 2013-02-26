@@ -1,6 +1,6 @@
 <!--
 id: 3199439574
-link: http://techneur.com/post/3199439574/the-success-formula-of-angry-birds
+link: http://loudjet.com/a/the-success-formula-of-angry-birds
 slug: the-success-formula-of-angry-birds
 date: Wed Feb 09 2011 09:45:15 GMT-0600 (CST)
 publish: 2011-02-09
@@ -163,10 +163,10 @@ Reads like a textbook case for success.
 You might also enjoy:
 
 1.  [So You Want to Become
-    Rich?](http://techneur.com/post/1012320994/so-you-want-to-become-rich)
-2.  [Luck II](http://techneur.com/post/1321568428/luck-ii)
+    Rich?](http://loudjet.com/a/so-you-want-to-become-rich)
+2.  [Luck II](http://loudjet.com/a/luck-ii)
 3.  [Luck Surface
-    Area](http://techneur.com/post/1516468079/luck-surface-area)
+    Area](http://loudjet.com/a/luck-surface-area)
 
 Tweet me: [@jprichardson](http://twitter.com/jprichardson)
 

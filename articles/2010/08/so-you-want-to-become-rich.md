@@ -1,6 +1,6 @@
 <!--
 id: 1012320994
-link: http://techneur.com/post/1012320994/so-you-want-to-become-rich
+link: http://loudjet.com/a/so-you-want-to-become-rich
 slug: so-you-want-to-become-rich
 date: Wed Aug 25 2010 22:30:00 GMT-0500 (CDT)
 publish: 2010-08-025
@@ -85,13 +85,13 @@ like?
 
 If you enjoyed this, you may enjoy:\
 1) [How Gurbaksh Chahal Made Over \$100 Million
-Dollars](http://techneur.com/post/783919676/the-dream-gurbaksh-chahal)
+Dollars](http://loudjet.com/a/the-dream-gurbaksh-chahal)
 
 2) [The Sport of
-Business](http://techneur.com/post/627751236/sport-of-business)
+Business](http://loudjet.com/a/sport-of-business)
 
 ​3) [Admirable
-Simplicity](http://techneur.com/post/594481128/admirable-simplicity)
+Simplicity](http://loudjet.com/a/admirable-simplicity)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

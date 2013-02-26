@@ -1,6 +1,6 @@
 <!--
 id: 671778103
-link: http://techneur.com/post/671778103/delivering-happiness-review
+link: http://loudjet.com/a/delivering-happiness-review
 slug: delivering-happiness-review
 date: Sun Jun 06 2010 23:37:00 GMT-0500 (CDT)
 publish: 2010-06-06
@@ -15,7 +15,7 @@ Delivering Happiness Review
 cover](http://media.tumblr.com/tumblr_l3mifgBHVa1qzbc4f.jpg)
 
 At the End of [Big Omaha
-2010,](http://techneur.com/post/662289828/big-omaha-2010 "Big Omaha 2010 Recap")
+2010,](http://loudjet.com/a/big-omaha-2010 "Big Omaha 2010 Recap")
 [Tony Hsieh](http://twitter.com/zappos "Follow Tony on Twitter"), of
 [Zappos](http://www.zappos.com/ "zappos.com"), pulled an Oprah move and
 gave the entire audience his new book [*Delivering
@@ -53,7 +53,7 @@ The book breaks down into five primary sections:
 
 *Delivering Happiness*is a very light and easy read. However, it’s not a
 fast and furious like
-[Rework](http://techneur.com/post/550060849/rework "Rework Review"). The
+[Rework](http://loudjet.com/a/rework "Rework Review"). The
 book could have been about 80 pages shorter. Some parts were very boring
 and redundant. Mainly, the actual Zappos excerpts and the anecdotes from
 employees. They were overkill. I didn’t need a lot of personal examples
@@ -101,7 +101,7 @@ into its own.
 4 out of 5 Stars.
 
 In the vein of
-[Mindspread](http://techneur.com/post/635311152/announcing-mindspread "Announcing Mindspread"),
+[Mindspread](http://loudjet.com/a/announcing-mindspread "Announcing Mindspread"),
 we will be giving away 4 copies of this book. If you are one of the
 first four people to comment on a core value and how that value has
 aided you personally/professionally,

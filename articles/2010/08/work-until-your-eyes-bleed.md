@@ -1,6 +1,6 @@
 <!--
 id: 1041263868
-link: http://techneur.com/post/1041263868/work-until-your-eyes-bleed
+link: http://loudjet.com/a/work-until-your-eyes-bleed
 slug: work-until-your-eyes-bleed
 date: Tue Aug 31 2010 02:24:00 GMT-0500 (CDT)
 publish: 2010-08-031
@@ -27,15 +27,15 @@ lose before you start.
 Kick your own ass, think positive, and work until your eyes bleed.
 
 [How bad do you want
-it?](http://techneur.com/post/552633852/how-bad-do-you-want-it)
+it?](http://loudjet.com/a/how-bad-do-you-want-it)
 
 If you enjoyed this, you might enjoy:
 
 1.  [A Pessimist Presupposes Failure, an Optimist Presupposes
-    Success](http://techneur.com/post/844311929/a-pessimist-presupposes-failure-an-optimist)
+    Success](http://loudjet.com/a/a-pessimist-presupposes-failure-an-optimist)
 2.  [Discipline Is the Strength to Do Things that Will Make Our Future
     Selves
-    Proud](http://techneur.com/post/1017665420/discipline-is-the-strength-to-do-things-that-will-make)
+    Proud](http://loudjet.com/a/discipline-is-the-strength-to-do-things-that-will-make)
 
 -JP ([@jprichardson](http://twitter.com/jprichardson))
 

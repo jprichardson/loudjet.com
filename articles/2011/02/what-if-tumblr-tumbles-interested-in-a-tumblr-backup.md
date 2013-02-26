@@ -1,6 +1,6 @@
 <!--
 id: 3216851150
-link: http://techneur.com/post/3216851150/what-if-tumblr-tumbles-interested-in-a-tumblr-backup
+link: http://loudjet.com/a/what-if-tumblr-tumbles-interested-in-a-tumblr-backup
 slug: what-if-tumblr-tumbles-interested-in-a-tumblr-backup
 date: Thu Feb 10 2011 09:30:05 GMT-0600 (CST)
 publish: 2011-02-010
@@ -44,11 +44,11 @@ What are your thoughts? Please let me know.
 You might also enjoy:
 
 1.  [The Startup Idea
-    Filter](http://techneur.com/post/935550443/the-startup-idea-filter)
+    Filter](http://loudjet.com/a/the-startup-idea-filter)
 2.  [I Will Write an
-    Ebook](http://techneur.com/post/2958461062/i-will-write-an-ebook)
+    Ebook](http://loudjet.com/a/i-will-write-an-ebook)
 3.  [Announcing Tribal
-    Fan](http://techneur.com/post/1406631916/announcing-tribal-fan)
+    Fan](http://loudjet.com/a/announcing-tribal-fan)
 
 Let’s tweet: [@jprichardson](http://twitter.com/jprichardson)
 

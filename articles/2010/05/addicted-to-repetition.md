@@ -1,6 +1,6 @@
 <!--
 id: 579412784
-link: http://techneur.com/post/579412784/addicted-to-repetition
+link: http://loudjet.com/a/addicted-to-repetition
 slug: addicted-to-repetition
 date: Fri May 07 2010 14:45:00 GMT-0500 (CDT)
 publish: 2010-05-07
@@ -18,7 +18,7 @@ week. You see, every night I’ve been blogging until about 2:30 in the
 morning. The other night (Thursday morning), I was up until 3:30 AM.
 This wouldn’t be so bad if I didn’t have to get up at 6:30 AM. I’ve had
 a goal since [April
-13th](http://techneur.com/post/519935580/ipad-smart-monkey) to blog
+13th](http://loudjet.com/a/ipad-smart-monkey) to blog
 every weekday. Occasionally, [Brian](http://reflect7.com/about-us) helps
 me out. As my head hit the pillow, I remembered that I had neglected my
 blogging duties for the following day (today). I thought… “I’ll just
@@ -32,19 +32,19 @@ just go find a post from those older blogs.” That felt like an easy way
 out. Those posts should be saved for a Saturday or Sunday. I think that
 if I posted them on a weekday I would be shortchanging my readers and
 most importantly
-[myself](http://techneur.com/post/524363996/the-best-exercise-any-entrepreneur-can-do).
+[myself](http://loudjet.com/a/the-best-exercise-any-entrepreneur-can-do).
 
 I bet any seasoned blogger will tell you that to create a blog post
 worth reading, it’s a lot of work. To do it everyday is near insanity.
 It takes me on average at least two hours to create a blog post. Some
 days more, some days less. I knock
-[some](http://techneur.com/post/520136880/best-customer-word) of
-[them](http://techneur.com/post/440686528/its-all-our-fault-why-building-a-business-on-the)
+[some](http://loudjet.com/a/best-customer-word) of
+[them](http://loudjet.com/a/its-all-our-fault-why-building-a-business-on-the)
 out of the park. Most of them receive very little attention. But two
 hours a day! Two hours a day on top of my day job, on top of the hour a
 day I spend exercising, on top of the time I spend on
 [Reflect7](http://reflect7.com), on top of the time I spend with [my
-fiance and son](http://techneur.com/post/542183349/family-number-one).
+fiance and son](http://loudjet.com/a/family-number-one).
 It’s no surprise that I don’t make it to bed before 1 AM.
 
 Ahh, but I know a secret to accomplishing goals. I learned this from
@@ -72,8 +72,8 @@ it every weekday, you are going to do it every weekday.” It works. But
 to get started, I believe the calendar method is great way to introduce
 a positive habit in your life. I would love to build a web app that
 would do this, but~~I don’t have the time~~ erm, [it’s not a
-priority](http://techneur.com/post/535211849/dont-have-the-time). Take
-the [idea](http://techneur.com/post/570120631/idea-sucks), I’ll be your
+priority](http://loudjet.com/a/dont-have-the-time). Take
+the [idea](http://loudjet.com/a/idea-sucks), I’ll be your
 first customer.
 
 Am I addicted to repetition or am I addicted to accomplishing goals? Who

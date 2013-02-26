@@ -1,6 +1,6 @@
 <!--
 id: 1035350505
-link: http://techneur.com/post/1035350505/steve-jobs-lesson-on-marketing-values-and-belief
+link: http://loudjet.com/a/steve-jobs-lesson-on-marketing-values-and-belief
 slug: steve-jobs-lesson-on-marketing-values-and-belief
 date: Mon Aug 30 2010 00:59:00 GMT-0500 (CDT)
 publish: 2010-08-030
@@ -39,11 +39,11 @@ What is your purpose? What is your belief? Communicate that.
 
 If you enjoyed this, you might enjoy this:
 
-1.  [Loyalty](http://techneur.com/post/965719928/loyalty)
+1.  [Loyalty](http://loudjet.com/a/loyalty)
 2.  [Software as a
-    Vision](http://techneur.com/post/696422394/software-as-a-vision)
+    Vision](http://loudjet.com/a/software-as-a-vision)
 3.  [Steve Jobs is this Century’s Henry
-    Ford](http://techneur.com/post/675685717/steve-jobs-henry-ford)
+    Ford](http://loudjet.com/a/steve-jobs-henry-ford)
 
 Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

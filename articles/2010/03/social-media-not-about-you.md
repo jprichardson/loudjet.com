@@ -1,6 +1,6 @@
 <!--
 id: 450058861
-link: http://techneur.com/post/450058861/social-media-not-about-you
+link: http://loudjet.com/a/social-media-not-about-you
 slug: social-media-not-about-you
 date: Mon Mar 15 2010 10:00:00 GMT-0500 (CDT)
 publish: 2010-03-015
@@ -30,7 +30,7 @@ inject yourself into conversations, monitor your brand, and to actually
 care about your customers. Give back. Share. Most importantly, care.
 
 I think [Gary
-Vaynerchuk’s](http://techneur.com/post/404706243/entrepreneurial-heroes)
+Vaynerchuk’s](http://loudjet.com/a/entrepreneurial-heroes)
 advice on promoting your business really works. Find sites/communities
 that are in your same industry and inject yourself into conversations.
 Share your knowledge. Give as much as you can. Care. You may eventually

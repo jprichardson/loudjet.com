@@ -1,6 +1,6 @@
 <!--
 id: 1313633370
-link: http://techneur.com/post/1313633370/apple-sucks-at-upgrades
+link: http://loudjet.com/a/apple-sucks-at-upgrades
 slug: apple-sucks-at-upgrades
 date: Thu Oct 14 2010 11:00:40 GMT-0500 (CDT)
 publish: 2010-10-014
@@ -48,11 +48,11 @@ What do you think?
 You may also enjoy:
 
 1.  [Mobile Platform Madness: Apple vs
-    Google](http://techneur.com/post/1131451546/mobile-platform-madness-apple-vs-google)
+    Google](http://loudjet.com/a/mobile-platform-madness-apple-vs-google)
 2.  [Software as a
-    Vision](http://techneur.com/post/696422394/software-as-a-vision)
+    Vision](http://loudjet.com/a/software-as-a-vision)
 3.  [If the iPad is Just a Big iPod Touch, then People are Just Smart
-    Monkeys](http://techneur.com/post/519935580/ipad-smart-monkey)
+    Monkeys](http://loudjet.com/a/ipad-smart-monkey)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)\
 -JP

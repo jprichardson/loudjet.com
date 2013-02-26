@@ -1,6 +1,6 @@
 <!--
 id: 696422394
-link: http://techneur.com/post/696422394/software-as-a-vision
+link: http://loudjet.com/a/software-as-a-vision
 slug: software-as-a-vision
 date: Mon Jun 14 2010 00:33:00 GMT-0500 (CDT)
 publish: 2010-06-014
@@ -42,7 +42,7 @@ what you should do, too.
 
 I know a lot of ‘power users’ probably scoff at the idea, much like they
 hate the idea of [Steve Jobs being this century’s Henry
-Ford](http://techneur.com/post/675685717/apple-is-the-new-ford). But,
+Ford](http://loudjet.com/a/apple-is-the-new-ford). But,
 you know what? Who cares. Let megacorp make software to satisfy their
 insatiable need for configuration. You see, most megacorps feel that
 they need to make products to please everyone. You don’t need to please

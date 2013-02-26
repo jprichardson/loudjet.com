@@ -1,6 +1,6 @@
 <!--
 id: 2315611963
-link: http://techneur.com/post/2315611963/regret-minimization-framework
+link: http://loudjet.com/a/regret-minimization-framework
 slug: regret-minimization-framework
 date: Tue Dec 14 2010 15:00:19 GMT-0600 (CST)
 publish: 2010-12-014
@@ -43,11 +43,11 @@ You might also enjoy:
 
 1.  [Discipline Is the Strength to Do Things That Will Make Our Future
     Selves
-    Proud](http://techneur.com/post/1017665420/discipline-is-the-strength-to-do-things-that-will-make)
+    Proud](http://loudjet.com/a/discipline-is-the-strength-to-do-things-that-will-make)
 2.  [Learning Pains
-    II](http://techneur.com/post/896715862/learning-pains-ii)
+    II](http://loudjet.com/a/learning-pains-ii)
 3.  [Always Remember Number
-    One](http://techneur.com/post/542183349/family-number-one)
+    One](http://loudjet.com/a/family-number-one)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

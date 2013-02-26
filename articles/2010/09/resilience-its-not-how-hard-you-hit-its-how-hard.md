@@ -1,6 +1,6 @@
 <!--
 id: 1057746147
-link: http://techneur.com/post/1057746147/resilience-its-not-how-hard-you-hit-its-how-hard
+link: http://loudjet.com/a/resilience-its-not-how-hard-you-hit-its-how-hard
 slug: resilience-its-not-how-hard-you-hit-its-how-hard
 date: Fri Sep 03 2010 04:37:00 GMT-0500 (CDT)
 publish: 2010-09-03
@@ -73,13 +73,13 @@ If you liked this, or you want to get your ass kicked into gear, you may
 like:
 
 1.  Steve’s Comment on [Work Until Your Eyes
-    Bleed](http://techneur.com/post/1041263868/work-until-your-eyes-bleed "Work Until Your Eyes Bleed")
+    Bleed](http://loudjet.com/a/work-until-your-eyes-bleed "Work Until Your Eyes Bleed")
 
 You may also like:
 
 1.  [A Pessimist Presupposes Failure, An Optimist Presupposes
-    Success](http://techneur.com/post/844311929/a-pessimist-presupposes-failure-an-optimist "A Pessimist Presupposes Failure, An Optimist Presupposes Success")
-2.  [If Only](http://techneur.com/post/711982960/if-only "If Only")
+    Success](http://loudjet.com/a/a-pessimist-presupposes-failure-an-optimist "A Pessimist Presupposes Failure, An Optimist Presupposes Success")
+2.  [If Only](http://loudjet.com/a/if-only "If Only")
 
 [Follow me on
 Twitter](http://twitter.com/brianlambelet "Follow Brian on Twitter")

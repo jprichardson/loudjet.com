@@ -1,6 +1,6 @@
 <!--
 id: 537695552
-link: http://techneur.com/post/537695552/iads-secret-sauce-how-apples-recipe-will-cause-a
+link: http://loudjet.com/a/iads-secret-sauce-how-apples-recipe-will-cause-a
 slug: iads-secret-sauce-how-apples-recipe-will-cause-a
 date: Wed Apr 21 2010 01:35:00 GMT-0500 (CDT)
 publish: 2010-04-021

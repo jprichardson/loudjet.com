@@ -1,6 +1,6 @@
 <!--
 id: 870155415
-link: http://techneur.com/post/870155415/what-monopoly-can-teach-us-about-business
+link: http://loudjet.com/a/what-monopoly-can-teach-us-about-business
 slug: what-monopoly-can-teach-us-about-business
 date: Wed Jul 28 2010 04:47:24 GMT-0500 (CDT)
 publish: 2010-07-028
@@ -51,7 +51,7 @@ one thing.
 That’s the lesson that our company,
 [Reflect7](http://reflect7.com "reflect7.com"), is trying to learn.
 From JP’s *[A Crappy Vision is Better Than Lack of
-Vision](http://techneur.com/post/864587591/a-crappy-vision-is-better-then-lack-of-vision "Techneur: A Crappy Vision is Better Than Lack of Vision")*, you
+Vision](http://loudjet.com/a/a-crappy-vision-is-better-then-lack-of-vision "Techneur: A Crappy Vision is Better Than Lack of Vision")*, you
 can see that we’re spread pretty thin. Just like my monopoly game, we’ve
 scattered our resources over several projects. When we step back in
 review, we see that some of these projects pay the bills, some build our
@@ -73,11 +73,11 @@ wins the game of Monopoly and the game of business.
 If You Liked This Blog Post, You May Like:
 
 1.  [A Crappy Vision is Better Than Lack of
-    Vision](http://techneur.com/post/864587591/a-crappy-vision-is-better-then-lack-of-vision "Techneur: A Crappy Vision is Better Than Lack of Vision")
+    Vision](http://loudjet.com/a/a-crappy-vision-is-better-then-lack-of-vision "Techneur: A Crappy Vision is Better Than Lack of Vision")
 2.  [Patience, Success Take
-    Years](http://techneur.com/post/636853872/patience-success-takes-years "Techneur: Patience, Success Take Years")
+    Years](http://loudjet.com/a/patience-success-takes-years "Techneur: Patience, Success Take Years")
 3.  [Compete on
-    High-Touch](http://techneur.com/post/753257213/compete-on-high-touch "Techneur: Compete on High-Touch")
+    High-Touch](http://loudjet.com/a/compete-on-high-touch "Techneur: Compete on High-Touch")
 
 [Follow Me on
 Twitter](http://twitter.com/brianlambelet "Follow Brian on Twitter")

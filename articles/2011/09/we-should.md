@@ -1,6 +1,6 @@
 <!--
 id: 10125981993
-link: http://techneur.com/post/10125981993/we-should
+link: http://loudjet.com/a/we-should
 slug: we-should
 date: Mon Sep 12 2011 09:45:00 GMT-0500 (CDT)
 publish: 2011-09-012
@@ -67,11 +67,11 @@ What are your thoughts?
 You might also enjoy:
 
 1.  [You’re Only as Good as Your
-    Word](http://techneur.com/post/9251361615/youre-only-as-good-as-your-word)
+    Word](http://loudjet.com/a/youre-only-as-good-as-your-word)
 2.  [Fear and Loved
-    Ones](http://techneur.com/post/4393309779/fear-and-loved-ones)
+    Ones](http://loudjet.com/a/fear-and-loved-ones)
 3.  [Life is About Maximizing the Happiness
-    Function](http://techneur.com/post/3602541949/life-is-about-maximizing-the-happiness-function)
+    Function](http://loudjet.com/a/life-is-about-maximizing-the-happiness-function)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

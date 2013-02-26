@@ -1,6 +1,6 @@
 <!--
 id: 542962158
-link: http://techneur.com/post/542962158/it-shouldnt-be-that-hard-right
+link: http://loudjet.com/a/it-shouldnt-be-that-hard-right
 slug: it-shouldnt-be-that-hard-right
 date: Fri Apr 23 2010 00:55:00 GMT-0500 (CDT)
 publish: 2010-04-023

@@ -1,6 +1,6 @@
 <!--
 id: 662289828
-link: http://techneur.com/post/662289828/big-omaha-2010
+link: http://loudjet.com/a/big-omaha-2010
 slug: big-omaha-2010
 date: Fri Jun 04 2010 00:07:00 GMT-0500 (CDT)
 publish: 2010-06-04
@@ -241,7 +241,7 @@ there.
 I’m not going to go into the details of Fried’s presentation because it
 will scare your pants off. For those of you who aren’t wearing pants,
 check out [JP’s review of
-Rework](http://techneur.com/post/550060849/rework "JP's review of Rework")
+Rework](http://loudjet.com/a/rework "JP's review of Rework")
 to get the gist.
 
 After the convention, we dined at upstream and conversed about our

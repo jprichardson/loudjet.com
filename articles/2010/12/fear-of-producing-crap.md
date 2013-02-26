@@ -1,6 +1,6 @@
 <!--
 id: 2300963597
-link: http://techneur.com/post/2300963597/fear-of-producing-crap
+link: http://loudjet.com/a/fear-of-producing-crap
 slug: fear-of-producing-crap
 date: Mon Dec 13 2010 08:42:23 GMT-0600 (CST)
 publish: 2010-12-013
@@ -42,11 +42,11 @@ working day-in and day-out.
 You might enjoy:
 
 1.  [Luck Surface
-    Area](http://techneur.com/post/1516468079/luck-surface-area)
+    Area](http://loudjet.com/a/luck-surface-area)
 2.  [40 Hours Is Breaking
-    Even](http://techneur.com/post/1415352474/40-hours-is-breaking-even)
+    Even](http://loudjet.com/a/40-hours-is-breaking-even)
 3.  [Commitment vs
-    Involvement](http://techneur.com/post/1114058782/commitment-vs-involvement)
+    Involvement](http://loudjet.com/a/commitment-vs-involvement)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

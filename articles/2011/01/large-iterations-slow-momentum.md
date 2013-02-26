@@ -1,6 +1,6 @@
 <!--
 id: 2924693147
-link: http://techneur.com/post/2924693147/large-iterations-slow-momentum
+link: http://loudjet.com/a/large-iterations-slow-momentum
 slug: large-iterations-slow-momentum
 date: Tue Jan 25 2011 08:35:06 GMT-0600 (CST)
 publish: 2011-01-025

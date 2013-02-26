@@ -1,6 +1,6 @@
 <!--
 id: 800712804
-link: http://techneur.com/post/800712804/winning-isnt-everything-its-the-only-thing
+link: http://loudjet.com/a/winning-isnt-everything-its-the-only-thing
 slug: winning-isnt-everything-its-the-only-thing
 date: Mon Jul 12 2010 00:05:00 GMT-0500 (CDT)
 publish: 2010-07-012
@@ -44,7 +44,7 @@ You must possess a winner’s mentality. This means that you want to tear
 the faces off of your competition in a [Gary
 Vaynerchuk](http://twitter.com/garyvee/status/10706011672) sort of way.
 This doesn’t mean that you should copy your competition. [DON’T DO
-THIS](http://techneur.com/post/550060849/rework). To quote Jason Fried:
+THIS](http://loudjet.com/a/rework). To quote Jason Fried:
 “No one will ‘out’ Apple Apple” That is to say, no one will ‘do’ Apple
 better than Apple. The winner’s mentality is all about believing that
 you are better, and then to actually be better.

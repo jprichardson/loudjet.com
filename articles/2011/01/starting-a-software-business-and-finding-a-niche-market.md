@@ -1,6 +1,6 @@
 <!--
 id: 2747850007
-link: http://techneur.com/post/2747850007/starting-a-software-business-and-finding-a-niche-market
+link: http://loudjet.com/a/starting-a-software-business-and-finding-a-niche-market
 slug: starting-a-software-business-and-finding-a-niche-market
 date: Fri Jan 14 2011 14:02:11 GMT-0600 (CST)
 publish: 2011-01-014
@@ -57,7 +57,7 @@ following:
 1.  Identify a problem that I have. Conceptualize potential solutions
     for this problem.
 2.  Apply the [Startup Idea
-    Filter](http://techneur.com/post/935550443/the-startup-idea-filter).
+    Filter](http://loudjet.com/a/the-startup-idea-filter).
 3.  Research to find out if there is competition. If there is
     competition, the market is validated.
 4.  Talk to potential customers. I would then ask if these customers
@@ -94,11 +94,11 @@ What do you think? How would you find and validate market?
 You may also enjoy:
 
 1.  [The Startup Idea
-    Filter](http://techneur.com/post/935550443/the-startup-idea-filter)
+    Filter](http://loudjet.com/a/the-startup-idea-filter)
 2.  [The Only Person Who Cares About Your Idea Is Your
-    Mom](http://techneur.com/post/570120631/idea-sucks)
+    Mom](http://loudjet.com/a/idea-sucks)
 3.  [Start with a
-    Vision](http://techneur.com/post/2325415779/start-with-a-vision)
+    Vision](http://loudjet.com/a/start-with-a-vision)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

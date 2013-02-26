@@ -1,6 +1,6 @@
 <!--
 id: 532671751
-link: http://techneur.com/post/532671751/finest-way-to-succeed
+link: http://loudjet.com/a/finest-way-to-succeed
 slug: finest-way-to-succeed
 date: Mon Apr 19 2010 01:45:00 GMT-0500 (CDT)
 publish: 2010-04-019
@@ -43,7 +43,7 @@ achieve success, doing this brings you success. Joe is permanently
 blacklisted in my brain for any referrals or references.
 
 The person that exemplifies my point the most is [Gary
-Vaynerchuk](http://techneur.com/post/404706243/entrepreneurial-heroes).
+Vaynerchuk](http://loudjet.com/a/entrepreneurial-heroes).
 Gary helps, gives, and cares. Gary will often spend an hour a day on
 [Ustream](http://www.ustream.tv/) just answering questions. Gary wants
 you to be successful. He even attributes part of the success of his book

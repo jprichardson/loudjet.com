@@ -1,6 +1,6 @@
 <!--
 id: 4984142588
-link: http://techneur.com/post/4984142588/fight-the-rewrite
+link: http://loudjet.com/a/fight-the-rewrite
 slug: fight-the-rewrite
 date: Wed Apr 27 2011 08:50:00 GMT-0500 (CDT)
 publish: 2011-04-027
@@ -73,11 +73,11 @@ What do you think?
 You might also enjoy:
 
 1.  [Customers Demand Native for Mobile
-    Apps](http://techneur.com/post/3068783134/customers-demand-native-for-mobile-apps)
+    Apps](http://loudjet.com/a/customers-demand-native-for-mobile-apps)
 2.  [Software as a
-    Vision](http://techneur.com/post/696422394/software-as-a-vision)
+    Vision](http://loudjet.com/a/software-as-a-vision)
 3.  [It’s All About the MVP, Obey Gall’s
-    Law](http://techneur.com/post/656259481/mvp-galls-law)
+    Law](http://loudjet.com/a/mvp-galls-law)
 
 You should follow me on Twitter:
 [@jprichardson](http://twitter.com/jprichardson)

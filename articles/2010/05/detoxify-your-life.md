@@ -1,6 +1,6 @@
 <!--
 id: 567516819
-link: http://techneur.com/post/567516819/detoxify-your-life
+link: http://loudjet.com/a/detoxify-your-life
 slug: detoxify-your-life
 date: Mon May 03 2010 00:49:00 GMT-0500 (CDT)
 publish: 2010-05-03
@@ -14,7 +14,7 @@ Detoxify Your Life
 ![](http://media.tumblr.com/tumblr_l1txaltNId1qzbc4f.jpg)
 
 I recently wrote “[We Have A
-Duty](http://techneur.com/post/562354769/we-have-a-duty)”, but I only
+Duty](http://loudjet.com/a/we-have-a-duty)”, but I only
 asked you to join me and didn’t provide ideas for us to accomplish
 our [goal](http://www.forbes.com/2006/11/29/billionaire-charitable-donations-pf-phil_cz_dp_1129billionairephilanthrophy.html).
 
@@ -72,7 +72,7 @@ is within their means. Cash is king for those wanting to get rich.\
 \
 
 In “[We Have A
-Duty](http://techneur.com/post/562354769/we-have-a-duty)”, I also
+Duty](http://loudjet.com/a/we-have-a-duty)”, I also
 wrote [Andrew
 Carnegie’s](http://en.wikipedia.org/wiki/Andrew_Carnegie) three tenets.
 They shouldn’t be practiced linearly. Learn, earn, and give now. This is

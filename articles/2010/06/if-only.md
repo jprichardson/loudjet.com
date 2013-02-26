@@ -1,6 +1,6 @@
 <!--
 id: 711982960
-link: http://techneur.com/post/711982960/if-only
+link: http://loudjet.com/a/if-only
 slug: if-only
 date: Fri Jun 18 2010 11:59:00 GMT-0500 (CDT)
 publish: 2010-06-018

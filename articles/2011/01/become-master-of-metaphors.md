@@ -1,6 +1,6 @@
 <!--
 id: 2820528921
-link: http://techneur.com/post/2820528921/become-master-of-metaphors
+link: http://loudjet.com/a/become-master-of-metaphors
 slug: become-master-of-metaphors
 date: Tue Jan 18 2011 20:39:00 GMT-0600 (CST)
 publish: 2011-01-018
@@ -78,11 +78,11 @@ How do you think you can get better at delivering metaphors?
 You might also enjoy:
 
 1.  [Give Your Customers a Story to
-    Tell](http://techneur.com/post/830872725/give-your-customers-a-story-to-tell)
+    Tell](http://loudjet.com/a/give-your-customers-a-story-to-tell)
 2.  [Prison, and Taking Things for
-    Granted](http://techneur.com/post/1343691145/prison-and-taking-things-for-granted)
+    Granted](http://loudjet.com/a/prison-and-taking-things-for-granted)
 3.  [Bona Fide Everyday
-    Stories](http://techneur.com/post/591587708/everyday-stories)
+    Stories](http://loudjet.com/a/everyday-stories)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

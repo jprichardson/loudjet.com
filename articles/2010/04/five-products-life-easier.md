@@ -1,6 +1,6 @@
 <!--
 id: 557907890
-link: http://techneur.com/post/557907890/five-products-life-easier
+link: http://loudjet.com/a/five-products-life-easier
 slug: five-products-life-easier
 date: Thu Apr 29 2010 02:29:00 GMT-0500 (CDT)
 publish: 2010-04-029
@@ -16,14 +16,14 @@ Five Products That Would Make My Life Easier
 I would love to see these products. As an entrepreneur, I’m
 always incessantly looking for ways to improve my life. You may be
 wondering, why don’t I work on any of these if I agree with the
-“[scratch your own itch](http://techneur.com/post/550060849/rework)” or
+“[scratch your own itch](http://loudjet.com/a/rework)” or
 “solve your own problems” mantras. Well, I just might. =)
 
 **Audio Book/eBook/Hard Copy Deal**\
 I realize that I can have all three now. But publishers should really
 create a package deal that has all three products discounted. I love my
 [iPad for
-reading](http://techneur.com/post/519935580/ipad-smart-monkey). It stays
+reading](http://loudjet.com/a/ipad-smart-monkey). It stays
 in my car constantly. When I have some dead time in my car or an office,
 I pull out my iPad and start reading. I run about three miles daily. I
 typically listen to audio books. Sometimes I find myself wanting the
@@ -72,7 +72,7 @@ I currently use [Hacker News](http://news.ycombinator.com),
 Nation](http://startupnation.com), and LinkedIn (although, I think
 LinkedIn is a joke). But none of them encourage connecting with other
 entrepreneurs. In order to succeed, we need to [help each
-other](http://techneur.com/post/532671751/finest-way-to-succeed). We
+other](http://loudjet.com/a/finest-way-to-succeed). We
 must share business ideas and strategies. All of the sites listed
 fail miserably at this. You had better steal this idea too, because I
 will eventually work on this as well.

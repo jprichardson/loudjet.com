@@ -1,6 +1,6 @@
 <!--
 id: 926952110
-link: http://techneur.com/post/926952110/jack-sparrow-teach-us-about-entrepreneurship
+link: http://loudjet.com/a/jack-sparrow-teach-us-about-entrepreneurship
 slug: jack-sparrow-teach-us-about-entrepreneurship
 date: Mon Aug 09 2010 07:57:44 GMT-0500 (CDT)
 publish: 2010-08-09
@@ -42,11 +42,11 @@ relationships. But, I digress. I can save that for another blog post.
 Regardless, Jack Sparrow shows us that successful people persevere. In
 every successful person’s biography, there are always tails of
 perseverance. ALWAYS. [Gurbaksh
-Chahal](http://techneur.com/post/783919676/the-dream-gurbaksh-chahal), [Gary
+Chahal](http://loudjet.com/a/the-dream-gurbaksh-chahal), [Gary
 Vaynerchuk](http://garyvaynerchuk.com/), [Nick
-Vujicic](http://techneur.com/post/575667016/man-no-arms-no-legs-teach-success),
+Vujicic](http://loudjet.com/a/man-no-arms-no-legs-teach-success),
 [Trent Hamm](http://thesimpledollar.com), and [Tony
-Hseih](http://techneur.com/post/671778103/delivering-happiness-review)
+Hseih](http://loudjet.com/a/delivering-happiness-review)
 all have this trait in common. Don’t forget it. When shit has you down,
 remember, that to be successful, you have to be able to persevere.
 

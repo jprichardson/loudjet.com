@@ -1,6 +1,6 @@
 <!--
 id: 1360391727
-link: http://techneur.com/post/1360391727/build-a-lifestyle-business-or-build-a-social-empire
+link: http://loudjet.com/a/build-a-lifestyle-business-or-build-a-social-empire
 slug: build-a-lifestyle-business-or-build-a-social-empire
 date: Wed Oct 20 2010 14:25:52 GMT-0500 (CDT)
 publish: 2010-10-020

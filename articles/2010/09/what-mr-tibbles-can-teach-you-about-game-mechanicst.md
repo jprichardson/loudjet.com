@@ -1,6 +1,6 @@
 <!--
 id: 1184586098
-link: http://techneur.com/post/1184586098/what-mr-tibbles-can-teach-you-about-game-mechanicst
+link: http://loudjet.com/a/what-mr-tibbles-can-teach-you-about-game-mechanicst
 slug: what-mr-tibbles-can-teach-you-about-game-mechanicst
 date: Sat Sep 25 2010 07:28:00 GMT-0500 (CDT)
 publish: 2010-09-025
@@ -102,15 +102,15 @@ some cat nip and cover your genitals.
 
 If you liked this post, you may like:
 
-1.  [](http://techneur.com/post/1046726534/are-you-a-commodity-foursquare-facebook-location)
+1.  [](http://loudjet.com/a/are-you-a-commodity-foursquare-facebook-location)
 
     ### Are You a Commodity? Foursquare \> Facebook Location
 
-2.  [](http://techneur.com/post/870155415/what-monopoly-can-teach-us-about-business)
+2.  [](http://loudjet.com/a/what-monopoly-can-teach-us-about-business)
 
     ### What Monopoly Can Teach Us About Business
 
-3.  [](http://techneur.com/post/975172273/selling-is-all-about-relationships)
+3.  [](http://loudjet.com/a/selling-is-all-about-relationships)
 
     ### Selling Is All About Relationship
 

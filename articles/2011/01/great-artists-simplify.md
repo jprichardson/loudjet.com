@@ -1,6 +1,6 @@
 <!--
 id: 3031110881
-link: http://techneur.com/post/3031110881/great-artists-simplify
+link: http://loudjet.com/a/great-artists-simplify
 slug: great-artists-simplify
 date: Mon Jan 31 2011 09:00:10 GMT-0600 (CST)
 publish: 2011-01-031
@@ -48,11 +48,11 @@ well](http://www.chrisbrogan.com/do-one-thing-very-well/).
 You might also enjoy:
 
 1.  [Large Iterations Slow
-    Momentum](http://techneur.com/post/2924693147/large-iterations-slow-momentum)
+    Momentum](http://loudjet.com/a/large-iterations-slow-momentum)
 2.  [Starting a Software Business and Finding a Niche
-    Market](http://techneur.com/post/2747850007/starting-a-software-business-and-finding-a-niche-market)
+    Market](http://loudjet.com/a/starting-a-software-business-and-finding-a-niche-market)
 3.  [Start with a
-    Vision](http://techneur.com/post/2325415779/start-with-a-vision)
+    Vision](http://loudjet.com/a/start-with-a-vision)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

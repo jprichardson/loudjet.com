@@ -1,6 +1,6 @@
 <!--
 id: 525946149
-link: http://techneur.com/post/525946149/5-common-english-errors
+link: http://loudjet.com/a/5-common-english-errors
 slug: 5-common-english-errors
 date: Fri Apr 16 2010 10:11:00 GMT-0500 (CDT)
 publish: 2010-04-016

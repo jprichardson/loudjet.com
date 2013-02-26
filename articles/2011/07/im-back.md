@@ -1,6 +1,6 @@
 <!--
 id: 7497359080
-link: http://techneur.com/post/7497359080/im-back
+link: http://loudjet.com/a/im-back
 slug: im-back
 date: Mon Jul 11 2011 12:05:00 GMT-0500 (CDT)
 publish: 2011-07-011
@@ -17,7 +17,7 @@ It’s been an interesting couple of months. Quite a few things have
 happened in my life.
 
 -   I got married to a wonderful [woman and my best
-    friend](http://techneur.com/post/542183349/family-number-one).
+    friend](http://loudjet.com/a/family-number-one).
 -   [Reflect7 has been put up for
     sale.](https://flippa.com/146371-2-yr-old-mobile-application-software-company-35-644-profit-in-2010-autopilot)
 -   [I started two new companies.](http://gitpilot.com/)
@@ -42,11 +42,11 @@ I’m back and I feel better than ever.
 If you enjoyed this, you might also enjoy:
 
 1.  [Literature and
-    Life](http://techneur.com/post/4777208702/literature-and-life)
+    Life](http://loudjet.com/a/literature-and-life)
 2.  [Life is About Maximizing the Happiness
-    Function](http://techneur.com/post/3602541949/life-is-about-maximizing-the-happiness-function)
+    Function](http://loudjet.com/a/life-is-about-maximizing-the-happiness-function)
 3.  [Regret Minimization
-    Framework](http://techneur.com/post/2315611963/regret-minimization-framework)
+    Framework](http://loudjet.com/a/regret-minimization-framework)
 
 -JP
 

@@ -1,6 +1,6 @@
 <!--
 id: 1659300520
-link: http://techneur.com/post/1659300520/social-media-and-priorities
+link: http://loudjet.com/a/social-media-and-priorities
 slug: social-media-and-priorities
 date: Tue Nov 23 2010 09:30:03 GMT-0600 (CST)
 publish: 2010-11-023
@@ -20,7 +20,7 @@ That you could’ve easily engaged with your customers. That you could’ve
 started conversations.
 
 Recently, my [schedule has changed
-drastically](http://techneur.com/post/1479262807/changing-schedules-can-force-productivity).
+drastically](http://loudjet.com/a/changing-schedules-can-force-productivity).
 I use to go to bed every night around 1 AM to 2 AM and then I would wake
 up around 8:00 AM to 9:00 AM. I noticed that when I would allow myself
 to stay up that late, I would procrastinate my tasks until the end of
@@ -83,11 +83,11 @@ stupid shit to most people.
 You might enjoy:
 
 1.  [Social Media Is Not About
-    You](http://techneur.com/post/450058861/social-media-not-about-you)
+    You](http://loudjet.com/a/social-media-not-about-you)
 2.  [It’s Not About Time, It’s About
-    Priority](http://techneur.com/post/535211849/dont-have-the-time)
+    Priority](http://loudjet.com/a/dont-have-the-time)
 3.  [The Best Exercise Any Entrepreneur Can
-    Do](http://techneur.com/post/524363996/the-best-exercise-any-entrepreneur-can-do)
+    Do](http://loudjet.com/a/the-best-exercise-any-entrepreneur-can-do)
 
 -JP
 

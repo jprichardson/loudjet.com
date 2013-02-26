@@ -1,6 +1,6 @@
 <!--
 id: 788671659
-link: http://techneur.com/post/788671659/will-touchscreen-kill-the-mouse-star
+link: http://loudjet.com/a/will-touchscreen-kill-the-mouse-star
 slug: will-touchscreen-kill-the-mouse-star
 date: Fri Jul 09 2010 02:48:00 GMT-0500 (CDT)
 publish: 2010-07-09
@@ -55,7 +55,7 @@ Trent writes:
 
 Focusing on showing all of your content seems like an ideal solution if
 you want to develop your
-[MVP](http://techneur.com/post/656259481/mvp-galls-law) fast. However, I
+[MVP](http://loudjet.com/a/mvp-galls-law) fast. However, I
 don’t think it’s the “best” solution. I think the best solution is that
 we’ll have to develop two interfaces. However, starting with a touch
 enabled interface is the best way to get up going quickly.

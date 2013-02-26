@@ -1,6 +1,6 @@
 <!--
 id: 2850447243
-link: http://techneur.com/post/2850447243/eric-schmidt-and-the-google-triumvirate
+link: http://loudjet.com/a/eric-schmidt-and-the-google-triumvirate
 slug: eric-schmidt-and-the-google-triumvirate
 date: Thu Jan 20 2011 19:50:14 GMT-0600 (CST)
 publish: 2011-01-020
@@ -17,7 +17,7 @@ A few weeks ago, I learned that Google was not only run by its CEO Eric
 Schmidt, but also by its founders Sergey Brin and Larry Page… as a
 triumvirate! It’s impressive that they’ve been so successful so far with
 such leadership. I attribute it to their
-[vision](http://techneur.com/post/2325415779/start-with-a-vision).
+[vision](http://loudjet.com/a/start-with-a-vision).
 However, it’s of little surprise to me that Eric Schmidt is stepping
 down.
 
@@ -37,7 +37,7 @@ According to
 Now the statement about moving quicker was Techcrunch’s conclusion, but
 I agree. My business partner [Brian](http://reflect7.com/about-us) wrote
 an
-[article](http://techneur.com/post/640205730/1-head-is-better-than-2-or-3-or-4-or-etc)
+[article](http://loudjet.com/a/1-head-is-better-than-2-or-3-or-4-or-etc)
 about this topic recently. His conclusion was also that one business
 leader is better than many in an organization essentially because they
 can make mistakes faster and pivot. Instead of wasting time try to
@@ -51,11 +51,11 @@ run your company?
 You might also enjoy:
 
 1.  [Starting a Business is Like Getting
-    Married](http://techneur.com/post/555332733/business-marriage)
+    Married](http://loudjet.com/a/business-marriage)
 2.  [Start with a
-    Vision](http://techneur.com/post/2325415779/start-with-a-vision)
+    Vision](http://loudjet.com/a/start-with-a-vision)
 3.  [1 Head is Better Than 2,3,4
-    etc.](http://techneur.com/post/640205730/1-head-is-better-than-2-or-3-or-4-or-etc)
+    etc.](http://loudjet.com/a/1-head-is-better-than-2-or-3-or-4-or-etc)
 
 -JP
 

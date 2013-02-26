@@ -1,6 +1,6 @@
 <!--
 id: 1262270878
-link: http://techneur.com/post/1262270878/sometimes-completing-a-project-is-better-than-anything
+link: http://loudjet.com/a/sometimes-completing-a-project-is-better-than-anything
 slug: sometimes-completing-a-project-is-better-than-anything
 date: Wed Oct 06 2010 22:49:50 GMT-0500 (CDT)
 publish: 2010-10-06
@@ -50,11 +50,11 @@ only a few things, but does them well.
 
 You may enjoy:
 
-1.  [Learning Pains](http://techneur.com/post/615265667/learning-pains)
+1.  [Learning Pains](http://loudjet.com/a/learning-pains)
 2.  [Learning Pains
-    II](http://techneur.com/post/896715862/learning-pains-ii)
+    II](http://loudjet.com/a/learning-pains-ii)
 3.  [Software as a
-    Vision](http://techneur.com/post/696422394/software-as-a-vision)
+    Vision](http://loudjet.com/a/software-as-a-vision)
 
  Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

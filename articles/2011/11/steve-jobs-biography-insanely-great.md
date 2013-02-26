@@ -1,6 +1,6 @@
 <!--
 id: 13055295218
-link: http://techneur.com/post/13055295218/steve-jobs-biography-insanely-great
+link: http://loudjet.com/a/steve-jobs-biography-insanely-great
 slug: steve-jobs-biography-insanely-great
 date: Sun Nov 20 2011 03:59:00 GMT-0600 (CST)
 publish: 2011-11-020
@@ -45,7 +45,7 @@ A quote about religion that resonated with me: 
 I enjoyed the early tales of Jobs seeking enlightenment and
 [prajna](http://en.wikipedia.org/wiki/Wisdom_in_Buddhism) - much [like
 my
-journey](http://techneur.com/post/859911519/which-is-better-the-journey-or-the-destination).
+journey](http://loudjet.com/a/which-is-better-the-journey-or-the-destination).
 
 > Coming back to America was, for me, much more of a cultural shock than
 > going to India. The people in the Indian countryside don’t use their

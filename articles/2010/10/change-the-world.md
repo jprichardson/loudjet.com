@@ -1,6 +1,6 @@
 <!--
 id: 1291554735
-link: http://techneur.com/post/1291554735/change-the-world
+link: http://loudjet.com/a/change-the-world
 slug: change-the-world
 date: Mon Oct 11 2010 10:15:06 GMT-0500 (CDT)
 publish: 2010-10-011

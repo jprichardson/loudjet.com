@@ -1,6 +1,6 @@
 <!--
 id: 859911519
-link: http://techneur.com/post/859911519/which-is-better-the-journey-or-the-destination
+link: http://loudjet.com/a/which-is-better-the-journey-or-the-destination
 slug: which-is-better-the-journey-or-the-destination
 date: Mon Jul 26 2010 00:05:09 GMT-0500 (CDT)
 publish: 2010-07-026
@@ -48,10 +48,10 @@ What are your thoughts? Any wisdom to share?
 If you enjoyed this, you may enjoy:
 
 1.  [A Pessimist Presupposes Failure, an
-    Optimist Presupposes Success](http://techneur.com/post/844311929/a-pessimist-presupposes-failure-an-optimist)
+    Optimist Presupposes Success](http://loudjet.com/a/a-pessimist-presupposes-failure-an-optimist)
 2.  [Embrace
-    Discomfort](http://techneur.com/post/679425561/embrace-discomfort)
-3.  [Learning Pains](http://techneur.com/post/615265667/learning-pains)
+    Discomfort](http://loudjet.com/a/embrace-discomfort)
+3.  [Learning Pains](http://loudjet.com/a/learning-pains)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

@@ -1,6 +1,6 @@
 <!--
 id: 3900181315
-link: http://techneur.com/post/3900181315/what-the-successful-will-do-that-you-wont
+link: http://loudjet.com/a/what-the-successful-will-do-that-you-wont
 slug: what-the-successful-will-do-that-you-wont
 date: Wed Mar 16 2011 11:20:08 GMT-0500 (CDT)
 publish: 2011-03-016
@@ -96,11 +96,11 @@ money](http://www.inc.com/magazine/20110301/making-money-small-business-advice-f
 You might also enjoy:
 
 1.  [Diversify Income
-    Streams](http://techneur.com/post/3877168447/diversify-income-streams)
+    Streams](http://loudjet.com/a/diversify-income-streams)
 2.  [You Need an Emergency
-    Fund](http://techneur.com/post/3856822333/you-need-an-emergency-fund)
+    Fund](http://loudjet.com/a/you-need-an-emergency-fund)
 3.  [Change the
-    World?](http://techneur.com/post/1291554735/change-the-world)
+    World?](http://loudjet.com/a/change-the-world)
 
 You should follow me on Twitter:
 [@jprichardson](http://twitter.com/jprichardson)

@@ -1,6 +1,6 @@
 <!--
 id: 1171984702
-link: http://techneur.com/post/1171984702/go-web-or-go-home-5-reasons-to-take-your-app-to-the
+link: http://loudjet.com/a/go-web-or-go-home-5-reasons-to-take-your-app-to-the
 slug: go-web-or-go-home-5-reasons-to-take-your-app-to-the
 date: Wed Sep 22 2010 13:12:47 GMT-0500 (CDT)
 publish: 2010-09-022
@@ -92,12 +92,12 @@ with a web app.
 If you like this, you may like:
 
 1.  [10 Things I’ve Learned About the Android
-    Market ](http://techneur.com/post/1126039921/10-things-ive-learned-about-the-android-market "10 Things I've Learned About the Android Market ")
-2.  [](http://techneur.com/post/908299611/google-wave-post-mortem-what-entrepreneurs-can-learn)
+    Market ](http://loudjet.com/a/10-things-ive-learned-about-the-android-market "10 Things I've Learned About the Android Market ")
+2.  [](http://loudjet.com/a/google-wave-post-mortem-what-entrepreneurs-can-learn)
 
     ### Google Wave Post Mortem - What Entrepreneurs Can Learn
 
-3.  [](http://techneur.com/post/671778103/delivering-happiness-review)
+3.  [](http://loudjet.com/a/delivering-happiness-review)
 
     ### Delivering Happiness Review
 

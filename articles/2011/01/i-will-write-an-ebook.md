@@ -1,6 +1,6 @@
 <!--
 id: 2958461062
-link: http://techneur.com/post/2958461062/i-will-write-an-ebook
+link: http://loudjet.com/a/i-will-write-an-ebook
 slug: i-will-write-an-ebook
 date: Thu Jan 27 2011 09:10:00 GMT-0600 (CST)
 publish: 2011-01-027
@@ -53,7 +53,7 @@ traffic for the book to get noticed. This might be all that I have to
 do. It might also be naive thinking. We’ll see.
 
 The major show stopper is time. Ehem…
-[priority](http://techneur.com/post/535211849/dont-have-the-time). I
+[priority](http://loudjet.com/a/dont-have-the-time). I
 have a lot on my plate that shifts the priority of this down my to-do
 list. I would anticipate that this may take me at least a year.
 
@@ -64,11 +64,11 @@ Have you written an ebook? Do you have any tips to share?
 You might also enjoy:
 
 1.  [The Best Exercise Any Entrepreneur Can
-    Do](http://techneur.com/post/524363996/the-best-exercise-any-entrepreneur-can-do)
+    Do](http://loudjet.com/a/the-best-exercise-any-entrepreneur-can-do)
 2.  [Luck Surface
-    Area](http://techneur.com/post/1516468079/luck-surface-area)
+    Area](http://loudjet.com/a/luck-surface-area)
 3.  [It’s Not About Time, It’s About
-    Priority](http://techneur.com/post/535211849/dont-have-the-time)
+    Priority](http://loudjet.com/a/dont-have-the-time)
 
 Follow me on Twitter [@jprichardson](http://twitter.com/jprichardson)
 

@@ -1,6 +1,6 @@
 <!--
 id: 1089626038
-link: http://techneur.com/post/1089626038/distractions-are-the-bane-of-productivity
+link: http://loudjet.com/a/distractions-are-the-bane-of-productivity
 slug: distractions-are-the-bane-of-productivity
 date: Wed Sep 08 2010 21:57:24 GMT-0500 (CDT)
 publish: 2010-09-08
@@ -55,11 +55,11 @@ important, or you might be knocking your coworker out of the “zone.”
 If you enjoyed this, you might enjoy:
 
 1.  [Less Consumption, More
-    Production](http://techneur.com/post/649237455/less-consumption-more-production)
+    Production](http://loudjet.com/a/less-consumption-more-production)
 2.  [Is It Actionable? No? Then Get Rid of
-    It](http://techneur.com/post/652742373/is-it-actionable-no-then-get-rid-of-it)
+    It](http://loudjet.com/a/is-it-actionable-no-then-get-rid-of-it)
 3.  [Work Until Your Eyes
-    Bleed](http://techneur.com/post/1041263868/work-until-your-eyes-bleed)
+    Bleed](http://loudjet.com/a/work-until-your-eyes-bleed)
 
 Follow me on [Twitter](http://twitter.com/jprichardson)
 

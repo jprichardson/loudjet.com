@@ -1,6 +1,6 @@
 <!--
 id: 550060849
-link: http://techneur.com/post/550060849/rework
+link: http://loudjet.com/a/rework
 slug: rework
 date: Mon Apr 26 2010 00:36:00 GMT-0500 (CDT)
 publish: 2010-04-026
@@ -14,7 +14,7 @@ Forget Work, It's Time to Rework
 ![](http://media.tumblr.com/tumblr_l1gy7eoAr91qzbc4f.png)
 
 Recently I was on vacation and had the pleasure of reading [37
-Signals](http://techneur.com/post/404706243/entrepreneurial-heroes) new
+Signals](http://loudjet.com/a/entrepreneurial-heroes) new
 book:
 [Rework](http://www.amazon.com/gp/product/0307463745?ie=UTF8&tag=techneur-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0307463745)![](http://www.assoc-amazon.com/e/ir?t=techneur-20&l=as2&o=1&a=0307463745).
 In short, entrepreneurs need to read this book. People in the corporate
@@ -71,7 +71,7 @@ Bowerman, and Mary Kay.
 
 **No Time Is No Excuse**\
 I wrote about this a
-[before](http://techneur.com/post/535211849/dont-have-the-time).
+[before](http://loudjet.com/a/dont-have-the-time).
 Everyone has the same amount of time a day. It’s your priorities that
 need to change.
 
@@ -140,7 +140,7 @@ and Kinston Charcoal. Find your by-product.
 
 **Reasons To Quit**\
 When do you quit a project? This chapter provides [a
-lot](http://techneur.com/post/525946149/5-common-english-errors) of
+lot](http://loudjet.com/a/5-common-english-errors) of
 insight on when the right time to quit is. Most notably: 1) Why are you
 doing this? 2) What problem are you solving? Sometimes, you’ll find that
 you’re solving an imaginary problem. 3) Is this actually useful? Cool
@@ -257,7 +257,7 @@ videos. Get your word out.
 **Out-Teach Your Competition**\
 Teaching will help you to build an audience. [Teaching will help others
 to be
-successful](http://techneur.com/post/532671751/finest-way-to-succeed).
+successful](http://loudjet.com/a/finest-way-to-succeed).
 The best example that is presented is that of Chefs. Chefs often will
 share their greatest recipes on TV. Are they scared that you’re going to
 go out start a restaurant to compete with them? Of course not. Teaching
@@ -275,7 +275,7 @@ in consistent with who you are and what your philosophy is.
 **Hire Great Writers**\
 “Being a good writer is more about writing, it’s about clear thinking.
 The best writers are great communicators.” - Rework. [I couldn’t agree
-more](http://techneur.com/post/524363996/the-best-exercise-any-entrepreneur-can-do).
+more](http://loudjet.com/a/the-best-exercise-any-entrepreneur-can-do).
 
 **How To Say You’re Sorry**\
 The whole point of this chapter is to encourage you to stop making
@@ -294,7 +294,7 @@ software entrepreneur: [You’re a little company, now act like
 one.](http://blog.asmartbear.com/youre-a-little-company-now-act-like-one.html)
 
 **Inspiration Is Perishable**\
-[I think](http://techneur.com/post/401185647/inspiration-perishable)
+[I think](http://loudjet.com/a/inspiration-perishable)
 this might be the most important chapter. Work on your great idea now.
 If you wait two months, you won’t be excited about it. Inspiration won’t
 wait for you. You must act now!
@@ -305,14 +305,14 @@ favorites. While it’s true that I listed it a lot, there are still a lot
 of chapters that I wanted to list, but I couldn’t for the sake of
 brevity (so maybe not brevity, for the sake of not writing a blog post
 as long as the book). But, yes, [37
-Signals](http://techneur.com/post/404706243/entrepreneurial-heroes) new
+Signals](http://loudjet.com/a/entrepreneurial-heroes) new
 book:
 [Rework](http://www.amazon.com/gp/product/0307463745?ie=UTF8&tag=techneur-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0307463745)![](http://www.assoc-amazon.com/e/ir?t=techneur-20&l=as2&o=1&a=0307463745)
 is that damn good. You must read it.
 
 If you’ve made it this far, congrats, you’ve endured my longest blog
 post. Since I think that 37 Signals has had one of the [greatest impacts
-upon me](http://techneur.com/post/404706243/entrepreneurial-heroes) as
+upon me](http://loudjet.com/a/entrepreneurial-heroes) as
 entrepreneur, I want to pay them back. I also want to share this book
 with other entrepreneurs. So, if you are one of the first five people to
 post a comment on what your number \#1 business philosophy is, I will

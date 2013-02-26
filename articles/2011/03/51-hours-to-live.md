@@ -1,6 +1,6 @@
 <!--
 id: 3702809389
-link: http://techneur.com/post/3702809389/51-hours-to-live
+link: http://loudjet.com/a/51-hours-to-live
 slug: 51-hours-to-live
 date: Mon Mar 07 2011 09:45:00 GMT-0600 (CST)
 publish: 2011-03-07
@@ -41,11 +41,11 @@ I challenge you to ask yourself these questions daily.
 You might also enjoy:
 
 1.  [Life is About Maximizing the Happiness
-    Function](http://techneur.com/post/3602541949/life-is-about-maximizing-the-happiness-function)
+    Function](http://loudjet.com/a/life-is-about-maximizing-the-happiness-function)
 2.  [Regret Minimization
-    Framework](http://techneur.com/post/2315611963/regret-minimization-framework)
+    Framework](http://loudjet.com/a/regret-minimization-framework)
 3.  [A Wise Man Learns From the Experience of
-    Others](http://techneur.com/post/1397281188/a-wise-man-learns-from-the-experience-of-others)
+    Others](http://loudjet.com/a/a-wise-man-learns-from-the-experience-of-others)
 
 -JP
 

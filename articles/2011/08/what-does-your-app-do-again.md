@@ -1,6 +1,6 @@
 <!--
 id: 9296840913
-link: http://techneur.com/post/9296840913/what-does-your-app-do-again
+link: http://loudjet.com/a/what-does-your-app-do-again
 slug: what-does-your-app-do-again
 date: Tue Aug 23 2011 12:03:00 GMT-0500 (CDT)
 publish: 2011-08-023
@@ -34,7 +34,7 @@ this opened up for a nice dialogue with the
 Some get it right though. BufferApp’s founder [Joel
 Gascoigne](https://twitter.com/#!/joelgascoigne) did this when he
 validated his app. Joel
-[writes](http://techneur.com/post/3583222706/a-real-mvp-tale):
+[writes](http://loudjet.com/a/a-real-mvp-tale):
 
 > What I did with Buffer is treat the emails as people who were happy
 > for me to get in touch and discuss the idea with and whether it solved
@@ -58,11 +58,11 @@ remember this point when we launch [Gitpilot](http://gitpilot.com).
 You might also enjoy:
 
 1.  [A Real MVP
-    Tale](http://techneur.com/post/3583222706/a-real-mvp-tale)
+    Tale](http://loudjet.com/a/a-real-mvp-tale)
 2.  [To Stand Out, You Must Dazzle Your
-    Customers](http://techneur.com/post/3565725520/to-stand-out-you-must-dazzle-your-customers)
+    Customers](http://loudjet.com/a/to-stand-out-you-must-dazzle-your-customers)
 3.  [Your Language to Your
-    Customers](http://techneur.com/post/3299224033/your-language-to-your-customers)
+    Customers](http://loudjet.com/a/your-language-to-your-customers)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

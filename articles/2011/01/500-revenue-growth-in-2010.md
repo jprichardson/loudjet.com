@@ -1,6 +1,6 @@
 <!--
 id: 2585915261
-link: http://techneur.com/post/2585915261/500-revenue-growth-in-2010
+link: http://loudjet.com/a/500-revenue-growth-in-2010
 slug: 500-revenue-growth-in-2010
 date: Mon Jan 03 2011 15:47:05 GMT-0600 (CST)
 publish: 2011-01-03

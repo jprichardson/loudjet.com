@@ -1,6 +1,6 @@
 <!--
 id: 751427102
-link: http://techneur.com/post/751427102/microsoft-interview-design-a-kitchen
+link: http://loudjet.com/a/microsoft-interview-design-a-kitchen
 slug: microsoft-interview-design-a-kitchen
 date: Tue Jun 29 2010 18:33:00 GMT-0500 (CDT)
 publish: 2010-06-029

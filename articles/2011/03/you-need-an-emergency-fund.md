@@ -1,6 +1,6 @@
 <!--
 id: 3856822333
-link: http://techneur.com/post/3856822333/you-need-an-emergency-fund
+link: http://loudjet.com/a/you-need-an-emergency-fund
 slug: you-need-an-emergency-fund
 date: Mon Mar 14 2011 11:45:00 GMT-0500 (CDT)
 publish: 2011-03-014
@@ -142,11 +142,11 @@ fund](http://www.thesimpledollar.com/2009/03/02/a-step-by-step-guide-to-building
 You might also enjoy:
 
 1.  [Fight the Man by Building
-    Self-Reliance](http://techneur.com/post/3088682121/fight-the-man-by-building-self-reliance)
+    Self-Reliance](http://loudjet.com/a/fight-the-man-by-building-self-reliance)
 2.  [A Wise Man Learns from the Experience of
-    Others](http://techneur.com/post/1397281188/a-wise-man-learns-from-the-experience-of-others)
+    Others](http://loudjet.com/a/a-wise-man-learns-from-the-experience-of-others)
 3.  [So You Want to Become
-    Rich?](http://techneur.com/post/1012320994/so-you-want-to-become-rich)
+    Rich?](http://loudjet.com/a/so-you-want-to-become-rich)
 
 You should follow me on Twitter:
 [@jprichardson](http://twitter.com/jprichardson)

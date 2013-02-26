@@ -1,6 +1,6 @@
 <!--
 id: 686224891
-link: http://techneur.com/post/686224891/just-be-yourself
+link: http://loudjet.com/a/just-be-yourself
 slug: just-be-yourself
 date: Fri Jun 11 2010 01:48:00 GMT-0500 (CDT)
 publish: 2010-06-011

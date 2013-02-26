@@ -1,6 +1,6 @@
 <!--
 id: 3068783134
-link: http://techneur.com/post/3068783134/customers-demand-native-for-mobile-apps
+link: http://loudjet.com/a/customers-demand-native-for-mobile-apps
 slug: customers-demand-native-for-mobile-apps
 date: Wed Feb 02 2011 10:30:00 GMT-0600 (CST)
 publish: 2011-02-02
@@ -87,7 +87,7 @@ is not just an afterthought.
 My main point is this: if you’re a business who needs to reach your
 customers on these devices, do not tell yourself or your customers t[hat
 you don’t have the time. Be honest that it’s not a
-priority.](http://techneur.com/post/535211849/dont-have-the-time) Don’t
+priority.](http://loudjet.com/a/dont-have-the-time) Don’t
 short-change your customers, they deserve better, they deserve native.
 
 I should also note that I think this app store/native craziness is only
@@ -104,11 +104,11 @@ cross-platform mobile libraries like
 You might also enjoy:
 
 1.  [10 Things That I’ve Learned About the Android
-    Market](http://techneur.com/post/1126039921/10-things-ive-learned-about-the-android-market)
+    Market](http://loudjet.com/a/10-things-ive-learned-about-the-android-market)
 2.  [Mobile Platform Madness: Apple vs
-    Google](http://techneur.com/post/1131451546/mobile-platform-madness-apple-vs-google)
+    Google](http://loudjet.com/a/mobile-platform-madness-apple-vs-google)
 3.  [Don’t Listen to the Techies, Embrace
-    ChromeOS](http://techneur.com/post/2337772004/dont-listen-to-the-techies-embrace-chrome-os)
+    ChromeOS](http://loudjet.com/a/dont-listen-to-the-techies-embrace-chrome-os)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

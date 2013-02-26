@@ -1,6 +1,6 @@
 <!--
 id: 615265667
-link: http://techneur.com/post/615265667/learning-pains
+link: http://loudjet.com/a/learning-pains
 slug: learning-pains
 date: Wed May 19 2010 23:44:00 GMT-0500 (CDT)
 publish: 2010-05-019
@@ -29,7 +29,7 @@ move our sports apps to another LLC. He had a point. We dealt with this
 a bit on Reddit when I
 [posted](http://www.reddit.com/r/programming/comments/bc4ot/why_i_am_giving_up_building_a_business_on_the/)
 my article about how [developing for the app store was a losing
-proposition](http://techneur.com/post/440686528/its-all-our-fault-why-building-a-business-on-the).
+proposition](http://loudjet.com/a/its-all-our-fault-why-building-a-business-on-the).
 But, I wasn’t willing to move anything out of Reflect7 or start anything
 outside of Reflect7. Reflect7 is who we are. It’s our brand. It’s our
 story, mistakes and everything.

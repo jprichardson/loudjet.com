@@ -1,6 +1,6 @@
 <!--
 id: 1095220730
-link: http://techneur.com/post/1095220730/apples-new-app-store-guidelines-and-what-they-mean-to
+link: http://loudjet.com/a/apples-new-app-store-guidelines-and-what-they-mean-to
 slug: apples-new-app-store-guidelines-and-what-they-mean-to
 date: Thu Sep 09 2010 22:24:00 GMT-0500 (CDT)
 publish: 2010-09-09
@@ -63,7 +63,7 @@ response almost instantly. We’ve given hundreds of dollars in gift
 certificates to people who have had problems with their apps. We truly
 care about our customer. Our customers were [part of the motivation for
 us to not drop the sports
-apps](http://techneur.com/post/618759385/legacy-is-not-purpose). We care
+apps](http://loudjet.com/a/legacy-is-not-purpose). We care
 about the apps. They have there fair share of problems, but one-by-one
 they are being worked on.
 
@@ -71,18 +71,18 @@ But this doesn’t matter. If we should get rejected, we must pivot. We
 must roll with the punches. We must change our business model a bit. I’m
 confident we will persevere, despite this not being the first road block
 from Apple. After all, [it is our
-fault](http://techneur.com/post/440686528/its-all-our-fault-why-building-a-business-on-the).
+fault](http://loudjet.com/a/its-all-our-fault-why-building-a-business-on-the).
 
 If you enjoyed this, you might enjoy:
 
 1.  [It’s All Our Fault, Why Building a Business on the App Store Is a
     Losing
-    Proposition](http://techneur.com/post/440686528/its-all-our-fault-why-building-a-business-on-the)
+    Proposition](http://loudjet.com/a/its-all-our-fault-why-building-a-business-on-the)
 2.  [Legacy Is Not
-    Purpose](http://techneur.com/post/618759385/legacy-is-not-purpose)
+    Purpose](http://loudjet.com/a/legacy-is-not-purpose)
 3.  [Resilience: It’s Not How Hard You Hit, It’s How Hard You Hit and
     Keep Moving
-    Forward](http://techneur.com/post/1057746147/resilience-its-not-how-hard-you-hit-its-how-hard)
+    Forward](http://loudjet.com/a/resilience-its-not-how-hard-you-hit-its-how-hard)
 
 Follow Me on [Twitter](http://twitter.com/jprichardson)
 

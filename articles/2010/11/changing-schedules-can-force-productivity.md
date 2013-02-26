@@ -1,6 +1,6 @@
 <!--
 id: 1479262807
-link: http://techneur.com/post/1479262807/changing-schedules-can-force-productivity
+link: http://loudjet.com/a/changing-schedules-can-force-productivity
 slug: changing-schedules-can-force-productivity
 date: Thu Nov 04 2010 06:33:48 GMT-0500 (CDT)
 publish: 2010-11-04
@@ -39,11 +39,11 @@ constraints](http://gettingreal.37signals.com/ch03_Embrace_Constraints.php).
 You may enjoy:
 
 1.  [Forget Work, It’s Time to
-    Rework](http://techneur.com/post/550060849/rework)
+    Rework](http://loudjet.com/a/rework)
 2.  [Less Consumption, More
-    Production](http://techneur.com/post/649237455/less-consumption-more-production)
+    Production](http://loudjet.com/a/less-consumption-more-production)
 3.  [Distractions are the Bane of
-    Productivity](http://techneur.com/post/1089626038/distractions-are-the-bane-of-productivity)
+    Productivity](http://loudjet.com/a/distractions-are-the-bane-of-productivity)
 
 Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

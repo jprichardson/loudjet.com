@@ -1,6 +1,6 @@
 <!--
 id: 982121119
-link: http://techneur.com/post/982121119/work-hard-play-hard
+link: http://loudjet.com/a/work-hard-play-hard
 slug: work-hard-play-hard
 date: Fri Aug 20 2010 07:06:00 GMT-0500 (CDT)
 publish: 2010-08-020

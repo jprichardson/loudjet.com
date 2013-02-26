@@ -1,6 +1,6 @@
 <!--
 id: 631320672
-link: http://techneur.com/post/631320672/time-to-get-scrappy
+link: http://loudjet.com/a/time-to-get-scrappy
 slug: time-to-get-scrappy
 date: Tue May 25 2010 08:53:00 GMT-0500 (CDT)
 publish: 2010-05-025
@@ -14,12 +14,12 @@ It's Time to Get Scrappy
 ![](http://media.tumblr.com/tumblr_l2wagayl1x1qzbc4f.png)
 
 Two of my [entrepreneurial
-heros](http://techneur.com/post/404706243/entrepreneurial-heroes) have
+heros](http://loudjet.com/a/entrepreneurial-heroes) have
 given me some advice. [Gary Vaynernchuk](http://garyvaynerchuk.com/)
 said at [Big Omaha](http://bigomaha.com) that it’s time to get scrappy.
 Do it what it takes. [Jason Fried](http://twitter.com/jasonfried)
 advised entrepreneurs to sell their by products in the book
-[Rework](http://techneur.com/post/550060849/rework). So, I’m listening
+[Rework](http://loudjet.com/a/rework). So, I’m listening
 to the both of them.
 
 About four years ago, I was working with incredibly large

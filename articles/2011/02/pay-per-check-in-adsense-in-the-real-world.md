@@ -1,6 +1,6 @@
 <!--
 id: 3462048907
-link: http://techneur.com/post/3462048907/pay-per-check-in-adsense-in-the-real-world
+link: http://loudjet.com/a/pay-per-check-in-adsense-in-the-real-world
 slug: pay-per-check-in-adsense-in-the-real-world
 date: Wed Feb 23 2011 04:30:07 GMT-0600 (CST)
 publish: 2011-02-023
@@ -56,10 +56,10 @@ Let me know your thoughts,
 If you liked this post, you may like:
 
 1.  [Are You a Commodity: Foursquare \> Facebook
-    Location](http://techneur.com/post/1046726534 "Are You a Commodity: Foursquare > Facebook Location")
+    Location](http://loudjet.com/a "Are You a Commodity: Foursquare > Facebook Location")
 2.  [Steve Jobs Lesson’s on Marketing: Values and
-    Belief](http://techneur.com/post/1035350505 "Steve Jobs Lesson's on Marketing: Values and Belief")
+    Belief](http://loudjet.com/a "Steve Jobs Lesson's on Marketing: Values and Belief")
 3.  [What Monopoly Can Teach Us About
-    Business](http://techneur.com/post/870155415 "What Monopoly Can Teach Us About Business")
+    Business](http://loudjet.com/a "What Monopoly Can Teach Us About Business")
 
 

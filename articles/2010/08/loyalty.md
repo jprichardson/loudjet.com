@@ -1,6 +1,6 @@
 <!--
 id: 965719928
-link: http://techneur.com/post/965719928/loyalty
+link: http://loudjet.com/a/loyalty
 slug: loyalty
 date: Mon Aug 16 2010 22:14:30 GMT-0500 (CDT)
 publish: 2010-08-016
@@ -38,7 +38,7 @@ and you’ll be on your way to building a successful business.
 
 If you enjoyed this, you may enjoy:\
 [Focus on Your Customers and the Money Will
-Follow](http://techneur.com/post/756645540/focus-on-your-customers-and-the-money-will-follow)
+Follow](http://loudjet.com/a/focus-on-your-customers-and-the-money-will-follow)
 
 Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

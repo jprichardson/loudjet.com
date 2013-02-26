@@ -1,6 +1,6 @@
 <!--
 id: 1534181876
-link: http://techneur.com/post/1534181876/things-that-stimulate-your-mind
+link: http://loudjet.com/a/things-that-stimulate-your-mind
 slug: things-that-stimulate-your-mind
 date: Wed Nov 10 2010 08:38:43 GMT-0600 (CST)
 publish: 2010-11-010
@@ -56,11 +56,11 @@ What stimulates your mind?
 You may enjoy:
 
 1.  [Distractions Are the Bane of
-    Productivity](http://techneur.com/post/1089626038/distractions-are-the-bane-of-productivity)
+    Productivity](http://loudjet.com/a/distractions-are-the-bane-of-productivity)
 2.  [Work Until Your Eyes
-    Bleed](http://techneur.com/post/1041263868/work-until-your-eyes-bleed)
+    Bleed](http://loudjet.com/a/work-until-your-eyes-bleed)
 3.  [The Trap is in Your
-    Mind](http://techneur.com/post/931853278/the-trap-is-your-mind)
+    Mind](http://loudjet.com/a/the-trap-is-your-mind)
 
 Tweet me: [@jprichardson](http://twitter.com/jprichardson)
 

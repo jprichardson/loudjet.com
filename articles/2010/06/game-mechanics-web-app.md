@@ -1,6 +1,6 @@
 <!--
 id: 730628061
-link: http://techneur.com/post/730628061/game-mechanics-web-app
+link: http://loudjet.com/a/game-mechanics-web-app
 slug: game-mechanics-web-app
 date: Thu Jun 24 2010 02:38:00 GMT-0500 (CDT)
 publish: 2010-06-024
@@ -15,7 +15,7 @@ Why You Should Incorporate Game Mechanics into Your Web App
 
 Awhile back, I wrote an article about how [I consume so much and that I
 should be producing
-more](http://techneur.com/post/649237455/less-consumption-more-production).
+more](http://loudjet.com/a/less-consumption-more-production).
 The experiment seemed to be a success. I kept to my goals of checking my
 sites only once a day. I even spent a few hours to whip up a web app to
 track my Production Number. The app is really simple. There are two

@@ -1,6 +1,6 @@
 <!--
 id: 1453153113
-link: http://techneur.com/post/1453153113/a-case-for-minimalism
+link: http://loudjet.com/a/a-case-for-minimalism
 slug: a-case-for-minimalism
 date: Mon Nov 01 2010 08:16:02 GMT-0500 (CDT)
 publish: 2010-11-01
@@ -14,7 +14,7 @@ A Case for Minimalism
 ![](http://media.tumblr.com/tumblr_lb7jigw2pW1qzbc4f.jpg)
 
 As [written
-previously](http://techneur.com/post/1298873393/moving-and-minimalism),
+previously](http://loudjet.com/a/moving-and-minimalism),
 I moved. During the move I condensed down a lot of my stuff to. I had
 about eight boxes of old stuff. Teddy bears, college notes, graduation
 gowns, jerseys of my favorite boyhood sports’ heroes, etc. I condensed
@@ -114,11 +114,11 @@ stuff](http://mnmlist.com/the-true-cost-of-stuff):
 You may enjoy:
 
 1.  [A Wise Man Learns from the Experience of
-    Others](http://techneur.com/post/1397281188/a-wise-man-learns-from-the-experience-of-others)
+    Others](http://loudjet.com/a/a-wise-man-learns-from-the-experience-of-others)
 2.  [So You Want to Become
-    Rich?](http://techneur.com/post/1012320994/so-you-want-to-become-rich)
+    Rich?](http://loudjet.com/a/so-you-want-to-become-rich)
 3.  [Detoxify Your
-    Life](http://techneur.com/post/567516819/detoxify-your-life)
+    Life](http://loudjet.com/a/detoxify-your-life)
 
 Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

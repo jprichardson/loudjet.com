@@ -1,6 +1,6 @@
 <!--
 id: 4159105323
-link: http://techneur.com/post/4159105323/the-two-device-productivity-solution
+link: http://loudjet.com/a/the-two-device-productivity-solution
 slug: the-two-device-productivity-solution
 date: Mon Mar 28 2011 08:48:00 GMT-0500 (CDT)
 publish: 2011-03-028
@@ -92,13 +92,13 @@ Let me know how this goes for you.
 You might also enjoy:
 
 1.  [What the Successful Will Do that You
-    Won’t](http://techneur.com/post/3900181315/what-the-successful-will-do-that-you-wont)
+    Won’t](http://loudjet.com/a/what-the-successful-will-do-that-you-wont)
 2.  [Don’t Let the Brain Prevent You From Your
-    Goals](http://techneur.com/post/3484249692/dont-let-brain-prevent-your-goals)
+    Goals](http://loudjet.com/a/dont-let-brain-prevent-your-goals)
 3.  [Large Iterations Slow
-    Momentum](http://techneur.com/post/2924693147/large-iterations-slow-momentum)
+    Momentum](http://loudjet.com/a/large-iterations-slow-momentum)
 4.  [Changing Schedules can Force
-    Productivity](http://techneur.com/post/1479262807/changing-schedules-can-force-productivity)
+    Productivity](http://loudjet.com/a/changing-schedules-can-force-productivity)
 
 You should follow me on Twitter:
 [@jprichardson](http://twitter.com/jprichardson)

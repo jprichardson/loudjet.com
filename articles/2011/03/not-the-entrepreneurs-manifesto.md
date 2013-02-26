@@ -1,6 +1,6 @@
 <!--
 id: 3621518894
-link: http://techneur.com/post/3621518894/not-the-entrepreneurs-manifesto
+link: http://loudjet.com/a/not-the-entrepreneurs-manifesto
 slug: not-the-entrepreneurs-manifesto
 date: Thu Mar 03 2011 10:43:00 GMT-0600 (CST)
 publish: 2011-03-03

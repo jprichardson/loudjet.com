@@ -1,6 +1,6 @@
 <!--
 id: 2908631054
-link: http://techneur.com/post/2908631054/timely-correspondence
+link: http://loudjet.com/a/timely-correspondence
 slug: timely-correspondence
 date: Mon Jan 24 2011 08:38:00 GMT-0600 (CST)
 publish: 2011-01-024

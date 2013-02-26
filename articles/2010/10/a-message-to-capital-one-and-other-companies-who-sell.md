@@ -1,6 +1,6 @@
 <!--
 id: 1251165617
-link: http://techneur.com/post/1251165617/a-message-to-capital-one-and-other-companies-who-sell
+link: http://loudjet.com/a/a-message-to-capital-one-and-other-companies-who-sell
 slug: a-message-to-capital-one-and-other-companies-who-sell
 date: Tue Oct 05 2010 16:38:09 GMT-0500 (CDT)
 publish: 2010-10-05
@@ -92,15 +92,15 @@ should stay with them.
 If you enjoyed this, you might enjoy:
 
 1.  [Hey Taco John’s Go F\*ck
-    Yourself](http://techneur.com/post/564894016/hey-taco-johns-go-f-ck-yourselves-a-failure-to)
+    Yourself](http://loudjet.com/a/hey-taco-johns-go-f-ck-yourselves-a-failure-to)
 2.  [Your Call Is Important to
-    Us](http://techneur.com/post/874855332/your-call-is-important-to-us)
+    Us](http://loudjet.com/a/your-call-is-important-to-us)
 3.  [Give Your Customers a Story to
-    Tell](http://techneur.com/post/830872725/give-your-customers-a-story-to-tell)
+    Tell](http://loudjet.com/a/give-your-customers-a-story-to-tell)
 4.  [Focus on Your Customers and the Money Will
-    Follow](http://techneur.com/post/756645540/focus-on-your-customers-and-the-money-will-follow)
+    Follow](http://loudjet.com/a/focus-on-your-customers-and-the-money-will-follow)
 5.  [Be Exceptional and People Will Market for
-    You](http://techneur.com/post/682647739/be-exceptional-and-people-will-market-for-you)
+    You](http://loudjet.com/a/be-exceptional-and-people-will-market-for-you)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

@@ -1,6 +1,6 @@
 <!--
 id: 4777208702
-link: http://techneur.com/post/4777208702/literature-and-life
+link: http://loudjet.com/a/literature-and-life
 slug: literature-and-life
 date: Wed Apr 20 2011 09:50:48 GMT-0500 (CDT)
 publish: 2011-04-020
@@ -132,11 +132,11 @@ you think?
 
 You might also enjoy:
 
-1.  [If Only](http://techneur.com/post/711982960/if-only)
+1.  [If Only](http://loudjet.com/a/if-only)
 2.  [Become Master of
-    Metaphors](http://techneur.com/post/2820528921/become-master-of-metaphors)
+    Metaphors](http://loudjet.com/a/become-master-of-metaphors)
 3.  [Which is Better: the Journey or
-    Destination?](http://techneur.com/post/859911519/which-is-better-the-journey-or-the-destination)
+    Destination?](http://loudjet.com/a/which-is-better-the-journey-or-the-destination)
 
 If you made it this far, follow me on Twitter:
 [@jprichardson](http://twitter.com/jprichardson)

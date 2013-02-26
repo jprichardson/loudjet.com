@@ -1,6 +1,6 @@
 <!--
 id: 682647739
-link: http://techneur.com/post/682647739/be-exceptional-and-people-will-market-for-you
+link: http://loudjet.com/a/be-exceptional-and-people-will-market-for-you
 slug: be-exceptional-and-people-will-market-for-you
 date: Thu Jun 10 2010 00:36:54 GMT-0500 (CDT)
 publish: 2010-06-010

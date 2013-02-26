@@ -1,6 +1,6 @@
 <!--
 id: 830872725
-link: http://techneur.com/post/830872725/give-your-customers-a-story-to-tell
+link: http://loudjet.com/a/give-your-customers-a-story-to-tell
 slug: give-your-customers-a-story-to-tell
 date: Mon Jul 19 2010 01:06:20 GMT-0500 (CDT)
 publish: 2010-07-019
@@ -21,7 +21,7 @@ went on to say that he buys his a lot of his apparel from Zappos, a
 company who had made a strong impression with their free shipping
 upgrades and one year return policy. I was amazed. A few months ago I
 had seen Tony Hseih, CEO of Zappos, present at [Big
-Omaha](http://techneur.com/post/662289828/big-omaha-2010 "Big Omaha 2010: The Convention, The Parties, and Our Good Friend, Gentleman Jack").
+Omaha](http://loudjet.com/a/big-omaha-2010 "Big Omaha 2010: The Convention, The Parties, and Our Good Friend, Gentleman Jack").
 There, he spoke directly about creating great impressions with
 customers.
 
@@ -75,13 +75,13 @@ to tell.
 If you liked this blog post, you may like:
 
 ​1) [Delivering Happiness
-Review](http://techneur.com/post/671778103/delivering-happiness-review "Techneur: Delivering Happiness Review")
+Review](http://loudjet.com/a/delivering-happiness-review "Techneur: Delivering Happiness Review")
 
 ​2) [Focus On Your Customers and the Money Will
-Follow](http://techneur.com/post/756645540/focus-on-your-customers-and-the-money-will-follow "Techneur: Focus On Your Customers and the Money Will Follow")
+Follow](http://loudjet.com/a/focus-on-your-customers-and-the-money-will-follow "Techneur: Focus On Your Customers and the Money Will Follow")
 
 ​3) [Be Exceptional and People Will Market For
-You](http://techneur.com/post/682647739/be-exceptional-and-people-will-market-for-you "Technuer: Be Exceptional and People Will Market For You")
+You](http://loudjet.com/a/be-exceptional-and-people-will-market-for-you "Technuer: Be Exceptional and People Will Market For You")
 
 [Follow Me On
 Twitter](http://twitter.com/brianlambelet "Follow Brian Lambelet on Twitter")

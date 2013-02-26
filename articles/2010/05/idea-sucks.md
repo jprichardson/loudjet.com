@@ -1,6 +1,6 @@
 <!--
 id: 570120631
-link: http://techneur.com/post/570120631/idea-sucks
+link: http://loudjet.com/a/idea-sucks
 slug: idea-sucks
 date: Tue May 04 2010 00:24:00 GMT-0500 (CDT)
 publish: 2010-05-04

@@ -1,6 +1,6 @@
 <!--
 id: 2684174427
-link: http://techneur.com/post/2684174427/make-small-deposits-into-the-bank-of-success
+link: http://loudjet.com/a/make-small-deposits-into-the-bank-of-success
 slug: make-small-deposits-into-the-bank-of-success
 date: Mon Jan 10 2011 08:30:00 GMT-0600 (CST)
 publish: 2011-01-010
@@ -45,11 +45,11 @@ What do you think?
 You might also enjoy:
 
 1.  [Less Consumption, More
-    Production](http://techneur.com/post/649237455/less-consumption-more-production)
+    Production](http://loudjet.com/a/less-consumption-more-production)
 2.  [Is it
-    Actionable?](http://techneur.com/post/652742373/is-it-actionable-no-then-get-rid-of-it)
+    Actionable?](http://loudjet.com/a/is-it-actionable-no-then-get-rid-of-it)
 3.  [Start with a
-    Vision](http://techneur.com/post/2325415779/start-with-a-vision)
+    Vision](http://loudjet.com/a/start-with-a-vision)
 
 Tweet Me: [@jprichardson](http://twitter.com/jprichardson)
 

@@ -1,6 +1,6 @@
 <!--
 id: 404706243
-link: http://techneur.com/post/404706243/entrepreneurial-heroes
+link: http://loudjet.com/a/entrepreneurial-heroes
 slug: entrepreneurial-heroes
 date: Mon Feb 22 2010 04:42:00 GMT-0600 (CST)
 publish: 2010-02-022

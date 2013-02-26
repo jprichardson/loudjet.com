@@ -1,6 +1,6 @@
 <!--
 id: 1114058782
-link: http://techneur.com/post/1114058782/commitment-vs-involvement
+link: http://loudjet.com/a/commitment-vs-involvement
 slug: commitment-vs-involvement
 date: Mon Sep 13 2010 01:14:00 GMT-0500 (CDT)
 publish: 2010-09-013
@@ -18,7 +18,7 @@ involved, but a pig is
 committed](http://en.wikipedia.org/wiki/The_Chicken_and_the_Pig).”
 
 I wrote a post about how you should [work until your eyes
-bleed](http://techneur.com/post/1041263868/work-until-your-eyes-bleed).
+bleed](http://loudjet.com/a/work-until-your-eyes-bleed).
 The post is very short, but to summarize: the post is about how
 entrepreneurs need to step up and kick their own ass in order to
 succeed. Go read it. I’ll wait.
@@ -104,11 +104,11 @@ Do you have it in you? Are you committed or are you just involved?
 If you enjoyed this, you may enjoy:
 
 1.  [So You Want to be
-    Rich?](http://techneur.com/post/1012320994/so-you-want-to-become-rich)
+    Rich?](http://loudjet.com/a/so-you-want-to-become-rich)
 2.  [Starting a Business is Like Getting
-    Married](http://techneur.com/post/555332733/business-marriage)
+    Married](http://loudjet.com/a/business-marriage)
 3.  [Detoxify Your
-    Life](http://techneur.com/post/567516819/detoxify-your-life)
+    Life](http://loudjet.com/a/detoxify-your-life)
 
 Follow me on [Twitter](http://twitter.com/jprichardson)
 

@@ -1,6 +1,6 @@
 <!--
 id: 9251361615
-link: http://techneur.com/post/9251361615/youre-only-as-good-as-your-word
+link: http://loudjet.com/a/youre-only-as-good-as-your-word
 slug: youre-only-as-good-as-your-word
 date: Mon Aug 22 2011 09:30:00 GMT-0500 (CDT)
 publish: 2011-08-022
@@ -229,11 +229,11 @@ respect. Trust me! :p
 You might also enjoy:
 
 1.  [Metaphors and
-    Marketing](http://techneur.com/post/4805888326/metaphors-and-marketing)
+    Marketing](http://loudjet.com/a/metaphors-and-marketing)
 2.  [51 Hours to
-    Live](http://techneur.com/post/3702809389/51-hours-to-live)
+    Live](http://loudjet.com/a/51-hours-to-live)
 3.  [Positivity
-    Breeds Positivity](http://techneur.com/post/2697836616/positivity-breeds-positivity)
+    Breeds Positivity](http://loudjet.com/a/positivity-breeds-positivity)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

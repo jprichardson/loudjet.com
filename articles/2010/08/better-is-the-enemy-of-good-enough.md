@@ -1,6 +1,6 @@
 <!--
 id: 941792687
-link: http://techneur.com/post/941792687/better-is-the-enemy-of-good-enough
+link: http://loudjet.com/a/better-is-the-enemy-of-good-enough
 slug: better-is-the-enemy-of-good-enough
 date: Thu Aug 12 2010 06:11:00 GMT-0500 (CDT)
 publish: 2010-08-012
@@ -80,9 +80,9 @@ project out the door.
 If you like this post, you may like:
 
 -   [Forget Work, It’s Time to
-    Rework](http://techneur.com/post/550060849/rework "Forget Work, It's Time to Rework")
+    Rework](http://loudjet.com/a/rework "Forget Work, It's Time to Rework")
 -   [The Startup Idea
-    Filter](http://techneur.com/post/935550443/the-startup-idea-filter "The Startup Idea Filter")
+    Filter](http://loudjet.com/a/the-startup-idea-filter "The Startup Idea Filter")
 
 [Follow Me on
 Twitter](http://twitter.com/brianlambelet "Follow Brian on Twitter")

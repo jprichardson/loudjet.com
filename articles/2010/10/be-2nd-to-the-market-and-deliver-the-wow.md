@@ -1,6 +1,6 @@
 <!--
 id: 1305934872
-link: http://techneur.com/post/1305934872/be-2nd-to-the-market-and-deliver-the-wow
+link: http://loudjet.com/a/be-2nd-to-the-market-and-deliver-the-wow
 slug: be-2nd-to-the-market-and-deliver-the-wow
 date: Wed Oct 13 2010 08:48:00 GMT-0500 (CDT)
 publish: 2010-10-013
@@ -14,7 +14,7 @@ Be 2nd to the Market and Deliver the Wow
 ![](http://media.tumblr.com/tumblr_la8elbsGQc1qzbc4f.jpg)
 
 Since I’m
-[moving](http://techneur.com/post/1298873393/moving-and-minimalism),
+[moving](http://loudjet.com/a/moving-and-minimalism),
 I’ve been scanning my old photos and letters, taking pictures of old
 sentimental items, and organizing my digital/real life. I’m really glad
 that a service like
@@ -52,16 +52,16 @@ followers](http://steveblank.com/2010/10/04/why-pioneers-are-the-ones-with-the-a
 
 Move fast, don’t be first, and deliver the wow. Most importantly, [know
 the problem that you
-solve](http://techneur.com/post/908299611/google-wave-post-mortem-what-entrepreneurs-can-learn).
+solve](http://loudjet.com/a/google-wave-post-mortem-what-entrepreneurs-can-learn).
 
 You might also enjoy:
 
 1.  [Leverage Simplicity and the Desire for
-    Information](http://techneur.com/post/840820906/leverage-simplicity-and-the-desire-for-information)
+    Information](http://loudjet.com/a/leverage-simplicity-and-the-desire-for-information)
 2.  [Give Your Customers a Story to
-    Tell](http://techneur.com/post/830872725/give-your-customers-a-story-to-tell)
+    Tell](http://loudjet.com/a/give-your-customers-a-story-to-tell)
 3.  [Be Exceptional and People Will Market for
-    You](http://techneur.com/post/682647739/be-exceptional-and-people-will-market-for-you)
+    You](http://loudjet.com/a/be-exceptional-and-people-will-market-for-you)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

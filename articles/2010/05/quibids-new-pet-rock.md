@@ -1,6 +1,6 @@
 <!--
 id: 588797933
-link: http://techneur.com/post/588797933/quibids-new-pet-rock
+link: http://loudjet.com/a/quibids-new-pet-rock
 slug: quibids-new-pet-rock
 date: Tue May 11 2010 00:41:55 GMT-0500 (CDT)
 publish: 2010-05-011

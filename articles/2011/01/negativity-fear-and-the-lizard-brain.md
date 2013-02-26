@@ -1,6 +1,6 @@
 <!--
 id: 2714027542
-link: http://techneur.com/post/2714027542/negativity-fear-and-the-lizard-brain
+link: http://loudjet.com/a/negativity-fear-and-the-lizard-brain
 slug: negativity-fear-and-the-lizard-brain
 date: Wed Jan 12 2011 10:00:03 GMT-0600 (CST)
 publish: 2011-01-012

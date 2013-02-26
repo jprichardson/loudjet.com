@@ -1,6 +1,6 @@
 <!--
 id: 1052195802
-link: http://techneur.com/post/1052195802/always-build-equity-what-you-can-learn-from-a-pick-up
+link: http://loudjet.com/a/always-build-equity-what-you-can-learn-from-a-pick-up
 slug: always-build-equity-what-you-can-learn-from-a-pick-up
 date: Thu Sep 02 2010 02:22:00 GMT-0500 (CDT)
 publish: 2010-09-02

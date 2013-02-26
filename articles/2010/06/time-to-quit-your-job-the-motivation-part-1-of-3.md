@@ -1,6 +1,6 @@
 <!--
 id: 707087897
-link: http://techneur.com/post/707087897/time-to-quit-your-job-the-motivation-part-1-of-3
+link: http://loudjet.com/a/time-to-quit-your-job-the-motivation-part-1-of-3
 slug: time-to-quit-your-job-the-motivation-part-1-of-3
 date: Thu Jun 17 2010 01:03:37 GMT-0500 (CDT)
 publish: 2010-06-017

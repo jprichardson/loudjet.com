@@ -1,6 +1,6 @@
 <!--
 id: 3165510663
-link: http://techneur.com/post/3165510663/legacy-is-greater-than-currency
+link: http://loudjet.com/a/legacy-is-greater-than-currency
 slug: legacy-is-greater-than-currency
 date: Mon Feb 07 2011 11:31:10 GMT-0600 (CST)
 publish: 2011-02-07
@@ -71,11 +71,11 @@ ourselves, our business, and our legacy. 
 You might also enjoy:
 
 1.  [The Best Exercise Any Entrepreneur Can
-    Do](http://techneur.com/post/524363996/the-best-exercise-any-entrepreneur-can-do)
+    Do](http://loudjet.com/a/the-best-exercise-any-entrepreneur-can-do)
 2.  [Legacy is not
-    Purpose](http://techneur.com/post/618759385/legacy-is-not-purpose)
+    Purpose](http://loudjet.com/a/legacy-is-not-purpose)
 3.  [Always Remember Number
-    One](http://techneur.com/post/542183349/family-number-one)
+    One](http://loudjet.com/a/family-number-one)
 
 Tweet me: [@jprichardson](http://twitter.com/jprichardson)
 

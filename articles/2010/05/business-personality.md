@@ -1,6 +1,6 @@
 <!--
 id: 572976797
-link: http://techneur.com/post/572976797/business-personality
+link: http://loudjet.com/a/business-personality
 slug: business-personality
 date: Wed May 05 2010 02:26:00 GMT-0500 (CDT)
 publish: 2010-05-05
@@ -23,7 +23,7 @@ unsurpassed diversity.” Have you figured it out yet? They’re writing is
 boring. They’re boring. They sound like everyone else.
 
 I like what [Jason
-Fried](http://techneur.com/post/404706243/entrepreneurial-heroes) of 37
+Fried](http://loudjet.com/a/entrepreneurial-heroes) of 37
 Signals [writes](http://www.inc.com/magazine/20100501/why-is-business-writing-so-awful.html)
 on the topic:
 

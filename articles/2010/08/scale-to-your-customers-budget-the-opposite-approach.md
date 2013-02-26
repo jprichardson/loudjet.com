@@ -1,6 +1,6 @@
 <!--
 id: 893034232
-link: http://techneur.com/post/893034232/scale-to-your-customers-budget-the-opposite-approach
+link: http://loudjet.com/a/scale-to-your-customers-budget-the-opposite-approach
 slug: scale-to-your-customers-budget-the-opposite-approach
 date: Mon Aug 02 2010 07:38:11 GMT-0500 (CDT)
 publish: 2010-08-02
@@ -75,10 +75,10 @@ possible.
 If you liked this you may like:
 
 1.  [Compete on
-    High-Touch](http://techneur.com/post/753257213/compete-on-high-touch "Compete on High-Touch")
+    High-Touch](http://loudjet.com/a/compete-on-high-touch "Compete on High-Touch")
 2.  [Better to have a Difficult Conversation Now, than a Failed Customer
     Interaction
-    Later](http://techneur.com/post/821807701/difficult-conversation-failed-customer-interaction-later "http://techneur.com/post/821807701/difficult-conversation-failed-customer-interaction-later")
+    Later](http://loudjet.com/a/difficult-conversation-failed-customer-interaction-later "http://loudjet.com/a/difficult-conversation-failed-customer-interaction-later")
 
 [Follow Me on
 Twitter.](http://twitter.com/brianlambelet "Follow Brian on Twitter")

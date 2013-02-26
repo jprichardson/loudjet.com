@@ -1,6 +1,6 @@
 <!--
 id: 805724065
-link: http://techneur.com/post/805724065/relationships-resumes
+link: http://loudjet.com/a/relationships-resumes
 slug: relationships-resumes
 date: Tue Jul 13 2010 03:22:00 GMT-0500 (CDT)
 publish: 2010-07-013

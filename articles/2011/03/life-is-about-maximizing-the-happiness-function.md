@@ -1,6 +1,6 @@
 <!--
 id: 3602541949
-link: http://techneur.com/post/3602541949/life-is-about-maximizing-the-happiness-function
+link: http://loudjet.com/a/life-is-about-maximizing-the-happiness-function
 slug: life-is-about-maximizing-the-happiness-function
 date: Wed Mar 02 2011 11:30:00 GMT-0600 (CST)
 publish: 2011-03-02
@@ -82,11 +82,11 @@ What are your thoughts?
 You might also enjoy:
 
 1.  [Which is Better: the Journey or
-    Destination?](http://techneur.com/post/859911519/which-is-better-the-journey-or-the-destination)
+    Destination?](http://loudjet.com/a/which-is-better-the-journey-or-the-destination)
 2.  [It’s Not About Time, It’s About
-    Priority](http://techneur.com/post/535211849/dont-have-the-time)
+    Priority](http://loudjet.com/a/dont-have-the-time)
 3.  [So You Want to Become
-    Rich?](http://techneur.com/post/1012320994/so-you-want-to-become-rich)
+    Rich?](http://loudjet.com/a/so-you-want-to-become-rich)
 
 Tweet me: [@jprichardson](http://twitter.com/jprichardson)
 

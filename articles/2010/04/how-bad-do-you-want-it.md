@@ -1,6 +1,6 @@
 <!--
 id: 552633852
-link: http://techneur.com/post/552633852/how-bad-do-you-want-it
+link: http://loudjet.com/a/how-bad-do-you-want-it
 slug: how-bad-do-you-want-it
 date: Tue Apr 27 2010 00:01:00 GMT-0500 (CDT)
 publish: 2010-04-027
@@ -61,7 +61,7 @@ sideways](http://www.jonathanfields.com/blog/the-neutral-fallacy-there-is-no-sid
 in life, you’re always improving or weakening. [Don’t sacrifice the
 short-term](http://www.thesimpledollar.com/2009/08/06/the-short-term-and-the-long-term-choice/)
 for the long-term. Your [time is an
-investment](http://techneur.com/post/535211849/dont-have-the-time). Take
+investment](http://loudjet.com/a/dont-have-the-time). Take
 one day at a time.
 
 How bad do you want it?

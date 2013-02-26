@@ -1,6 +1,6 @@
 <!--
 id: 720958036
-link: http://techneur.com/post/720958036/time-to-quit-your-job-fight-for-flight-2-of-3
+link: http://loudjet.com/a/time-to-quit-your-job-fight-for-flight-2-of-3
 slug: time-to-quit-your-job-fight-for-flight-2-of-3
 date: Mon Jun 21 2010 01:11:00 GMT-0500 (CDT)
 publish: 2010-06-021
@@ -16,7 +16,7 @@ off](http://media.tumblr.com/tumblr_l4cpe4BUdm1qzbc4f.jpg)
 
 If you’ve made it this far, then you’ve taken the first step to creating
 a business you’re passionate about. You have [The
-Motivation](http://techneur.com/post/707087897/time-to-quit-your-job-the-motivation-part-1-of-3 "Time to Quite Your Job Part 1")
+Motivation](http://loudjet.com/a/time-to-quit-your-job-the-motivation-part-1-of-3 "Time to Quite Your Job Part 1")
 and now it’s time to set the plan. Remember, your business doesn’t have
 to be a mattress-filler when it comes to money, just something that you
 love to do. If you love it, people will recognize your love and success
@@ -63,7 +63,7 @@ home, don’t expect to quit your day job - there’s too much on the line.
 
 So what do you do? Take the home off the line. Sell. Downsize to a
 rental. Will having a nice house offset the [pain you
-feel](http://techneur.com/post/707087897/time-to-quit-your-job-the-motivation-part-1-of-3 "The Motivation")
+feel](http://loudjet.com/a/time-to-quit-your-job-the-motivation-part-1-of-3 "The Motivation")
 from having a horrible job? Probably not. The only thing that nice house
 is good for is keeping you committed to the same shit job you hate. A
 job that, probably, isn’t as secure as you think.

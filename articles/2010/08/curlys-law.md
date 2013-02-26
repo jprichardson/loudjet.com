@@ -1,6 +1,6 @@
 <!--
 id: 1005694982
-link: http://techneur.com/post/1005694982/curlys-law
+link: http://loudjet.com/a/curlys-law
 slug: curlys-law
 date: Tue Aug 24 2010 18:13:00 GMT-0500 (CDT)
 publish: 2010-08-024
@@ -46,8 +46,8 @@ discover what that one thing is.
 
 If you enjoyed this, you may enjoy:\
 [The Startup Idea
-Filter](http://techneur.com/post/935550443/the-startup-idea-filter)\
-[Obey Gall’s Law](http://techneur.com/post/656259481/mvp-galls-law)
+Filter](http://loudjet.com/a/the-startup-idea-filter)\
+[Obey Gall’s Law](http://loudjet.com/a/mvp-galls-law)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

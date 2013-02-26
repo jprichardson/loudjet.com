@@ -1,6 +1,6 @@
 <!--
 id: 840820906
-link: http://techneur.com/post/840820906/leverage-simplicity-and-the-desire-for-information
+link: http://loudjet.com/a/leverage-simplicity-and-the-desire-for-information
 slug: leverage-simplicity-and-the-desire-for-information
 date: Wed Jul 21 2010 09:05:00 GMT-0500 (CDT)
 publish: 2010-07-021
@@ -49,11 +49,11 @@ Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 If you enjoyed this post, you may enjoy:
 
 1) [Software as a
-Vision](http://techneur.com/post/696422394/software-as-a-vision)
+Vision](http://loudjet.com/a/software-as-a-vision)
 
 ​2) [Compete on
-High-Touch](http://techneur.com/post/753257213/compete-on-high-touch)
+High-Touch](http://loudjet.com/a/compete-on-high-touch)
 
 ​3) [The Best Word Customers Will Ever
-Hear](http://techneur.com/post/520136880/best-customer-word)
+Hear](http://loudjet.com/a/best-customer-word)
 

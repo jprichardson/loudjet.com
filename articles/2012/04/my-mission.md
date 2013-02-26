@@ -78,7 +78,7 @@ Ideas are like a virus, this one will spread.
 
 
 
-[rmf]: http://techneur.com/post/2315611963/regret-minimization-framework
+[rmf]: http://loudjet.com/a/regret-minimization-framework
 [pl]: http://en.wikipedia.org/wiki/Parkinson's_law
 [pp]: http://en.wikipedia.org/wiki/Pareto_principle
 [4]: http://www.fourhourworkweek.com/

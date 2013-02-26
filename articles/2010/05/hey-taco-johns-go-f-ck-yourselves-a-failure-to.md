@@ -1,6 +1,6 @@
 <!--
 id: 564894016
-link: http://techneur.com/post/564894016/hey-taco-johns-go-f-ck-yourselves-a-failure-to
+link: http://loudjet.com/a/hey-taco-johns-go-f-ck-yourselves-a-failure-to
 slug: hey-taco-johns-go-f-ck-yourselves-a-failure-to
 date: Sun May 02 2010 00:01:00 GMT-0500 (CDT)
 publish: 2010-05-02

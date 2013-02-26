@@ -1,6 +1,6 @@
 <!--
 id: 814159868
-link: http://techneur.com/post/814159868/you-cant-fake-passion
+link: http://loudjet.com/a/you-cant-fake-passion
 slug: you-cant-fake-passion
 date: Thu Jul 15 2010 01:34:00 GMT-0500 (CDT)
 publish: 2010-07-015
@@ -15,7 +15,7 @@ You Can't Fake Passion
 
 This post started out as a response to JP’s blog post [Leveraging Social
 Capital and the 8th Circle of
-Hell](http://techneur.com/post/811177825/leveraging-social-capital-eight-circle-of-hell "Leveraging Social Capital and the 8th Circle of Hell")
+Hell](http://loudjet.com/a/leveraging-social-capital-eight-circle-of-hell "Leveraging Social Capital and the 8th Circle of Hell")
 and took on a life of it’s own…
 
 **My Multi-level Marketing Experience**
@@ -49,7 +49,7 @@ ourselves and friends. We don’t want to monetize our friendships.
 **MLM Bots**
 
 [Like
-JP](http://techneur.com/post/811177825/leveraging-social-capital-eight-circle-of-hell "Leveraging Social Capital and the 8th Circle of Hell"),
+JP](http://loudjet.com/a/leveraging-social-capital-eight-circle-of-hell "Leveraging Social Capital and the 8th Circle of Hell"),
 I’ve been approached by several MLM people. Usually, it’s awkward and
 forced. I’ve outlined the three main types of MLM Bots below:**\
 **

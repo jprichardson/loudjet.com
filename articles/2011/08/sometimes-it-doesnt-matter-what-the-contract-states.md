@@ -1,6 +1,6 @@
 <!--
 id: 9552037857
-link: http://techneur.com/post/9552037857/sometimes-it-doesnt-matter-what-the-contract-states
+link: http://loudjet.com/a/sometimes-it-doesnt-matter-what-the-contract-states
 slug: sometimes-it-doesnt-matter-what-the-contract-states
 date: Mon Aug 29 2011 13:20:00 GMT-0500 (CDT)
 publish: 2011-08-029
@@ -47,11 +47,11 @@ make your contracts crystal clear? What could be misinterpreted?
 You might also enjoy:
 
 1.  [What the Restaurant Industry Can Teach Us About Business: Customer
-    Expectations](http://techneur.com/post/9333627575/restaurant-industry-teach-business-customer-expectations)
+    Expectations](http://loudjet.com/a/restaurant-industry-teach-business-customer-expectations)
 2.  [To Stand Out, You Must Dazzle Your
-    Customers](http://techneur.com/post/3565725520/to-stand-out-you-must-dazzle-your-customers)
+    Customers](http://loudjet.com/a/to-stand-out-you-must-dazzle-your-customers)
 3.  [Consider Customer
-    Motivations](http://techneur.com/post/3318455009/consider-customer-motivations)
+    Motivations](http://loudjet.com/a/consider-customer-motivations)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

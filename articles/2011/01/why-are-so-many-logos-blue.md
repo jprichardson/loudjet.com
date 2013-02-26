@@ -1,6 +1,6 @@
 <!--
 id: 2837053839
-link: http://techneur.com/post/2837053839/why-are-so-many-logos-blue
+link: http://loudjet.com/a/why-are-so-many-logos-blue
 slug: why-are-so-many-logos-blue
 date: Wed Jan 19 2011 22:01:00 GMT-0600 (CST)
 publish: 2011-01-019
@@ -109,11 +109,11 @@ Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 You might also enjoy:
 
 1.  [10 Things I’ve Learned About the Android
-    Market](http://techneur.com/post/1126039921/10-things-ive-learned-about-the-android-market)
+    Market](http://loudjet.com/a/10-things-ive-learned-about-the-android-market)
 2.  [Deliver Polish over
-    Features](http://techneur.com/post/1162629644/deliver-polish-over-features)
+    Features](http://loudjet.com/a/deliver-polish-over-features)
 3.  [Change the
-    World?](http://techneur.com/post/1291554735/change-the-world)
+    World?](http://loudjet.com/a/change-the-world)
 
 -JP
 

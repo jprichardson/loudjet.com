@@ -1,6 +1,6 @@
 <!--
 id: 1084602657
-link: http://techneur.com/post/1084602657/solve-your-own-problem
+link: http://loudjet.com/a/solve-your-own-problem
 slug: solve-your-own-problem
 date: Tue Sep 07 2010 22:30:58 GMT-0500 (CDT)
 publish: 2010-09-07

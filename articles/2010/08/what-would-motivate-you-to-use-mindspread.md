@@ -1,6 +1,6 @@
 <!--
 id: 915916816
-link: http://techneur.com/post/915916816/what-would-motivate-you-to-use-mindspread
+link: http://loudjet.com/a/what-would-motivate-you-to-use-mindspread
 slug: what-would-motivate-you-to-use-mindspread
 date: Fri Aug 06 2010 23:13:00 GMT-0500 (CDT)
 publish: 2010-08-06
@@ -14,7 +14,7 @@ What Would Motivate You to Use MindSpread?
 ![](http://media.tumblr.com/tumblr_l6rkve1NLA1qzbc4f.jpg)
 
 Recently a commenter posted a reply on the original [MindSpread
-announcement](http://techneur.com/post/635311152/announcing-mindspread).
+announcement](http://loudjet.com/a/announcing-mindspread).
 The commenter posted this:
 
 > Noble idea, but for me the question is this: Why do I need a web site

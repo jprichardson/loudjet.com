@@ -1,6 +1,6 @@
 <!--
 id: 703440900
-link: http://techneur.com/post/703440900/beware-anecdotes
+link: http://loudjet.com/a/beware-anecdotes
 slug: beware-anecdotes
 date: Wed Jun 16 2010 00:04:00 GMT-0500 (CDT)
 publish: 2010-06-016
@@ -59,11 +59,11 @@ proceed, as my commentary will make little sense if you don’t.
 5.  Dude… Aaron: why are you creating UML diagrams when you have only
     one month? See point \#4. This is over-engineering. [It’s all about
     the MVP, Obey Gall’s
-    Law](http://techneur.com/post/656259481/mvp-galls-law).
+    Law](http://loudjet.com/a/mvp-galls-law).
 6.  He thought he could do this in one month. I know, I mentioned this
     in \#1, but it’s the biggest mistake of all. This shit takes time.
     [It takes
-    years](http://techneur.com/post/636853872/patience-success-takes-years)!
+    years](http://loudjet.com/a/patience-success-takes-years)!
 
 **In Defense of Aaron**
 

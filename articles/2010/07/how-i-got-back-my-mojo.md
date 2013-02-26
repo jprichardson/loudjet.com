@@ -1,6 +1,6 @@
 <!--
 id: 786207250
-link: http://techneur.com/post/786207250/how-i-got-back-my-mojo
+link: http://loudjet.com/a/how-i-got-back-my-mojo
 slug: how-i-got-back-my-mojo
 date: Thu Jul 08 2010 14:15:00 GMT-0500 (CDT)
 publish: 2010-07-08

@@ -1,6 +1,6 @@
 <!--
 id: 783919676
-link: http://techneur.com/post/783919676/the-dream-gurbaksh-chahal
+link: http://loudjet.com/a/the-dream-gurbaksh-chahal
 slug: the-dream-gurbaksh-chahal
 date: Wed Jul 07 2010 23:52:00 GMT-0500 (CDT)
 publish: 2010-07-07
@@ -158,7 +158,7 @@ with at least 50 lessons. If you are wanting to bootstrap a company, you
 must read this book.
 
 In the vein of
-[MindSpread](http://techneur.com/post/635311152/announcing-mindspread),
+[MindSpread](http://loudjet.com/a/announcing-mindspread),
 I will ~~be giving a copy away~~. **Contest closed.**
 
 1.  You must comment on an an entrepreneur you know or have read about

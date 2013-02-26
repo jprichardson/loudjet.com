@@ -1,6 +1,6 @@
 <!--
 id: 977476579
-link: http://techneur.com/post/977476579/100th-post
+link: http://loudjet.com/a/100th-post
 slug: 100th-post
 date: Thu Aug 19 2010 10:10:00 GMT-0500 (CDT)
 publish: 2010-08-019
@@ -17,7 +17,7 @@ I tweeted out yesterday asking if people blogged everyday or at least
 every weekday. I don’t personally know anyone that does. Most people
 think that it’s crazy. My business partners even think blogging every
 weekday is a waste of time. I’ve wrote about [why an entrepreneur should
-blog](http://techneur.com/post/524363996/the-best-exercise-any-entrepreneur-can-do)
+blog](http://loudjet.com/a/the-best-exercise-any-entrepreneur-can-do)
 before. It’s hard. It’s really hard to blog every weekday. Some days I
 don’t make it, but I’ve only missed a few. Many of the posts I don’t
 think are great, but they’re me. They’re Brian. They’re us. They’re
@@ -26,17 +26,17 @@ really popular. Here are the top 5 according to Google Analytics:
 
 1.  [It’s All Our Fault: Why Building a Business on the Apple App Store
     Is a Losing
-    Proposition](http://techneur.com/post/440686528/its-all-our-fault-why-building-a-business-on-the)
+    Proposition](http://loudjet.com/a/its-all-our-fault-why-building-a-business-on-the)
 2.  [Better to Have a Difficult Conversation Now, Instead of a Failed
     Customer Interaction
-    Later](http://techneur.com/post/821807701/difficult-conversation-failed-customer-interaction-later)
+    Later](http://loudjet.com/a/difficult-conversation-failed-customer-interaction-later)
 3.  [Out of the Gates and Barring It All: an iPhone Software Company’s
     Struggle Part
-    1](http://techneur.com/post/430123326/iphone-company-struggle-1)
+    1](http://loudjet.com/a/iphone-company-struggle-1)
 4.  [The Best Word Customers Will Ever
-    Hear](http://techneur.com/post/520136880/best-customer-word)
+    Hear](http://loudjet.com/a/best-customer-word)
 5.  [The Startup Idea
-    Filter](http://techneur.com/post/935550443/the-startup-idea-filter)
+    Filter](http://loudjet.com/a/the-startup-idea-filter)
 
 This blog has 74 RSS subscribers, a paltry sum to many, but very
 meaningful to me. This blog has 25 Tumblr followers. It has had 19,843

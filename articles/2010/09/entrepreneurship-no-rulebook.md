@@ -1,6 +1,6 @@
 <!--
 id: 1204368875
-link: http://techneur.com/post/1204368875/entrepreneurship-no-rulebook
+link: http://loudjet.com/a/entrepreneurship-no-rulebook
 slug: entrepreneurship-no-rulebook
 date: Mon Sep 27 2010 23:04:50 GMT-0500 (CDT)
 publish: 2010-09-027
@@ -19,7 +19,7 @@ for our weekly Monday night meeting. As an aside, Dat’s is an excellent
 Asian restaurant that gives you a lot of food for the moola. We’re still
 wandering. Still lost. We have anxiety about [Apple’s new iPhone app
 approval
-rules.](http://techneur.com/post/1095220730/apples-new-app-store-guidelines-and-what-they-mean-to)
+rules.](http://loudjet.com/a/apples-new-app-store-guidelines-and-what-they-mean-to)
 My thought is that this is the reality of business. Business and
 building new products is risky and risk naturally creates anxiety.
 
@@ -43,11 +43,11 @@ Focus Program](http://eship.lps.org/) which contains a great quote:
 You might enjoy:
 
 1.  [Kevin Rose Took a Risk and
-    Failed](http://techneur.com/post/1196807008/kevin-rose-took-a-risk-and-failed)
+    Failed](http://loudjet.com/a/kevin-rose-took-a-risk-and-failed)
 2.  [Commitment vs
-    Involvement](http://techneur.com/post/1114058782/commitment-vs-involvement)
+    Involvement](http://loudjet.com/a/commitment-vs-involvement)
 3.  [What Mr. Tibbles Can Teach Us About Game
-    Mechanics](http://techneur.com/post/1184586098/what-mr-tibbles-can-teach-you-about-game-mechanicst)
+    Mechanics](http://loudjet.com/a/what-mr-tibbles-can-teach-you-about-game-mechanicst)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

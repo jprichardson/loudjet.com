@@ -1,6 +1,6 @@
 <!--
 id: 3583222706
-link: http://techneur.com/post/3583222706/a-real-mvp-tale
+link: http://loudjet.com/a/a-real-mvp-tale
 slug: a-real-mvp-tale
 date: Tue Mar 01 2011 10:00:00 GMT-0600 (CST)
 publish: 2011-03-01
@@ -47,7 +47,7 @@ sharing their awesome methodology.]
 
 One thing he doesn’t address is how to get people to the site in the
 first place. [I wrote about a technique
-before](http://techneur.com/post/631320672/time-to-get-scrappy). The
+before](http://loudjet.com/a/time-to-get-scrappy). The
 idea is simple, signup for Google Adwords. They frequently send out
 \$100 coupons for new advertisers to use. Purchase some keywords, and
 deploy your Adwords campaign. You can even take advantage of Google
@@ -59,11 +59,11 @@ at most four hours of work. That’s four hours well spent.
 You might also enjoy:
 
 1.  [It’s Time to Get
-    Scrappy](http://techneur.com/post/631320672/time-to-get-scrappy)
+    Scrappy](http://loudjet.com/a/time-to-get-scrappy)
 2.  [It’s All About the MVP, Obey Gall’s
-    Law](http://techneur.com/post/656259481/mvp-galls-law)
+    Law](http://loudjet.com/a/mvp-galls-law)
 3.  [Startup Idea
-    Filter](http://techneur.com/post/935550443/the-startup-idea-filter)
+    Filter](http://loudjet.com/a/the-startup-idea-filter)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

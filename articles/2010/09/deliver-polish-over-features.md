@@ -1,6 +1,6 @@
 <!--
 id: 1162629644
-link: http://techneur.com/post/1162629644/deliver-polish-over-features
+link: http://loudjet.com/a/deliver-polish-over-features
 slug: deliver-polish-over-features
 date: Tue Sep 21 2010 14:29:08 GMT-0500 (CDT)
 publish: 2010-09-021
@@ -63,15 +63,15 @@ flawlessly, less is more.
 
 If you enjoyed this blog post, you may like:
 
-1.  [](http://techneur.com/post/1126039921/10-things-ive-learned-about-the-android-market)
+1.  [](http://loudjet.com/a/10-things-ive-learned-about-the-android-market)
 
     ### 10 Things I’ve Learned About the Android Market
 
-2.  [](http://techneur.com/post/1084602657/solve-your-own-problem)
+2.  [](http://loudjet.com/a/solve-your-own-problem)
 
     ### Solve Your Own Problem
 
-3.  [](http://techneur.com/post/1035350505/steve-jobs-lesson-on-marketing-values-and-belief)
+3.  [](http://loudjet.com/a/steve-jobs-lesson-on-marketing-values-and-belief)
 
     ### Steve Job’s Lesson on Marketing: Values and Belief
 

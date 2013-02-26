@@ -1,6 +1,6 @@
 <!--
 id: 774339835
-link: http://techneur.com/post/774339835/managing-up-you-dont-work-in-a-vacuum
+link: http://loudjet.com/a/managing-up-you-dont-work-in-a-vacuum
 slug: managing-up-you-dont-work-in-a-vacuum
 date: Mon Jul 05 2010 17:42:13 GMT-0500 (CDT)
 publish: 2010-07-05

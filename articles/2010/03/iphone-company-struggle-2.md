@@ -1,6 +1,6 @@
 <!--
 id: 443135737
-link: http://techneur.com/post/443135737/iphone-company-struggle-2
+link: http://loudjet.com/a/iphone-company-struggle-2
 slug: iphone-company-struggle-2
 date: Fri Mar 12 2010 04:59:00 GMT-0600 (CST)
 publish: 2010-03-012
@@ -15,7 +15,7 @@ The Descent: an iPhone Software Company's Struggle Part 2
 25](http://media.tumblr.com/tumblr_kz6sgkddnh1qzbc4f.png)
 
 Five days have gone by since the [last
-installment](http://techneur.com/post/430123326/iphone-company-struggle-1)
+installment](http://loudjet.com/a/iphone-company-struggle-1)
 and we’ve learned what has and hasn’t worked.  [Final
 Madness](http://finalmadness.com) made it all the way to no. 13 in the
 Free Sports category.  The March Madness app held tight for three days

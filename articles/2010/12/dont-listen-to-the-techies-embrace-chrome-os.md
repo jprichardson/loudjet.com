@@ -1,6 +1,6 @@
 <!--
 id: 2337772004
-link: http://techneur.com/post/2337772004/dont-listen-to-the-techies-embrace-chrome-os
+link: http://loudjet.com/a/dont-listen-to-the-techies-embrace-chrome-os
 slug: dont-listen-to-the-techies-embrace-chrome-os
 date: Thu Dec 16 2010 11:15:20 GMT-0600 (CST)
 publish: 2010-12-016
@@ -80,7 +80,7 @@ technology or recently released technology. Consider Rob Malda’s
 when the iPod came out: “No wireless, less space than a nomad, lame.”
 The iPad was criticized as being just a big iPod Touch. Back, in June [I
 wrote a piece on Steve Jobs being a
-visionary](http://techneur.com/post/675685717/steve-jobs-henry-ford)
+visionary](http://loudjet.com/a/steve-jobs-henry-ford)
 similar to that of Henry Ford. I used the iPhone 4 as an example. I
 submitted this piece to Reddit and it was criticized.
 
@@ -93,11 +93,11 @@ of the success of technology?
 You may enjoy:
 
 1.  [Steve Jobs is this Century’s Henry
-    Ford](http://techneur.com/post/675685717/steve-jobs-henry-ford)
+    Ford](http://loudjet.com/a/steve-jobs-henry-ford)
 2.  [If the iPad is a Big iPod Touch, then People are Just Smart
-    Monkeys](http://techneur.com/post/519935580/ipad-smart-monkey)
+    Monkeys](http://loudjet.com/a/ipad-smart-monkey)
 3.  [Google Wave Post Mortem: What Entrepreneurs Can
-    Learn](http://techneur.com/post/908299611/google-wave-post-mortem-what-entrepreneurs-can-learn)
+    Learn](http://loudjet.com/a/google-wave-post-mortem-what-entrepreneurs-can-learn)
 
 Tweet me: [@jprichardson](http://twitter.com/jprichardson)
 

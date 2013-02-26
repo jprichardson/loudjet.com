@@ -1,6 +1,6 @@
 <!--
 id: 1552814605
-link: http://techneur.com/post/1552814605/build-successful-business-app-store
+link: http://loudjet.com/a/build-successful-business-app-store
 slug: build-successful-business-app-store
 date: Fri Nov 12 2010 09:20:00 GMT-0600 (CST)
 publish: 2010-11-012
@@ -47,11 +47,11 @@ JP
 You May Enjoy:
 
 1.  [Apple Sucks at
-    Upgrades](http://techneur.com/post/1313633370/apple-sucks-at-upgrades)
+    Upgrades](http://loudjet.com/a/apple-sucks-at-upgrades)
 2.  [Mobile Platform Madness: Apple vs
-    Google](http://techneur.com/post/1131451546/mobile-platform-madness-apple-vs-google)
+    Google](http://loudjet.com/a/mobile-platform-madness-apple-vs-google)
 3.  [10 Things I’ve Learned About the Android
-    Market](http://techneur.com/post/1126039921/10-things-ive-learned-about-the-android-market)
+    Market](http://loudjet.com/a/10-things-ive-learned-about-the-android-market)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

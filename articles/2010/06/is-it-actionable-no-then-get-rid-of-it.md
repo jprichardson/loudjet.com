@@ -1,6 +1,6 @@
 <!--
 id: 652742373
-link: http://techneur.com/post/652742373/is-it-actionable-no-then-get-rid-of-it
+link: http://loudjet.com/a/is-it-actionable-no-then-get-rid-of-it
 slug: is-it-actionable-no-then-get-rid-of-it
 date: Tue Jun 01 2010 03:49:00 GMT-0500 (CDT)
 publish: 2010-06-01
@@ -15,7 +15,7 @@ Is it actionable? No? Then get rid of it...
 
 Bloggers Note: this started as a response to JP’s blog post [Less
 Consumption, More
-Production](http://techneur.com/post/649237455/less-consumption-more-production "JP's Less Consumption, More Production Blog Post")
+Production](http://loudjet.com/a/less-consumption-more-production "JP's Less Consumption, More Production Blog Post")
 and ended up having a life of it’s own…
 
 It’s easy to get carried away when reading news and blogs.  I’ve been

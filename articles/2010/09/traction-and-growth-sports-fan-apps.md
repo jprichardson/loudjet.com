@@ -1,6 +1,6 @@
 <!--
 id: 1077518365
-link: http://techneur.com/post/1077518365/traction-and-growth-sports-fan-apps
+link: http://loudjet.com/a/traction-and-growth-sports-fan-apps
 slug: traction-and-growth-sports-fan-apps
 date: Mon Sep 06 2010 16:44:48 GMT-0500 (CDT)
 publish: 2010-09-06
@@ -50,7 +50,7 @@ Approximately \$2500, a 12.5x growth! Now granted we do have more apps
 in the store this year then we did last year. But the most popular apps
 are still seeing much more downloads then they did last year. It’s a
 good thing [we didn’t
-quit](http://techneur.com/post/615265667/learning-pains).
+quit](http://loudjet.com/a/learning-pains).
 
 We’re slowly expanding into the Android and the Blackberry… so who knows
 where the following year will take us! But the important point is that

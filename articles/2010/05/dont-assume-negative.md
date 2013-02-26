@@ -1,6 +1,6 @@
 <!--
 id: 585965944
-link: http://techneur.com/post/585965944/dont-assume-negative
+link: http://loudjet.com/a/dont-assume-negative
 slug: dont-assume-negative
 date: Mon May 10 2010 00:09:00 GMT-0500 (CDT)
 publish: 2010-05-010

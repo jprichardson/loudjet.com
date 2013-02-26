@@ -1,6 +1,6 @@
 <!--
 id: 2941115917
-link: http://techneur.com/post/2941115917/review-of-the-google-cr-48-chrome-netbook
+link: http://loudjet.com/a/review-of-the-google-cr-48-chrome-netbook
 slug: review-of-the-google-cr-48-chrome-netbook
 date: Wed Jan 26 2011 09:30:00 GMT-0600 (CST)
 publish: 2011-01-026
@@ -62,11 +62,11 @@ Do you have a Cr-48 netbook? What do you think about it?
 If you enjoyed this, you may enjoy:
 
 1.  [If the iPad is Just a Big iPod Touch, then People are Just Smart
-    Monkeys](http://techneur.com/post/519935580/ipad-smart-monkey)
+    Monkeys](http://loudjet.com/a/ipad-smart-monkey)
 2.  [Apple Sucks at
-    Upgrades](http://techneur.com/post/1313633370/apple-sucks-at-upgrades)
+    Upgrades](http://loudjet.com/a/apple-sucks-at-upgrades)
 3.  [Mobile Platform Madness: Apple vs
-    Google](http://techneur.com/post/1131451546/mobile-platform-madness-apple-vs-google)
+    Google](http://loudjet.com/a/mobile-platform-madness-apple-vs-google)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

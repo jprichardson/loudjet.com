@@ -1,6 +1,6 @@
 <!--
 id: 575667016
-link: http://techneur.com/post/575667016/man-no-arms-no-legs-teach-success
+link: http://loudjet.com/a/man-no-arms-no-legs-teach-success
 slug: man-no-arms-no-legs-teach-success
 date: Thu May 06 2010 02:52:00 GMT-0500 (CDT)
 publish: 2010-05-06
@@ -28,7 +28,7 @@ overcome.
 
 **Perspective** - Nick said “You must realize where you are and what you
 have.” You can’t let yourself see obstacles, they will only serve to
-demotivate you. [Rework](http://techneur.com/post/550060849/rework) has
+demotivate you. [Rework](http://loudjet.com/a/rework) has
 a chapter dedicated to constraints. The gist of it is that constraints
 force creativity. Megacorps have bureaucratic processes, you don’t.
 Megacorps are large aircraft carriers, you are a small naval destroyer.

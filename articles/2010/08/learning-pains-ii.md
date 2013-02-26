@@ -1,6 +1,6 @@
 <!--
 id: 896715862
-link: http://techneur.com/post/896715862/learning-pains-ii
+link: http://loudjet.com/a/learning-pains-ii
 slug: learning-pains-ii
 date: Tue Aug 03 2010 00:58:54 GMT-0500 (CDT)
 publish: 2010-08-03
@@ -27,7 +27,7 @@ agree on some things:
 
 Many excuses were thrown. One thing that I felt was unfairly targeted is
 blogging. I’ve
-[written](http://techneur.com/post/524363996/the-best-exercise-any-entrepreneur-can-do)
+[written](http://loudjet.com/a/the-best-exercise-any-entrepreneur-can-do)
 why I think blogging is essential before. In summary, one should blog
 because:
 
@@ -59,17 +59,17 @@ Overall, I felt our meeting started out with a lot of hostility and with
 little progress towards positive resolution. In the end, I believe that
 we made one more positive step towards our long-term future. We reminded
 ourselves that this [race is a
-marthon](http://techneur.com/post/636853872/patience-success-takes-years)
+marthon](http://loudjet.com/a/patience-success-takes-years)
 and not a sprint, and that [our success is
-inevetible](http://techneur.com/post/844311929/a-pessimist-presupposes-failure-an-optimist).
+inevetible](http://loudjet.com/a/a-pessimist-presupposes-failure-an-optimist).
 
 If you enjoyed this, you may enjoy:
 
 1.  [A Crappy Vision, Is Better Than Lack of
-    Vision](http://techneur.com/post/864587591/a-crappy-vision-is-better-then-lack-of-vision)
+    Vision](http://loudjet.com/a/a-crappy-vision-is-better-then-lack-of-vision)
 2.  [Which is Better, the Journey or the
-    Destination?](http://techneur.com/post/859911519/which-is-better-the-journey-or-the-destination)
-3.  [Learning Pains](http://techneur.com/post/615265667/learning-pains)
+    Destination?](http://loudjet.com/a/which-is-better-the-journey-or-the-destination)
+3.  [Learning Pains](http://loudjet.com/a/learning-pains)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

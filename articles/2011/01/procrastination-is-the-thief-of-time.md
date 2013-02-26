@@ -1,6 +1,6 @@
 <!--
 id: 2805156984
-link: http://techneur.com/post/2805156984/procrastination-is-the-thief-of-time
+link: http://loudjet.com/a/procrastination-is-the-thief-of-time
 slug: procrastination-is-the-thief-of-time
 date: Mon Jan 17 2011 20:50:00 GMT-0600 (CST)
 publish: 2011-01-017
@@ -36,10 +36,10 @@ To sum it up: don’t waste time, act now!
 You might also enjoy:
 
 1.  [It’s Not About Time, It’s About
-    Priority](http://techneur.com/post/535211849/dont-have-the-time)
-2.  [We Have a Duty](http://techneur.com/post/562354769/we-have-a-duty)
+    Priority](http://loudjet.com/a/dont-have-the-time)
+2.  [We Have a Duty](http://loudjet.com/a/we-have-a-duty)
 3.  [Commitment vs
-    Involvement](http://techneur.com/post/1114058782/commitment-vs-involvement)
+    Involvement](http://loudjet.com/a/commitment-vs-involvement)
 
 -JP
 

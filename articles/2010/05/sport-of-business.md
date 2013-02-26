@@ -1,6 +1,6 @@
 <!--
 id: 627751236
-link: http://techneur.com/post/627751236/sport-of-business
+link: http://loudjet.com/a/sport-of-business
 slug: sport-of-business
 date: Mon May 24 2010 04:34:00 GMT-0500 (CDT)
 publish: 2010-05-024
@@ -14,9 +14,9 @@ The Sport of Business
 ![](http://media.tumblr.com/tumblr_kyozby6hlp1qzbc4f.jpg)
 
 As I have been
-[thinking](http://techneur.com/post/615265667/learning-pains) about our
+[thinking](http://loudjet.com/a/learning-pains) about our
 latest
-[decisions](http://techneur.com/post/616413009/inspiration-is-not-perishable)
+[decisions](http://loudjet.com/a/inspiration-is-not-perishable)
 with the iPhone sports apps, the idea that sports and business have a
 lot of common popped into my head; I think it’s rather intuitive.
 Business and sports have so much in common: persistence, passion,
@@ -42,10 +42,10 @@ the business world.
 
 And that puts a little smile on my face. As I stated before, [I’m not in
 this for the
-money](http://techneur.com/post/567516819/detoxify-your-life). Ya, I
+money](http://loudjet.com/a/detoxify-your-life). Ya, I
 want financial freedom. But the idea of being able to impact thousands
 of people, if not millions, keeps me hustling. [We
-must](http://techneur.com/post/562354769/we-have-a-duty) do this, after
+must](http://loudjet.com/a/we-have-a-duty) do this, after
 all, we only have to be right once.
 
 You can follow me on

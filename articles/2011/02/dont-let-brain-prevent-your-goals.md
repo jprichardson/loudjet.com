@@ -1,6 +1,6 @@
 <!--
 id: 3484249692
-link: http://techneur.com/post/3484249692/dont-let-brain-prevent-your-goals
+link: http://loudjet.com/a/dont-let-brain-prevent-your-goals
 slug: dont-let-brain-prevent-your-goals
 date: Thu Feb 24 2011 10:00:00 GMT-0600 (CST)
 publish: 2011-02-024
@@ -51,10 +51,10 @@ yourself to persevere.
 You might also enjoy:
 
 1.  [Negativity, Fear, and the Lizard
-    Brain](http://techneur.com/post/2714027542/negativity-fear-and-the-lizard-brain)
+    Brain](http://loudjet.com/a/negativity-fear-and-the-lizard-brain)
 2.  [Embrace
-    Discomfort](http://techneur.com/post/679425561/embrace-discomfort)
-3.  [If Only](http://techneur.com/post/711982960/if-only)
+    Discomfort](http://loudjet.com/a/embrace-discomfort)
+3.  [If Only](http://loudjet.com/a/if-only)
 
 -JP
 

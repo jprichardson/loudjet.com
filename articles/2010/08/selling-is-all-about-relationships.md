@@ -1,6 +1,6 @@
 <!--
 id: 975172273
-link: http://techneur.com/post/975172273/selling-is-all-about-relationships
+link: http://loudjet.com/a/selling-is-all-about-relationships
 slug: selling-is-all-about-relationships
 date: Wed Aug 18 2010 22:05:00 GMT-0500 (CDT)
 publish: 2010-08-018
@@ -48,12 +48,12 @@ What do you think? Any stories to share?
 
 If you enjoyed this, you may enjoy:\
 1) [Your Call Is Important To
-Us](http://techneur.com/post/874855332/your-call-is-important-to-us)\
+Us](http://loudjet.com/a/your-call-is-important-to-us)\
 2)[Give Your Customers a Story To
-Tell](http://techneur.com/post/830872725/give-your-customers-a-story-to-tell)\
+Tell](http://loudjet.com/a/give-your-customers-a-story-to-tell)\
 3) [Better to Have a Difficult Conversation Now, Instead of Failed
 Customer Interaction
-Later](http://techneur.com/post/821807701/difficult-conversation-failed-customer-interaction-later)
+Later](http://loudjet.com/a/difficult-conversation-failed-customer-interaction-later)
 
  Follow Me On Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

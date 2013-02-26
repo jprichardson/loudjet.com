@@ -1,6 +1,6 @@
 <!--
 id: 4365940475
-link: http://techneur.com/post/4365940475/on-this-day
+link: http://loudjet.com/a/on-this-day
 slug: on-this-day
 date: Tue Apr 05 2011 09:45:29 GMT-0500 (CDT)
 publish: 2011-04-05

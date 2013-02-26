@@ -1,6 +1,6 @@
 <!--
 id: 9630190405
-link: http://techneur.com/post/9630190405/forget-the-shiny-tech-focus-on-the-customer-experience
+link: http://loudjet.com/a/forget-the-shiny-tech-focus-on-the-customer-experience
 slug: forget-the-shiny-tech-focus-on-the-customer-experience
 date: Wed Aug 31 2011 11:45:00 GMT-0500 (CDT)
 publish: 2011-08-031
@@ -52,11 +52,11 @@ delivered a superb experience. This is what
 You might also enjoy:
 
 1.  [Customers Demand Native for Mobile
-    Apps](http://techneur.com/post/3068783134/customers-demand-native-for-mobile-apps)
+    Apps](http://loudjet.com/a/customers-demand-native-for-mobile-apps)
 2.  [Great Artists
-    Simplify](http://techneur.com/post/3031110881/great-artists-simplify)
+    Simplify](http://loudjet.com/a/great-artists-simplify)
 3.  [Apple Sucks at
-    Upgrades](http://techneur.com/post/1313633370/apple-sucks-at-upgrades)
+    Upgrades](http://loudjet.com/a/apple-sucks-at-upgrades)
 
 Follow me on Twitter: @jprichardson
 

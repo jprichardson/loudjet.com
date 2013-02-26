@@ -1,6 +1,6 @@
 <!--
 id: 1166860190
-link: http://techneur.com/post/1166860190/let-your-customers-determine-your-priority
+link: http://loudjet.com/a/let-your-customers-determine-your-priority
 slug: let-your-customers-determine-your-priority
 date: Wed Sep 22 2010 07:00:18 GMT-0500 (CDT)
 publish: 2010-09-022
@@ -33,7 +33,7 @@ Here are a few recent emails:
 
 What do you think our next priority should be? This isn’t a new idea.
 Jason Fried made this point in the book
-[Rework](http://techneur.com/post/550060849/rework). His point is that
+[Rework](http://loudjet.com/a/rework). His point is that
 you don’t need to keep complex feature lists or todos. Your customers
 will let you know. He states that If you have one or two customer
 requests, let your customers know that you’ll consider it - if other
@@ -46,11 +46,11 @@ do you think?
 If you enjoyed this, you may enjoy:
 
 1.  [Forget Work, It’s Time to
-    Rework](http://techneur.com/post/550060849/rework)
+    Rework](http://loudjet.com/a/rework)
 2.  [It’s Not About Time, It’s About
-    Priority](http://techneur.com/post/535211849/dont-have-the-time)
+    Priority](http://loudjet.com/a/dont-have-the-time)
 3.  [Deliver Polish Over
-    Features](http://techneur.com/post/1162629644/deliver-polish-over-features)
+    Features](http://loudjet.com/a/deliver-polish-over-features)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

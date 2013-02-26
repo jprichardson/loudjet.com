@@ -1,6 +1,6 @@
 <!--
 id: 1397281188
-link: http://techneur.com/post/1397281188/a-wise-man-learns-from-the-experience-of-others
+link: http://loudjet.com/a/a-wise-man-learns-from-the-experience-of-others
 slug: a-wise-man-learns-from-the-experience-of-others
 date: Mon Oct 25 2010 04:01:46 GMT-0500 (CDT)
 publish: 2010-10-025
@@ -37,7 +37,7 @@ I have no problem spending money on experiences. I don’t view that a
 problem in and of itself. It’s just the amount that I need to be careful
 of. This is particularly important if I want to be a successful
 entrepreneur. It’s necessary to [stockpile as much cash as
-possible](http://techneur.com/post/1012320994/so-you-want-to-become-rich).
+possible](http://loudjet.com/a/so-you-want-to-become-rich).
 
 So why the quote at the beginning? Because I [read the this
 story](http://www.andrewfashion.com/2009/12/04/young-stupid-how-i-lost-my-millions/).
@@ -47,12 +47,12 @@ purchases. Be wise and learn from his experience.
 You may enjoy:
 
 1.  [So You Want to Become
-    Rich?](http://techneur.com/post/1012320994/so-you-want-to-become-rich)
+    Rich?](http://loudjet.com/a/so-you-want-to-become-rich)
 2.  [Discipline Is the Strength to Do Things that Will Make Our Future
     Selves
-    Proud](http://techneur.com/post/1017665420/discipline-is-the-strength-to-do-things-that-will-make)
+    Proud](http://loudjet.com/a/discipline-is-the-strength-to-do-things-that-will-make)
 3.  [A Optimist Presupposes
-    Success](http://techneur.com/post/844311929/a-pessimist-presupposes-failure-an-optimist)
+    Success](http://loudjet.com/a/a-pessimist-presupposes-failure-an-optimist)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

@@ -1,6 +1,6 @@
 <!--
 id: 520136880
-link: http://techneur.com/post/520136880/best-customer-word
+link: http://loudjet.com/a/best-customer-word
 slug: best-customer-word
 date: Wed Apr 14 2010 00:42:00 GMT-0500 (CDT)
 publish: 2010-04-014

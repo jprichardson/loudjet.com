@@ -1,6 +1,6 @@
 <!--
 id: 649237455
-link: http://techneur.com/post/649237455/less-consumption-more-production
+link: http://loudjet.com/a/less-consumption-more-production
 slug: less-consumption-more-production
 date: Mon May 31 2010 02:21:00 GMT-0500 (CDT)
 publish: 2010-05-031
@@ -40,7 +40,7 @@ entrepreneurs do. They convert their time into products or services that
 will hopefully generate revenue.
 
 I need to remember my
-[priorities](http://techneur.com/post/535211849/dont-have-the-time) and
+[priorities](http://loudjet.com/a/dont-have-the-time) and
 produce accordingly. I need to remember my value as entrepreneur is
 measured by my output or production. I need to start to think about this
 in terms of a ratio of output hours to input hours. I’m not sure what

@@ -1,6 +1,6 @@
 <!--
 id: 430123326
-link: http://techneur.com/post/430123326/iphone-company-struggle-1
+link: http://loudjet.com/a/iphone-company-struggle-1
 slug: iphone-company-struggle-1
 date: Sat Mar 06 2010 06:07:00 GMT-0600 (CST)
 publish: 2010-03-06

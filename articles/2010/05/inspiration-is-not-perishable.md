@@ -1,6 +1,6 @@
 <!--
 id: 616413009
-link: http://techneur.com/post/616413009/inspiration-is-not-perishable
+link: http://loudjet.com/a/inspiration-is-not-perishable
 slug: inspiration-is-not-perishable
 date: Thu May 20 2010 10:16:00 GMT-0500 (CDT)
 publish: 2010-05-020
@@ -14,7 +14,7 @@ Inspiration Is Not Perishable.
 ![Inspiration](http://media.tumblr.com/tumblr_l2oub6E4bY1qzbc4f.jpg)
 
 (This post was written in response to the situation documented here:
-[Learning Pains](http://techneur.com/post/615265667/learning-pains) -
+[Learning Pains](http://loudjet.com/a/learning-pains) -
 JP)
 
 [Jason Fried’s](http://bigthink.com/jasonfried "Jason Fried") saying,

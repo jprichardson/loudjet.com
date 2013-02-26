@@ -1,6 +1,6 @@
 <!--
 id: 3299224033
-link: http://techneur.com/post/3299224033/your-language-to-your-customers
+link: http://loudjet.com/a/your-language-to-your-customers
 slug: your-language-to-your-customers
 date: Mon Feb 14 2011 17:40:38 GMT-0600 (CST)
 publish: 2011-02-014
@@ -39,11 +39,11 @@ one](http://37signals.com/svn/posts/1528-the-bullshit-of-outage-language).
 You might also enjoy:
 
 1.  [Forget Work, It’s Time to
-    Rework](http://techneur.com/post/550060849/rework)
+    Rework](http://loudjet.com/a/rework)
 2.  [The Power of the
-    Apology](http://techneur.com/post/1591453730/the-power-of-the-apology)
+    Apology](http://loudjet.com/a/the-power-of-the-apology)
 3.  [Deliver Polish over
-    Features](http://techneur.com/post/1162629644/deliver-polish-over-features)
+    Features](http://loudjet.com/a/deliver-polish-over-features)
 
 -JP
 

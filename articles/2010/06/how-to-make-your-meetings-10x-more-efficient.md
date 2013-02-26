@@ -1,6 +1,6 @@
 <!--
 id: 728220342
-link: http://techneur.com/post/728220342/how-to-make-your-meetings-10x-more-efficient
+link: http://loudjet.com/a/how-to-make-your-meetings-10x-more-efficient
 slug: how-to-make-your-meetings-10x-more-efficient
 date: Wed Jun 23 2010 01:44:00 GMT-0500 (CDT)
 publish: 2010-06-023

@@ -1,6 +1,6 @@
 <!--
 id: 659085686
-link: http://techneur.com/post/659085686/too-many-mind-how-your-cell-phone-can-cost-you-the
+link: http://loudjet.com/a/too-many-mind-how-your-cell-phone-can-cost-you-the
 slug: too-many-mind-how-your-cell-phone-can-cost-you-the
 date: Thu Jun 03 2010 01:07:32 GMT-0500 (CDT)
 publish: 2010-06-03

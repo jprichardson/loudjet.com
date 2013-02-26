@@ -1,6 +1,6 @@
 <!--
 id: 908299611
-link: http://techneur.com/post/908299611/google-wave-post-mortem-what-entrepreneurs-can-learn
+link: http://loudjet.com/a/google-wave-post-mortem-what-entrepreneurs-can-learn
 slug: google-wave-post-mortem-what-entrepreneurs-can-learn
 date: Thu Aug 05 2010 12:07:00 GMT-0500 (CDT)
 publish: 2010-08-05
@@ -87,7 +87,7 @@ email.
 
 If you enjoyed this, you may enjoy:\
 -  [Steve Jobs Is This Century’s Henry
-Ford](http://techneur.com/post/675685717/steve-jobs-henry-ford)
+Ford](http://loudjet.com/a/steve-jobs-henry-ford)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

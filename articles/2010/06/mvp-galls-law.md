@@ -1,6 +1,6 @@
 <!--
 id: 656259481
-link: http://techneur.com/post/656259481/mvp-galls-law
+link: http://loudjet.com/a/mvp-galls-law
 slug: mvp-galls-law
 date: Wed Jun 02 2010 00:01:00 GMT-0500 (CDT)
 publish: 2010-06-02

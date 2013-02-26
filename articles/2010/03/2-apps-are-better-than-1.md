@@ -1,6 +1,6 @@
 <!--
 id: 461863911
-link: http://techneur.com/post/461863911/2-apps-are-better-than-1
+link: http://loudjet.com/a/2-apps-are-better-than-1
 slug: 2-apps-are-better-than-1
 date: Sat Mar 20 2010 18:09:00 GMT-0500 (CDT)
 publish: 2010-03-020

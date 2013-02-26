@@ -1,6 +1,6 @@
 <!--
 id: 3088682121
-link: http://techneur.com/post/3088682121/fight-the-man-by-building-self-reliance
+link: http://loudjet.com/a/fight-the-man-by-building-self-reliance
 slug: fight-the-man-by-building-self-reliance
 date: Thu Feb 03 2011 11:30:00 GMT-0600 (CST)
 publish: 2011-02-03
@@ -143,10 +143,10 @@ I’ll save that rationale for another post.
  You might also enjoy:
 
 1.  [Commitment vs
-    Involvement](http://techneur.com/post/1114058782/commitment-vs-involvement)
-2.  [We Have a Duty](http://techneur.com/post/562354769/we-have-a-duty)
+    Involvement](http://loudjet.com/a/commitment-vs-involvement)
+2.  [We Have a Duty](http://loudjet.com/a/we-have-a-duty)
 3.  [So You Want to Become
-    Rich?](http://techneur.com/post/1012320994/so-you-want-to-become-rich)
+    Rich?](http://loudjet.com/a/so-you-want-to-become-rich)
 
 Let’s have a conversation:
 [@jprichardson](http://twitter.com/jprichardson)

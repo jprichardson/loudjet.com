@@ -1,6 +1,6 @@
 <!--
 id: 636853872
-link: http://techneur.com/post/636853872/patience-success-takes-years
+link: http://loudjet.com/a/patience-success-takes-years
 slug: patience-success-takes-years
 date: Thu May 27 2010 01:36:00 GMT-0500 (CDT)
 publish: 2010-05-027
@@ -14,7 +14,7 @@ Patience: Success Takes Years
 ![](http://media.tumblr.com/tumblr_l32fjbKmot1qzbc4f.jpg)
 
 When I wrote the article “[the Sport of
-Business](http://techneur.com/post/627751236/sport-of-business)”, I
+Business](http://loudjet.com/a/sport-of-business)”, I
 highlighted similarities and one key difference between business and
 sports. [Nate Lowry](http://twitter.com/natelowry) responded with a
 comment that prompted me to recall one of [Gary
@@ -62,7 +62,7 @@ This is something we must remember. To be successful we must work at it
 every single day. We must make small improvements in our product, our
 brand, our relationships, ourselves EVERYDAY. One day, we will wake up
 too… and we’ll realize that we’ll be successful. [How bad do you want
-it](http://techneur.com/post/552633852/how-bad-do-you-want-it)?
+it](http://loudjet.com/a/how-bad-do-you-want-it)?
 
 You can follow me on Twitter
 [@jprichardson](http://twitter.com/jprichardson)

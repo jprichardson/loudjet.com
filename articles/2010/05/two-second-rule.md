@@ -1,6 +1,6 @@
 <!--
 id: 609135970
-link: http://techneur.com/post/609135970/two-second-rule
+link: http://loudjet.com/a/two-second-rule
 slug: two-second-rule
 date: Tue May 18 2010 00:01:00 GMT-0500 (CDT)
 publish: 2010-05-018

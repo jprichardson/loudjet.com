@@ -1,6 +1,6 @@
 <!--
 id: 2050019560
-link: http://techneur.com/post/2050019560/thorn-in-your-side
+link: http://loudjet.com/a/thorn-in-your-side
 slug: thorn-in-your-side
 date: Tue Nov 30 2010 11:29:22 GMT-0600 (CST)
 publish: 2010-11-030
@@ -28,11 +28,11 @@ overnight. No one ever does. Give it five years… at least.
 You may also enjoy:
 
 1.  [Commitment vs
-    Involvement](http://techneur.com/post/1114058782/commitment-vs-involvement)
+    Involvement](http://loudjet.com/a/commitment-vs-involvement)
 2.  [Work Until Your Eyes
-    Bleed](http://techneur.com/post/1041263868/work-until-your-eyes-bleed)
+    Bleed](http://loudjet.com/a/work-until-your-eyes-bleed)
 3.  [Patience, Success Takes
-    Years](http://techneur.com/post/636853872/patience-success-takes-years)
+    Years](http://loudjet.com/a/patience-success-takes-years)
 
 JP Richardson
 

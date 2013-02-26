@@ -1,6 +1,6 @@
 <!--
 id: 401185647
-link: http://techneur.com/post/401185647/inspiration-perishable
+link: http://loudjet.com/a/inspiration-perishable
 slug: inspiration-perishable
 date: Sat Feb 20 2010 15:44:00 GMT-0600 (CST)
 publish: 2010-02-020

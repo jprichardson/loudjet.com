@@ -1,6 +1,6 @@
 <!--
 id: 1123893207
-link: http://techneur.com/post/1123893207/its-who-you-know
+link: http://loudjet.com/a/its-who-you-know
 slug: its-who-you-know
 date: Tue Sep 14 2010 20:19:48 GMT-0500 (CDT)
 publish: 2010-09-014
@@ -72,14 +72,14 @@ situations. Who do you surround yourself with?
 If you liked this article you may like:
 
 ​1) [Use a Weakness to Develop a
-Strength](http://techneur.com/post/779731344/use-a-weakness-to-develop-a-strength "Use a Weakness to Develop a Strength")
+Strength](http://loudjet.com/a/use-a-weakness-to-develop-a-strength "Use a Weakness to Develop a Strength")
 
 ​2) [A Pessimist Presupposes Failure. An Optimist Presupposes
-Success](http://techneur.com/post/844311929/a-pessimist-presupposes-failure-an-optimist "A Pessimist Presupposes Failure. An Optimist Presupposes Success")
+Success](http://loudjet.com/a/a-pessimist-presupposes-failure-an-optimist "A Pessimist Presupposes Failure. An Optimist Presupposes Success")
 
 3) [Time to Quit Your Job: Leveraging the Internet for Content
 Distribution (3 of
-3)](http://techneur.com/post/744940238/time-to-quit-your-job-leveraging-the-internet-for "Time to Quit Your Job: Leveraging the Internet for Content Distribution (3 of 3)")
+3)](http://loudjet.com/a/time-to-quit-your-job-leveraging-the-internet-for "Time to Quit Your Job: Leveraging the Internet for Content Distribution (3 of 3)")
 
 -Brian
 

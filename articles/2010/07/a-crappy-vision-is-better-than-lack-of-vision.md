@@ -1,6 +1,6 @@
 <!--
 id: 864587591
-link: http://techneur.com/post/864587591/a-crappy-vision-is-better-than-lack-of-vision
+link: http://loudjet.com/a/a-crappy-vision-is-better-than-lack-of-vision
 slug: a-crappy-vision-is-better-than-lack-of-vision
 date: Tue Jul 27 2010 00:01:00 GMT-0500 (CDT)
 publish: 2010-07-027
@@ -13,7 +13,7 @@ A Crappy Vision Is Better Than Lack of Vision
 
 ![](http://media.tumblr.com/tumblr_l675tdi47q1qzbc4f.jpg)
 
-[Yesterday](http://techneur.com/post/859911519/which-is-better-the-journey-or-the-destination),
+[Yesterday](http://loudjet.com/a/which-is-better-the-journey-or-the-destination),
 I wrote about how I felt like Captain Jack Sparrow in search of a boat.
 Well, that’s not entirely true. We have a boat, the boat just happens to
 be a row boat. But like Jack, we also have a broken compass. However, I
@@ -23,20 +23,20 @@ for 1.5 years. I’ve read
 and
 [time](http://37signals.com/svn/posts/1624-overnight-success-takes-years)
 again that startup [success takes
-years](http://techneur.com/post/636853872/patience-success-takes-years).
+years](http://loudjet.com/a/patience-success-takes-years).
 
 After [March
-Madness](http://techneur.com/post/443135737/iphone-company-struggle-2),
+Madness](http://loudjet.com/a/iphone-company-struggle-2),
 we were just kind of drifting with no vision. Maybe we were jaded by
-our [optimistic expectations](http://techneur.com/post/430123326/iphone-company-struggle-1).
+our [optimistic expectations](http://loudjet.com/a/iphone-company-struggle-1).
 I’m not sure. But we took time off of the Sports Fan Apps. Around the
 [Big Omaha
-Conference](http://techneur.com/post/662289828/big-omaha-2010), we
+Conference](http://loudjet.com/a/big-omaha-2010), we
 developed the idea for
-[Mindspread](http://techneur.com/post/635311152/announcing-mindspread).
+[Mindspread](http://loudjet.com/a/announcing-mindspread).
 We got pretty jazzed up about that but then realized we started getting
 a number of emails to update our football apps. We [lost
-passion](http://techneur.com/post/615265667/learning-pains) for the
+passion](http://loudjet.com/a/learning-pains) for the
 football apps and weren’t sure what to do. We finally decided upon the
 strategy of making enough money so that it gives us the freedom to
 choose what we want to do. This includes the following:

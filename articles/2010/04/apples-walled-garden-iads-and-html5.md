@@ -1,6 +1,6 @@
 <!--
 id: 547726724
-link: http://techneur.com/post/547726724/apples-walled-garden-iads-and-html5
+link: http://loudjet.com/a/apples-walled-garden-iads-and-html5
 slug: apples-walled-garden-iads-and-html5
 date: Sun Apr 25 2010 04:48:06 GMT-0500 (CDT)
 publish: 2010-04-025

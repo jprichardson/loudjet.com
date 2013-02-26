@@ -1,6 +1,6 @@
 <!--
 id: 7545589261
-link: http://techneur.com/post/7545589261/victory-for-the-nerds-a-tale-of-recovering-a-stolen
+link: http://loudjet.com/a/victory-for-the-nerds-a-tale-of-recovering-a-stolen
 slug: victory-for-the-nerds-a-tale-of-recovering-a-stolen
 date: Tue Jul 12 2011 16:00:07 GMT-0500 (CDT)
 publish: 2011-07-012
@@ -440,11 +440,11 @@ Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 If you enjoyed this, you might also enjoy:
 
 1.  [Fear and Loved
-    Ones](http://techneur.com/post/4393309779/fear-and-loved-ones)
+    Ones](http://loudjet.com/a/fear-and-loved-ones)
 2.  [What the Successful Will Do That You
-    Won’t](http://techneur.com/post/3900181315/what-the-successful-will-do-that-you-wont)
+    Won’t](http://loudjet.com/a/what-the-successful-will-do-that-you-wont)
 3.  [Don’t Let the Brain Prevent You From Your
-    Goals](http://techneur.com/post/3484249692/dont-let-brain-prevent-your-goals)
+    Goals](http://loudjet.com/a/dont-let-brain-prevent-your-goals)
 
 -JP
 

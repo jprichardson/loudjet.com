@@ -1,6 +1,6 @@
 <!--
 id: 969561545
-link: http://techneur.com/post/969561545/goodbye-dj-explode
+link: http://loudjet.com/a/goodbye-dj-explode
 slug: goodbye-dj-explode
 date: Tue Aug 17 2010 20:30:00 GMT-0500 (CDT)
 publish: 2010-08-017

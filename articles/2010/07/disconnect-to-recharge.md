@@ -1,6 +1,6 @@
 <!--
 id: 762872119
-link: http://techneur.com/post/762872119/disconnect-to-recharge
+link: http://loudjet.com/a/disconnect-to-recharge
 slug: disconnect-to-recharge
 date: Fri Jul 02 2010 16:15:00 GMT-0500 (CDT)
 publish: 2010-07-02

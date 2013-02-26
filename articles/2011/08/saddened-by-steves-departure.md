@@ -1,6 +1,6 @@
 <!--
 id: 9374819200
-link: http://techneur.com/post/9374819200/saddened-by-steves-departure
+link: http://loudjet.com/a/saddened-by-steves-departure
 slug: saddened-by-steves-departure
 date: Thu Aug 25 2011 09:20:17 GMT-0500 (CDT)
 publish: 2011-08-025
@@ -63,9 +63,9 @@ Read more from other new’s sources:
 You might also enjoy:
 
 1.  [Steve Jobs Lesson on Marketing: Values and
-    Beliefs](http://techneur.com/post/1035350505/steve-jobs-lesson-on-marketing-values-and-belief)
+    Beliefs](http://loudjet.com/a/steve-jobs-lesson-on-marketing-values-and-belief)
 2.  [Steve Jobs Is This Century’s Henry
-    Ford](http://techneur.com/post/675685717/steve-jobs-henry-ford)
+    Ford](http://loudjet.com/a/steve-jobs-henry-ford)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

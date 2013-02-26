@@ -1,6 +1,6 @@
 <!--
 id: 594481128
-link: http://techneur.com/post/594481128/admirable-simplicity
+link: http://loudjet.com/a/admirable-simplicity
 slug: admirable-simplicity
 date: Thu May 13 2010 00:47:00 GMT-0500 (CDT)
 publish: 2010-05-013
@@ -25,7 +25,7 @@ back I was tired of feeling like I had to clean up my apartment so much.
 I had an epiphany that if I got rid of it, it wouldn’t need to be
 ‘cleaned’ or put away. I then went through my house and got rid of more
 stuff. The thought of the concept of [detoxifying my
-life](http://techneur.com/post/567516819/detoxify-your-life) started to
+life](http://loudjet.com/a/detoxify-your-life) started to
 develop. The thought of wanting less is starting to become more and
 more fulfilling in my life. 
 

@@ -1,6 +1,6 @@
 <!--
 id: 1298873393
-link: http://techneur.com/post/1298873393/moving-and-minimalism
+link: http://loudjet.com/a/moving-and-minimalism
 slug: moving-and-minimalism
 date: Tue Oct 12 2010 09:13:15 GMT-0500 (CDT)
 publish: 2010-10-012
@@ -54,9 +54,9 @@ What do you think of minimalism?
 You may enjoy:
 
 1.  [Admirable
-    Simplicity](http://techneur.com/post/594481128/admirable-simplicity)
+    Simplicity](http://loudjet.com/a/admirable-simplicity)
 2.  [Detoxify Your
-    Life](http://techneur.com/post/567516819/detoxify-your-life)
+    Life](http://loudjet.com/a/detoxify-your-life)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

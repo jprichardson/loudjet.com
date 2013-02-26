@@ -1,6 +1,6 @@
 <!--
 id: 903135670
-link: http://techneur.com/post/903135670/pointing-the-finger-rarely-solves-problems
+link: http://loudjet.com/a/pointing-the-finger-rarely-solves-problems
 slug: pointing-the-finger-rarely-solves-problems
 date: Wed Aug 04 2010 09:49:51 GMT-0500 (CDT)
 publish: 2010-08-04

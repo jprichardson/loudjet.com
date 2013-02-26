@@ -1,6 +1,6 @@
 <!--
 id: 935550443
-link: http://techneur.com/post/935550443/the-startup-idea-filter
+link: http://loudjet.com/a/the-startup-idea-filter
 slug: the-startup-idea-filter
 date: Wed Aug 11 2010 00:02:00 GMT-0500 (CDT)
 publish: 2010-08-011
@@ -35,7 +35,7 @@ in and of itself that needs to marinate and be fleshed out.
     money, you don’t have a business. You have a hobby. You don’t have
     to commit to any particular monetization strategy, but you should at
     least think of a few in the event that one of them fails.
-2.  **Time to [MVP](http://techneur.com/post/656259481/mvp-galls-law)**
+2.  **Time to [MVP](http://loudjet.com/a/mvp-galls-law)**
     - How long will it take until you get that MVP built? If it’s longer
     than three months, you may want to consider something else. If your
     initial estimate is three months, you know as well as I do that
@@ -72,8 +72,8 @@ following:
     reason that it sucks. Plus, it’ll eventually be copied anyway. But,
     consider that most people who are able to copy your idea most likely
     have ideas of their own. I blogged about
-    [MindSpread](http://techneur.com/post/635311152/announcing-mindspread)
-    [twice](http://techneur.com/post/915916816/what-would-motivate-you-to-use-mindspread).
+    [MindSpread](http://loudjet.com/a/announcing-mindspread)
+    [twice](http://loudjet.com/a/what-would-motivate-you-to-use-mindspread).
     I’ve gotten little feedback despite driving over 500 hits to the
     original announcement. I even have a plea asking for help. Does the
     idea suck? I don’t know… but people’s lack of interest is a bit
@@ -90,7 +90,7 @@ think should be added?
 
 If you enjoyed this, you may enjoy:\
 [The Only Person Who Cares About Your Idea is Your
-Mom](http://techneur.com/post/570120631/idea-sucks)
+Mom](http://loudjet.com/a/idea-sucks)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

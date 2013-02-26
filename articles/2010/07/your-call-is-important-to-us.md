@@ -1,6 +1,6 @@
 <!--
 id: 874855332
-link: http://techneur.com/post/874855332/your-call-is-important-to-us
+link: http://loudjet.com/a/your-call-is-important-to-us
 slug: your-call-is-important-to-us
 date: Thu Jul 29 2010 06:23:55 GMT-0500 (CDT)
 publish: 2010-07-029
@@ -31,7 +31,7 @@ real-life service representative? I only interact with a Time Warner rep
 about once a year. Usually, that interaction occurs if my service is
 bad. You’d think they’d want to talk to me to see how things are going.
 This is Time Warner’s chance to
-[WOW](http://techneur.com/post/671778103/delivering-happiness-review "Techneur: Delivering Happiness Review")
+[WOW](http://loudjet.com/a/delivering-happiness-review "Techneur: Delivering Happiness Review")
 me back into their arms with a great personal touch. This is their
 opportunity to establish a personal connection with me, rather than pawn
 me off to an automated system.
@@ -85,10 +85,10 @@ when you say, “Your call is important to us.”
 If you liked this post, you may like:
 
 ​1) [Delivering Happiness
-Review](http://techneur.com/post/671778103/delivering-happiness-review "Delivering Happiness Review")
+Review](http://loudjet.com/a/delivering-happiness-review "Delivering Happiness Review")
 
 ​2) [Compete on High
-Touch](http://techneur.com/post/753257213/compete-on-high-touch "Techneur: Compete On High Touch")
+Touch](http://loudjet.com/a/compete-on-high-touch "Techneur: Compete On High Touch")
 
 [Follow me on
 twitter](http://twitter.com/brianlambelet "Follow Brian On Twitter")

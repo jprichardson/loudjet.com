@@ -1,6 +1,6 @@
 <!--
 id: 413247809
-link: http://techneur.com/post/413247809/meeting-deadlines
+link: http://loudjet.com/a/meeting-deadlines
 slug: meeting-deadlines
 date: Fri Feb 26 2010 07:34:00 GMT-0600 (CST)
 publish: 2010-02-026

@@ -1,6 +1,6 @@
 <!--
 id: 3565725520
-link: http://techneur.com/post/3565725520/to-stand-out-you-must-dazzle-your-customers
+link: http://loudjet.com/a/to-stand-out-you-must-dazzle-your-customers
 slug: to-stand-out-you-must-dazzle-your-customers
 date: Mon Feb 28 2011 11:30:00 GMT-0600 (CST)
 publish: 2011-02-028
@@ -73,11 +73,11 @@ You might also enjoy:
 
 1.  [Hey Taco John’s: Go F\*ck Yourself. A Failure to Understand
     Customer
-    Mindshare](http://techneur.com/post/564894016/hey-taco-johns-go-f-ck-yourselves-a-failure-to)
+    Mindshare](http://loudjet.com/a/hey-taco-johns-go-f-ck-yourselves-a-failure-to)
 2.  [Your Call is Important to
-    Us](http://techneur.com/post/874855332/your-call-is-important-to-us)
+    Us](http://loudjet.com/a/your-call-is-important-to-us)
 3.  [Be Exceptional and People Will Market for
-    You](http://techneur.com/post/682647739/be-exceptional-and-people-will-market-for-you)
+    You](http://loudjet.com/a/be-exceptional-and-people-will-market-for-you)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

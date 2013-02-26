@@ -1,6 +1,6 @@
 <!--
 id: 844311929
-link: http://techneur.com/post/844311929/a-pessimist-presupposes-failure-an-optimist
+link: http://loudjet.com/a/a-pessimist-presupposes-failure-an-optimist
 slug: a-pessimist-presupposes-failure-an-optimist
 date: Thu Jul 22 2010 03:00:00 GMT-0500 (CDT)
 publish: 2010-07-022

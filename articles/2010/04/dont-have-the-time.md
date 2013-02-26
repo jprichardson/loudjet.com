@@ -1,6 +1,6 @@
 <!--
 id: 535211849
-link: http://techneur.com/post/535211849/dont-have-the-time
+link: http://loudjet.com/a/dont-have-the-time
 slug: dont-have-the-time
 date: Tue Apr 20 2010 01:48:00 GMT-0500 (CDT)
 publish: 2010-04-020

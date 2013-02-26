@@ -1,6 +1,6 @@
 <!--
 id: 1591453730
-link: http://techneur.com/post/1591453730/the-power-of-the-apology
+link: http://loudjet.com/a/the-power-of-the-apology
 slug: the-power-of-the-apology
 date: Tue Nov 16 2010 08:41:06 GMT-0600 (CST)
 publish: 2010-11-016
@@ -43,11 +43,11 @@ they deserve it.
 You may enjoy:
 
 1.  [A Message to Capital One and Other Companies Who
-    Sell Commodities](http://techneur.com/post/1251165617/a-message-to-capital-one-and-other-companies-who-sell)
+    Sell Commodities](http://loudjet.com/a/a-message-to-capital-one-and-other-companies-who-sell)
 2.  [Let Your Customers Determine Your
-    Priority](http://techneur.com/post/1166860190/let-your-customers-determine-your-priority)
+    Priority](http://loudjet.com/a/let-your-customers-determine-your-priority)
 3.  [Deliver Polish Over
-    Features](http://techneur.com/post/1162629644/deliver-polish-over-features)
+    Features](http://loudjet.com/a/deliver-polish-over-features)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

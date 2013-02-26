@@ -1,6 +1,6 @@
 <!--
 id: 519935580
-link: http://techneur.com/post/519935580/ipad-smart-monkey
+link: http://loudjet.com/a/ipad-smart-monkey
 slug: ipad-smart-monkey
 date: Tue Apr 13 2010 22:55:00 GMT-0500 (CDT)
 publish: 2010-04-013

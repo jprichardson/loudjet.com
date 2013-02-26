@@ -1,6 +1,6 @@
 <!--
 id: 1046726534
-link: http://techneur.com/post/1046726534/are-you-a-commodity-foursquare-facebook-location
+link: http://loudjet.com/a/are-you-a-commodity-foursquare-facebook-location
 slug: are-you-a-commodity-foursquare-facebook-location
 date: Wed Sep 01 2010 02:28:42 GMT-0500 (CDT)
 publish: 2010-09-01
@@ -123,13 +123,13 @@ What will you do to make sure you’re not a commodity?
 If you liked this post, you may like:
 
 ​1) [Compete on High
-Touch ](http://techneur.com/post/753257213/compete-on-high-touch "Compete on High Touch ")
+Touch ](http://loudjet.com/a/compete-on-high-touch "Compete on High Touch ")
 
 ​2) [Give Your Customers a Story to
-Tell ](http://techneur.com/post/830872725/give-your-customers-a-story-to-tell "Give Your Customers a Story to Tell")
+Tell ](http://loudjet.com/a/give-your-customers-a-story-to-tell "Give Your Customers a Story to Tell")
 
 ​3) [Steve Jobs Lesson on marketing and values and
-belief ](http://techneur.com/post/1035350505/steve-jobs-lesson-on-marketing-values-and-belief "Steve Jobs Lesson on marketing and values and belief ")
+belief ](http://loudjet.com/a/steve-jobs-lesson-on-marketing-values-and-belief "Steve Jobs Lesson on marketing and values and belief ")
 
 [Follow Me on
 Twitter](http://twitter.com/brianlambelet "Follow Me On Twitter")

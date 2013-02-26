@@ -1,6 +1,6 @@
 <!--
 id: 640205730
-link: http://techneur.com/post/640205730/1-head-is-better-than-2-or-3-or-4-or-etc
+link: http://loudjet.com/a/1-head-is-better-than-2-or-3-or-4-or-etc
 slug: 1-head-is-better-than-2-or-3-or-4-or-etc
 date: Fri May 28 2010 03:27:00 GMT-0500 (CDT)
 publish: 2010-05-028
@@ -100,7 +100,7 @@ the waters aren’t muddied because a partner wasn’t motivated to execute.
 
 Now there’s a fourth type of company. Company D has equal distribution
 of leadership and realizes that [business is a
-Marriage](http://techneur.com/post/555332733/business-marriage "Business is a Marriage Blog Post").
+Marriage](http://loudjet.com/a/business-marriage "Business is a Marriage Blog Post").
 Sometimes, you have to give in to get going. If the company leaders are
 aware of their situation and attuned to the process, they will
 ultimately defeat Business A because they will have a larger pool of

@@ -1,6 +1,6 @@
 <!--
 id: 605793942
-link: http://techneur.com/post/605793942/business-cards
+link: http://loudjet.com/a/business-cards
 slug: business-cards
 date: Mon May 17 2010 00:01:00 GMT-0500 (CDT)
 publish: 2010-05-017
@@ -20,9 +20,9 @@ got to the Slowdown, we were eating dinner and discussing expectations
 and our excitement for the conference. Corey made a comment on how he
 doesn’t like our business cards; I then said that I think business cards
 in general are a waste. You see, I’ve been on this kick for striving
-towards [minimalism](http://techneur.com/post/594481128/admirable-simplicity) and
+towards [minimalism](http://loudjet.com/a/admirable-simplicity) and
 the [reduction of
-stuff](http://techneur.com/post/567516819/detoxify-your-life)… I’ve
+stuff](http://loudjet.com/a/detoxify-your-life)… I’ve
 never kept a business card. I transcribe the information and then throw
 them away. “I think we should just tell people to keep their business
 cards. Let’s connect with them on Twitter, as Twitter is a more personal

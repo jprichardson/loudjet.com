@@ -1,6 +1,6 @@
 <!--
 id: 1609825824
-link: http://techneur.com/post/1609825824/change-the-world-one-day-at-a-time-lets-help
+link: http://loudjet.com/a/change-the-world-one-day-at-a-time-lets-help
 slug: change-the-world-one-day-at-a-time-lets-help
 date: Thu Nov 18 2010 08:39:00 GMT-0600 (CST)
 publish: 2010-11-018
@@ -51,11 +51,11 @@ Thanks for your help, together we can truly change the world.
 You may enjoy:
 
 1.  [Announcing Mindspread: Pay-It-Forward for
-    Books](http://techneur.com/post/635311152/announcing-mindspread)
+    Books](http://loudjet.com/a/announcing-mindspread)
 2.  [Steve Jobs is This Century’s Henry
-    Ford](http://techneur.com/post/675685717/steve-jobs-henry-ford)
+    Ford](http://loudjet.com/a/steve-jobs-henry-ford)
 3.  [Change the
-    World?](http://techneur.com/post/1291554735/change-the-world)
+    World?](http://loudjet.com/a/change-the-world)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

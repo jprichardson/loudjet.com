@@ -1,6 +1,6 @@
 <!--
 id: 1017665420
-link: http://techneur.com/post/1017665420/discipline-is-the-strength-to-do-things-that-will-make
+link: http://loudjet.com/a/discipline-is-the-strength-to-do-things-that-will-make
 slug: discipline-is-the-strength-to-do-things-that-will-make
 date: Thu Aug 26 2010 22:12:00 GMT-0500 (CDT)
 publish: 2010-08-026
@@ -15,10 +15,10 @@ Discipline Is the Strength to Do Things that Will Make Our Future Selves Proud
 
 I’ve written before how I’ll repeat phrases in my head in an attempt to
 motivate myself to success. My first one was: “[How Bad Do You Want
-It](http://techneur.com/post/552633852/how-bad-do-you-want-it)?” I
+It](http://loudjet.com/a/how-bad-do-you-want-it)?” I
 repeated this over and over as I was working on my dual-engineering
 degrees. Lately I’ve been repeating “[Embrace
-Discomfort](http://techneur.com/post/679425561/embrace-discomfort).” I
+Discomfort](http://loudjet.com/a/embrace-discomfort).” I
 do this to force myself into situations where I might be uncomfortable.
 I know that if I put myself in an uncomfortable situation and embrace
 it, I’ll grow.
@@ -57,7 +57,7 @@ I’m waiting for a compile to finish, I’ve been guilty of firing up
 Hacker News or some other site thinking that I’ll only be a minute. 45
 minutes passes. This has happened way too much. I even built a tool to
 measure my [consumption vs
-production](http://techneur.com/post/649237455/less-consumption-more-production).
+production](http://loudjet.com/a/less-consumption-more-production).
 It works.
 
 Read the article. Take the easy option off the table. Don’t take breaks
@@ -71,13 +71,13 @@ get work done.
 If you enjoyed this, you might enjoy:
 
 ​1) [Less Consumption, More
-Production](http://techneur.com/post/649237455/less-consumption-more-production)
+Production](http://loudjet.com/a/less-consumption-more-production)
 
 ​2) [Is It
-Actionable](http://techneur.com/post/652742373/is-it-actionable-no-then-get-rid-of-it)?
+Actionable](http://loudjet.com/a/is-it-actionable-no-then-get-rid-of-it)?
 
 ​3) [It’s Not About Time, It’s About
-Priority](http://techneur.com/post/535211849/dont-have-the-time)
+Priority](http://loudjet.com/a/dont-have-the-time)
 
 Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

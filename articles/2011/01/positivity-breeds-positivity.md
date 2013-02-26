@@ -1,6 +1,6 @@
 <!--
 id: 2697836616
-link: http://techneur.com/post/2697836616/positivity-breeds-positivity
+link: http://loudjet.com/a/positivity-breeds-positivity
 slug: positivity-breeds-positivity
 date: Tue Jan 11 2011 07:45:16 GMT-0600 (CST)
 publish: 2011-01-011
@@ -35,11 +35,11 @@ Negativity breeds negativity. Positivity breeds positivity.
 You might also enjoy:
 
 1.  [A Pessimist Presupposes Failure. An Optimist Presupposes
-    Success.](http://techneur.com/post/844311929/a-pessimist-presupposes-failure-an-optimist)
+    Success.](http://loudjet.com/a/a-pessimist-presupposes-failure-an-optimist)
 2.  [Regret Minimization
-    Framework](http://techneur.com/post/2315611963/regret-minimization-framework)
+    Framework](http://loudjet.com/a/regret-minimization-framework)
 3.  [Luck Surface
-    Area](http://techneur.com/post/1516468079/luck-surface-area)
+    Area](http://loudjet.com/a/luck-surface-area)
 
 -JP
 

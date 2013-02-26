@@ -1,6 +1,6 @@
 <!--
 id: 756645540
-link: http://techneur.com/post/756645540/focus-on-your-customers-and-the-money-will-follow
+link: http://loudjet.com/a/focus-on-your-customers-and-the-money-will-follow
 slug: focus-on-your-customers-and-the-money-will-follow
 date: Thu Jul 01 2010 01:11:00 GMT-0500 (CDT)
 publish: 2010-07-01
@@ -38,7 +38,7 @@ This has happened time & time again.
 
 I’m not telling you this to toot our horn. I’m just trying to
 demonstrate that this treatment works. Hell, consider
-[Zappos](http://techneur.com/post/671778103/delivering-happiness-review).
+[Zappos](http://loudjet.com/a/delivering-happiness-review).
 They give customers free overnight shipping and other crazy stuff such
 as putting balloons in packages.
 

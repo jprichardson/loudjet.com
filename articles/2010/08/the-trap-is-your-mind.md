@@ -1,6 +1,6 @@
 <!--
 id: 931853278
-link: http://techneur.com/post/931853278/the-trap-is-your-mind
+link: http://loudjet.com/a/the-trap-is-your-mind
 slug: the-trap-is-your-mind
 date: Tue Aug 10 2010 08:08:42 GMT-0500 (CDT)
 publish: 2010-08-010
@@ -92,11 +92,11 @@ I’ll end with this appropriate quote by Tyler Durden: 
 If you enjoyed this post, you may enjoy:
 
 -   [Time to Quit Your Job: The
-    Motivation](http://techneur.com/post/707087897/time-to-quit-your-job-the-motivation-part-1-of-3 "Time to Quite Your Job: The Motivation")
+    Motivation](http://loudjet.com/a/time-to-quit-your-job-the-motivation-part-1-of-3 "Time to Quite Your Job: The Motivation")
 -   [Time to Quit Your Job: Fight For
-    Flight](http://techneur.com/post/720958036/time-to-quit-your-job-fight-for-flight-2-of-3 "Time to Quit Your Job: Fight For Flight")
+    Flight](http://loudjet.com/a/time-to-quit-your-job-fight-for-flight-2-of-3 "Time to Quit Your Job: Fight For Flight")
 -   [Wow. You’ve
-    Changed](http://techneur.com/post/835563629/wow-youve-changed "Wow. You've Changed")
+    Changed](http://loudjet.com/a/wow-youve-changed "Wow. You've Changed")
 
 [Follow Me On
 Twitter](http://twitter.com/brianlambelet "Follow Brian on Twitter")

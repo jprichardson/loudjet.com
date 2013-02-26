@@ -1,6 +1,6 @@
 <!--
 id: 724492913
-link: http://techneur.com/post/724492913/my-son-saved-me-from-complacency
+link: http://loudjet.com/a/my-son-saved-me-from-complacency
 slug: my-son-saved-me-from-complacency
 date: Tue Jun 22 2010 01:13:00 GMT-0500 (CDT)
 publish: 2010-06-022

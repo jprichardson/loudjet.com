@@ -1,6 +1,6 @@
 <!--
 id: 1415352474
-link: http://techneur.com/post/1415352474/40-hours-is-breaking-even
+link: http://loudjet.com/a/40-hours-is-breaking-even
 slug: 40-hours-is-breaking-even
 date: Wed Oct 27 2010 09:28:02 GMT-0500 (CDT)
 publish: 2010-10-027
@@ -25,11 +25,11 @@ hours is breaking even.
 You may enjoy:
 
 1.  [Resilience: It’s Not How Hard You
-    Hit](http://techneur.com/post/1057746147/resilience-its-not-how-hard-you-hit-its-how-hard)
+    Hit](http://loudjet.com/a/resilience-its-not-how-hard-you-hit-its-how-hard)
 2.  [Work Until Your Eyes
-    Bleed](http://techneur.com/post/1041263868/work-until-your-eyes-bleed)
+    Bleed](http://loudjet.com/a/work-until-your-eyes-bleed)
 3.  [It’s Not About Time, It’s About
-    Priority](http://techneur.com/post/535211849/dont-have-the-time)
+    Priority](http://loudjet.com/a/dont-have-the-time)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

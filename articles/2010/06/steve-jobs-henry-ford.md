@@ -1,6 +1,6 @@
 <!--
 id: 675685717
-link: http://techneur.com/post/675685717/steve-jobs-henry-ford
+link: http://loudjet.com/a/steve-jobs-henry-ford
 slug: steve-jobs-henry-ford
 date: Tue Jun 08 2010 01:16:00 GMT-0500 (CDT)
 publish: 2010-06-08

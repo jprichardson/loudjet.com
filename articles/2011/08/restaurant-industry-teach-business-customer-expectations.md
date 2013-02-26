@@ -1,6 +1,6 @@
 <!--
 id: 9333627575
-link: http://techneur.com/post/9333627575/restaurant-industry-teach-business-customer-expectations
+link: http://loudjet.com/a/restaurant-industry-teach-business-customer-expectations
 slug: restaurant-industry-teach-business-customer-expectations
 date: Wed Aug 24 2011 09:05:00 GMT-0500 (CDT)
 publish: 2011-08-024
@@ -113,11 +113,11 @@ Think about this. Be consistent.
 You might also enjoy:
 
 1.  [To Stand Out, You Must Dazzle Your
-    Customers](http://techneur.com/post/3565725520/to-stand-out-you-must-dazzle-your-customers)
+    Customers](http://loudjet.com/a/to-stand-out-you-must-dazzle-your-customers)
 2.  [The Power of the
-    Apology](http://techneur.com/post/1591453730/the-power-of-the-apology)
+    Apology](http://loudjet.com/a/the-power-of-the-apology)
 3.  [Hey Taco Johns, Go F\*ck Yourself: A Failure to Understand Customer
-    Mindshare](http://techneur.com/post/564894016/hey-taco-johns-go-f-ck-yourselves-a-failure-to)
+    Mindshare](http://loudjet.com/a/hey-taco-johns-go-f-ck-yourselves-a-failure-to)
 
 Follow me on Twitter: [@jprichardson](http://twitter.com/jprichardson)
 

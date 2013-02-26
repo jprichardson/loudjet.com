@@ -1,6 +1,6 @@
 <!--
 id: 524363996
-link: http://techneur.com/post/524363996/the-best-exercise-any-entrepreneur-can-do
+link: http://loudjet.com/a/the-best-exercise-any-entrepreneur-can-do
 slug: the-best-exercise-any-entrepreneur-can-do
 date: Thu Apr 15 2010 18:42:00 GMT-0500 (CDT)
 publish: 2010-04-015

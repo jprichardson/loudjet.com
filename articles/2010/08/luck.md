@@ -1,6 +1,6 @@
 <!--
 id: 948686582
-link: http://techneur.com/post/948686582/luck
+link: http://loudjet.com/a/luck
 slug: luck
 date: Fri Aug 13 2010 14:59:42 GMT-0500 (CDT)
 publish: 2010-08-013

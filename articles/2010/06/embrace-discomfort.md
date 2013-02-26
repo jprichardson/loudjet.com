@@ -1,6 +1,6 @@
 <!--
 id: 679425561
-link: http://techneur.com/post/679425561/embrace-discomfort
+link: http://loudjet.com/a/embrace-discomfort
 slug: embrace-discomfort
 date: Wed Jun 09 2010 02:35:00 GMT-0500 (CDT)
 publish: 2010-06-09
@@ -15,7 +15,7 @@ Embrace Discomfort
 
 Often times, recurring themes and phrases are narrated to myself in my
 head. In college it was “[How bad do you want
-it?](http://techneur.com/post/552633852/how-bad-do-you-want-it)” It’s as
+it?](http://loudjet.com/a/how-bad-do-you-want-it)” It’s as
 if the voice in our head is our narrator and can encourage to act in
 positive manners or negative manners. My narrator is overwhelming
 positive, and for that, I’m very thankful.

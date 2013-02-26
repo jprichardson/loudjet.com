@@ -1,6 +1,6 @@
 <!--
 id: 10559384395
-link: http://techneur.com/post/10559384395/do-or-do-not-there-is-no-try
+link: http://loudjet.com/a/do-or-do-not-there-is-no-try
 slug: do-or-do-not-there-is-no-try
 date: Fri Sep 23 2011 11:25:49 GMT-0500 (CDT)
 publish: 2011-09-023

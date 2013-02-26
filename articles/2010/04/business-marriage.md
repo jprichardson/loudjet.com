@@ -1,6 +1,6 @@
 <!--
 id: 555332733
-link: http://techneur.com/post/555332733/business-marriage
+link: http://loudjet.com/a/business-marriage
 slug: business-marriage
 date: Wed Apr 28 2010 01:37:00 GMT-0500 (CDT)
 publish: 2010-04-028
