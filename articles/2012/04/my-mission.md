@@ -1,7 +1,7 @@
 <!--
-PUBLISHED: 2012-04-20
-AUTHOR: JP (jprichardson@gmail.com)
-TAGS: death, mission, regrets
+publish: 2012-04-20
+author: JP Richardson
+tags: death, mission, regrets
 -->
 
 My Mission
@@ -72,7 +72,6 @@ I want to build this great nation into one that maximize's liberty (term from my
 
 I want to leave the world much better off than when I entered it.
 
-Ideas are like a virus, this one will spread.
 
 -JP
 
