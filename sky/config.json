@@ -6,7 +6,7 @@
     "author": "JP Richardson"
   },
   "articles": {
-    "urlformat": "a/{{slug}}",
+    "urlformat": "a/{{slug}}/index.html",
     "index": "index.html"
   },
   "build": {
