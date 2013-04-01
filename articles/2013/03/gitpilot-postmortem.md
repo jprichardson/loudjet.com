@@ -1,5 +1,5 @@
 <!--
-publish: 
+publish: 2013-03-31
 tags: gitpilot, corey, brian, reflect7
 author: JP Richardson
 -->
