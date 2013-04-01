@@ -36,8 +36,8 @@ Gitpilot started out as a web app. The idea is that you'd download a cross-platf
 
 
 
-Gitpilot: Make Software Development with Your Colleagues Effortless
---------------------------------------------------------------------
+Development with Colleagues Becomes Easy
+----------------------------------------
 
 Gitpilot was intended to solve a few problems:
 
@@ -89,7 +89,7 @@ We modified Gitpilot in three ways:
 
 We sent out another email to our list and submitted some more articles to social news sites. Very little response.
 
-People were importing their repos and adding some improvements to their `develope` list, but very little action was taken. No one invited users to join them. We built a seemless user invite system into Gitpilot.
+People were importing their repos and adding some improvements to their `develop` list, but very little action was taken. No one invited users to join them. We built a seemless user invite system into Gitpilot.
 
 
 
