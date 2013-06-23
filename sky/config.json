@@ -10,7 +10,8 @@
     "index": "index.html"
   },
   "build": {
-    "outputDir": "./"
+    "outputDir": "./",
+    "lastBuild": "2013-06-23T05:26:56.428Z"
   },
   "partials": {
     "disqus": {

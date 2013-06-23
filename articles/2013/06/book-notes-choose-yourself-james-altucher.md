@@ -1,5 +1,5 @@
 <!--
-title: Book Notes: Choose Yourself - James Altucher
+title: Book Notes, Choose Yourself - James Altucher
 publish: 2013-06-22
 tags: Book Notes, Entrepreneurs, Rejection, Gratitude, Sales, Entrepreneurship, Honesty
 -->

@@ -1,5 +1,194 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[loudjet]]></title><description><![CDATA[Becoming a Better Human - Promoting tolerance of others, compassion for the suffering, and freedom of the individual]]></description><link>http://loudjet.com</link><generator>NodeJS RSS Module</generator><lastBuildDate>Mon, 01 Apr 2013 05:30:33 GMT</lastBuildDate><atom:link href="http://loudjet.com/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[Gitpilot Postmortem]]></title><description><![CDATA[<h1>Gitpilot Postmortem</h1>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[loudjet]]></title><description><![CDATA[Becoming a Better Human - Promoting tolerance of others, compassion for the suffering, and freedom of the individual]]></description><link>http://loudjet.com</link><generator>NodeJS RSS Module</generator><lastBuildDate>Sun, 23 Jun 2013 05:26:56 GMT</lastBuildDate><atom:link href="http://loudjet.com/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[Book Notes, Choose Yourself - James Altucher]]></title><description><![CDATA[<p>I had heard of <a href="https://twitter.com/jaltucher">James Altucher</a> a few times, but I didn&#39;t really know who he is or what he does. I just remember reading a few articles linked to his blog from <a href="http://news.ycombinator.com">Hacker News</a>; I do, however, mostly remember his distinct <a href="https://www.google.com/search?tbm=isch&amp;q=James+Altucher&amp;">nerdy Jewish look</a> (if you read the book, he has self-deprecating humor regarding being Jewish and nerdy all over it).</p>
+<p>I don&#39;t really remember how I heard about the book, I just remember reading somewhere about the promotion. If you buy his book and write a review, he&#39;ll reimburse you for the book. I don&#39;t give a shit about the money for the reimbursement, but fortunately he&#39;ll give it charity and I&#39;m given a bit of motivation to read a book and write a review to add content to my blog.</p>
+<p>So, what is <a href="http://www.amazon.com/gp/product/1490313370/ref=as_li_tf_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1490313370&amp;linkCode=as2&amp;tag=loudjet-20">Choose Yourself</a> about? In short, it feels kinda like a cross between a book written by Tim Ferris, most notably the <a href="http://www.amazon.com/gp/product/0307465357/ref=as_li_tf_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0307465357&amp;linkCode=as2&amp;tag=loudjet-20">4-Hour Work Week</a>, and maybe self-help guru Tony Robbins. </p>
+<p>What does that mean? Keep reading.</p>
+<h2>Becoming a Made Man</h2>
+<p>I use the term &#39;made&#39; loosely, but basically to describe how James earned his fortunate. In short, he sold one company, did all of the things that you mentally associate with extremely wealthy people: bought a mansion, lent money to everyone, and gambled until it was all gone.</p>
+<p>Depression and suicidal thoughts came.</p>
+<h2>Choose Yourself Era</h2>
+<p>The &quot;Choose Yourself Era&quot; is described by Altucher as the present time &quot;that to depend on those stifling treads that are defeating you. Instead, build your own platform, have faith and confidence in yourself instead of the jury-rigged system and define success by your own terms.&quot; I don&#39;t remember him explicitly mentioning the internet as you might expect. </p>
+<h2>Permanent Temporarily</h2>
+<p>This chapter builds a case for you to make a move to self-reliance. Altucher states: &quot;Zero sectors in the economy are moving toward more full-time workers.&quot; According to the book, his basis for this statement is some anecdotes about empty office buildings. I&#39;m by no means claiming that he&#39;s wrong.</p>
+<p>This quote is worth mentioning:</p>
+<blockquote>
+<p>This about a new phase in history where art, science, business, and spirit will join together, both externally and internally, in pursuit of true wealth. It&#39;s a 
+phase where ideas are more important than people and everyone will have to choose themselves for happiness.</p>
+</blockquote>
+<p>this as well:</p>
+<blockquote>
+<p>You no longer have to wait for the gods of corporate America, or universities, or media, or investors, to come down from the clouds and choose you for success. In &gt; every single industry, the middleman is being taken out of the picture, causing disruption in employment bus also greater efficiencies and more opportunities for 
+unique ideas to generate real wealth.</p>
+</blockquote>
+<h2>Rejection</h2>
+<p>The chapter on rejection sets the rest of the book up well. As Altucher mentions, we all get rejected at one time or another. One of the keys to success is to get just get over it and keep trying. This reminds me of the following quote:</p>
+<blockquote>
+<p>You miss 100% of the shots that you don&#39;t take. - Wayne Gretzky</p>
+</blockquote>
+<p>Also, to those of you struggling with rejection, you may want to check out <a href="http://rejectiontherapy.com/rules/">Rejection Therapy</a>. The whole point of the game is to get rejected every day for 30 days. If you try to get rejected and don&#39;t get rejected, you didn&#39;t ask for enough and ask for more. Building up a rejection shield is something that everyone who wants to be successful needs to do.</p>
+<p>The chapter on rejection also starts to build a base for the foundation of James&#39;s philosophy on success: to be successful: you must be physically, emotionally, mentally, and spiritually sound.</p>
+<h2>Be Grateful</h2>
+<p>This is another perspective that I share with James. So many people wonder: &quot;why am I depressed?&quot; When this line of thinking takes hold, it&#39;s typically because we&#39;re focused on ourselves. When we start thinking about others and what we can do to help others, our mentality shifts into a mode of servant leadership. His book doesn&#39;t explicitly state this, but his writing hints that he&#39;d share these thoughts.  A good way to shift your mentality out of depression or your rut is to start by being grateful with you have. James recommends that you quite literally count the things and people that your grateful for.</p>
+<h2>Freedom</h2>
+<p>A lot of people say: &quot;all I want is freedom.&quot; James questions, &quot;freedom from what?&quot; We spend so much time fighting from freedom, but we are already free. He recommends two things to harnessing that freedom:</p>
+<ol>
+<li>Only do things that you enjoy. He goes on to clarify exactly what me means here:</li>
+</ol>
+<blockquote>
+<p>One might say, &quot;Duh, I&#39;d love to do what i enjoy but I have to pay the bills!&quot; Relax for a second. We&#39;re going to learn how to do what we enjoy, first. I&#39;m not
+talking about those &quot;only pursue a career you enjoy&quot; platitudes, either. I mean it down to your very thoughts. Only think about the people you enjoy.
+Only read about the books that you enjoy, that make you happy to be human. ONly go to the events that actually make you laugh or fall in love. Only deal
+with people who love you back, who are winners and want you to win too.</p>
+</blockquote>
+<ol>
+<li>The Daily Practice. He uses the metaphor of our bodies being like galaxies that are empty and we need to find a way to light up our inner sky. We must do the daily practice. We must establish a regimen to protect our heart and the blood that flows through it. Doing this is a function of diet, exercise, sleep and other things.</li>
+</ol>
+<h2>Daily Practice</h2>
+<h3>Physical Body</h3>
+<ul>
+<li>Shit regularly. If you&#39;re not, eat better.</li>
+<li>Don&#39;t eat junk food.</li>
+<li>sleep seven to nine hours a night.</li>
+<li>Avoid excees alcohol.</li>
+<li>Exercise. (He clarifies that simple walks are fine)</li>
+</ul>
+<h3>Emotional Body</h3>
+<ul>
+<li>Surround yourself with only positive people.</li>
+<li>Avoid people who bring you down.</li>
+<li>You can&#39;t be beautiful unless you get rid of the ugliness inside. Poeple become crappy people not because of who they are, but because they are crapping inside of you.</li>
+<li>Most people speak on average of 2500 words a day. Trying speaking about 1000.</li>
+</ul>
+<h3>Mental Body</h3>
+<ul>
+<li>Tire your mind out daily. So it doesn&#39;t focus on worry and other crap. Set daily goals.</li>
+</ul>
+<h3>Spiritual Body</h3>
+<ul>
+<li>Give up all thoughts about the past or &quot;time traveling&quot; as he calls it.</li>
+<li>Surrender and trust that you&#39;ve done the right preparation.</li>
+</ul>
+<p>Actionable tips to try once a day:</p>
+<ul>
+<li>Sleep eight hours.</li>
+<li>Eat two meals instead of three.</li>
+<li>No TV.</li>
+<li>No Junk Food.</li>
+<li>No complaining for the entire day.</li>
+<li>No gossip.</li>
+<li>Express thanks to a friend.</li>
+<li>Watch a funny movie.</li>
+<li>Write down a list of ideas.</li>
+<li>Read a spiritual text.</li>
+<li>Try to save a life.</li>
+<li>Take up a hobby.</li>
+<li>Write down your entire schedule that you do daily. Cross off one item and don&#39;t do it again.</li>
+<li>Surprise someone.</li>
+<li>Think of ten people you&#39;re grateful for.</li>
+<li>Forgive someone.</li>
+<li>Take the stairs instead of the elevator.</li>
+<li>Don&#39;t say yes when you want to say no.</li>
+<li>Tell someone that you love them.</li>
+<li>Don&#39;t have sex with someone that you don&#39;t love.</li>
+<li>Shower and actually scrub.</li>
+<li>Read a chapter of a bio of someone who is an inspiration.</li>
+<li>Make plans to spend time with a friend.</li>
+<li>Deep breathing.</li>
+</ul>
+<h2>Death</h2>
+<p>James states that a lot of people want to die. I didn&#39;t like this chapter as it didn&#39;t resonate with me. He goes off on a tangent on how to get off the grid. </p>
+<h2>Life</h2>
+<p>There is nice anecdote about his friend Kamal who is an entrepreneur and became sicker and sicker. Then Kamal started to tell himself that loved himself and didn&#39;t want to die. He got better. James states: &quot;when we attach happiness to external goals, we often get disappointed.&quot; Kamal even wrote a book: <a href="http://www.amazon.com/gp/product/1478121734/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1478121734&amp;linkCode=as2&amp;tag=loudjet-20">Love Yourself Like Your Life Depends Upon it</a></p>
+<p>Kamal later told James, &quot;When someone is in love, they almost magically look better. I needed to be in love with myself to look better.&quot;</p>
+<p>James then goes on a tangent about self-publishing.</p>
+<h2>Find Your Purpose of Life</h2>
+<p>He makes a compelling case that Colonel Sanders, Rodney Dangerfield, Ray Kroc, Stan Lee, Tim Zagat and Peter Roget didn&#39;t find their purpose until way later in life. So it&#39;s stupid for people to get worked up or depressed if they haven&#39;t found their purpose. He even states that he doesn&#39;t really like the word &quot;purpose&quot; because it implies that we&#39;re unhappy until we&#39;ve found it. </p>
+<h2>Paradigm Shift</h2>
+<p>&quot;You need to change for the changes that are coming.&quot;</p>
+<ol>
+<li>The middle class is dead.</li>
+<li>You&#39;ve been replaced by technology.</li>
+<li>Corporations don&#39;t like you.</li>
+<li>Money is not happiness.</li>
+<li>Count how many people can make a major decision that can ruin your life.</li>
+<li>Is your job satisfying your needs?</li>
+<li>Your retirement plan is for shit.</li>
+<li>Excuses. &quot;I&#39;m too old.&quot;, &quot;I&#39;m not creative.&quot;, &quot;I need the insurance.&quot;, &quot;I have to raise my kids.&quot;</li>
+<li>It&#39;s okay to take baby steps.</li>
+<li>Abundance will never come from your job.</li>
+</ol>
+<h2>Let&#39;s Get Specific</h2>
+<p>I really like all of the anecdotes in this book. Especially the one about the origins of <a href="https://www.braintreepayments.com/">Braintree</a> who is now processing over 8 billion dollars in payments per year.</p>
+<ol>
+<li>Take out the middleman.</li>
+<li>Pick a boring business.</li>
+<li>Get a customer.</li>
+<li>Build trust while you sleep.</li>
+<li>Blogging is not about money.</li>
+<li>Say yes.</li>
+<li>Compete with customer service.</li>
+</ol>
+<p>Business ideas:</p>
+<ol>
+<li>Make a service business or whatever the cutting edge is on the internet. Start with small businesses, help them with get started with the cutting edge. e.g. setup Facebook fan pages, Wordpress blogs, etc.</li>
+<li>Introduce two people.</li>
+<li>Write a book. (Helps with consulting, paid speaking, and writing opportunities)</li>
+<li>Financial repair. (He goes into detail with good ideas)</li>
+</ol>
+<h2>Learn Sales</h2>
+<p>10 keys:</p>
+<ol>
+<li>What&#39;s the lifetime value to the customer?</li>
+<li>What are the ancillary benefits of having this customer?</li>
+<li>Learn the entire history of your client, your audience, your readership, and your platform.</li>
+<li>Give extra features.</li>
+<li>Give away the kitchen sink.</li>
+<li>Recommend your competition.</li>
+<li>Idea machine.</li>
+<li>Show up.</li>
+<li>Knowledge.</li>
+<li>Love it.</li>
+</ol>
+<h2>Idea Machine</h2>
+<p>I didn&#39;t care of this chapter. He recommends that you work the idea muscle in your brain. I guess I didn&#39;t like it much because I already have enough ideas generated daily and I don&#39;t try much to do it. Furthermore, I see little value in most ideas.</p>
+<p>The anecdote about Richard Branson is interesting and you should go Google about him now to read more.</p>
+<h2>Oxytocin</h2>
+<p>Oxytocin is the life hormone. You can trick the body into releasing some:</p>
+<ol>
+<li>Give money away.</li>
+<li>Hug.</li>
+<li>Like someone&#39;s status or photo on Facebook.</li>
+<li>Laugh.</li>
+<li>Walk.</li>
+<li>Make a phone call to friend.</li>
+<li>Being trusted.</li>
+<li>Listening to music.</li>
+<li>Deep breath.</li>
+</ol>
+<h2>Honesty &amp; Money</h2>
+<p>I loved this chapter.</p>
+<p>People often think that you have to be dishonest in the world to succeed. This isn&#39;t true at all. Dishonesty works, until it doesn&#39;t. Everyone messes up. </p>
+<blockquote>
+<p>Honesty Compounds. It compounds exponentially. NO matter what happens in your bank account, in your career, in your promotions,  in your startups. Honesty 
+compounds exponentially, not over days or weeks, but years and decades. More people trust your word.</p>
+</blockquote>
+<p>How to be more honest:</p>
+<ol>
+<li>Give credit.</li>
+<li>Be the source.</li>
+<li>Introduce two people.</li>
+<li>Take the blame.</li>
+<li>Don&#39;t lead a double life.</li>
+<li>Don&#39;t be angry.</li>
+<li>Don&#39;t make excuses.</li>
+<li>Make others look good.</li>
+<li>Don&#39;t gossip.</li>
+<li>Do what you say you&#39;re going to do.</li>
+<li>Enhance the lives of others.</li>
+</ol>
+<h2>Conclusion</h2>
+<p>This book has a lot of content. Some that I didn&#39;t mention: 1) Alex Day and his story 2) The Curious Case of the Sexy Image. 3) Gandhi 4) Wood Allen. It&#39;s jam packed. Some of the chapter titles don&#39;t match the content in the chapter. Some of the content feels out of place. Overall, is the book worth reading? If you enjoy reading books self-help books or entrepreneurial books, then you&#39;ll definitely enjoy this one. I was in a bit of rut and reading this book gave me enough of a boost to get out of it. These books are like a drug. Typically, their effects give an immediate boost. Some of them help shape the way that you think.</p>
+]]></description><link>http://loudjet.com/a/book-notes-choose-yourself-james-altucher/</link><guid isPermaLink="true">http://loudjet.com/a/book-notes-choose-yourself-james-altucher/</guid><dc:creator><![CDATA[JP Richardson]]></dc:creator><pubDate>Sat, 22 Jun 2013 00:00:00 GMT</pubDate></item><item><title><![CDATA[Gitpilot Postmortem]]></title><description><![CDATA[<h1>Gitpilot Postmortem</h1>
 <p>Deciding to close down a company is rarely an easy decision. The purpose of this post to analyze the failure of Gitpilot. Unfortunately, it will not serve as an entertaining narrative as I need to get these raw thoughts out before they fade away; it&#39;s already been three months since we&#39;ve terminated the company. However, it does serve as a great reference on lessons-learned for my ex-cofounder Corey and me.</p>
 <p>Let&#39;s revisit how Gitpilot came about. If you want to see any of the demos of Gitpilot, scroll-down to the bottom and look under <code>Media</code>.</p>
 <h2>Genesis</h2>
@@ -514,56 +703,4 @@ Motivations</a></li>
 </ol>
 <p>Follow me on Twitter: <a href="http://twitter.com/jprichardson">@jprichardson</a></p>
 <p>-JP</p>
-]]></description><link>http://loudjet.com/a/sometimes-it-doesnt-matter-what-the-contract-states/</link><guid isPermaLink="true">http://loudjet.com/a/sometimes-it-doesnt-matter-what-the-contract-states/</guid><dc:creator><![CDATA[JP Richardson]]></dc:creator><pubDate>Mon, 29 Aug 2011 05:00:00 GMT</pubDate></item><item><title><![CDATA[Saddened by Steve's Departure]]></title><description><![CDATA[<h1>Saddened by Steve&#39;s Departure</h1>
-<p><img src="http://media.tumblr.com/tumblr_lqhmd2mPpd1qzbc4f.jpg" alt=""></p>
-<p>Who would have expected that many would be saddened by a CEO’s departure
-from a company? I wouldn’t. But on many of the net forums, people are
-expressing a bit of melancholy. I feel the same.</p>
-<p>It’s not because Steve is some big, bad, powerful man [he is]… no, it’s
-because Steve took Apple from the brink of bankruptcy to briefly being
-the most valuable company in the world (currently the 2nd behind Exxon
-Mobile). He did this all while giving us products that we as consumers
-love.</p>
-<p>You see, Apple represented what we love about a good story. Apple was
-David the underdog. Microsoft was the evil goliath that could not be
-defeated. Apple innovated. They help to revolutionize the music
-industry, the computer industry, and the smartphone. I hope that they
-are just getting started.</p>
-<p>As an entrepreneur, Steve Jobs represents exactly what an entrepreneur
-should be. One who is focused on the present while simultaneously
-holding a vision. One who cares about simplicity and not just producing
-another “me-to” product. One who wants to change lives.</p>
-<p>I truly believe that history will remember him as this century’s Henry
-Ford. Or better yet, he has set a new standard, one that I’ll always be
-inspired from.</p>
-<p>Farewell.</p>
-<p>Read more from other new’s sources:</p>
-<ul>
-<li><a href="http://daringfireball.net/2011/08/resigned">Resigned</a> [Daring
-Fireball]</li>
-<li><a href="http://finance.yahoo.com/news/Steve-Jobs-Resigns-as-CEO-of-bw-19285464.html?x=0&amp;.v=1">Steve Jobs Resigns as CEO of
-Apple</a>
-[Yahoo News]</li>
-<li><a href="http://blogs.wsj.com/deals/2011/08/24/steve-jobs-resigns-as-apple-ceo/">Steve Jobs Resigns as Apple
-CEO</a>
-[Wall Street Journal]</li>
-<li><a href="http://blogs.wsj.com/digits/2011/08/24/steve-jobss-best-quotes/">Steve Jobs’s Best
-Quotes</a>
-[Wall Street Journal]</li>
-<li><a href="http://www.cringely.com/2011/08/cupertino-two-step/">Cupertino
-Two-Step</a>
-[Cringley]</li>
-<li><a href="http://www.huffingtonpost.com/2011/08/25/steve-jobs-resigns_n_935940.html#s338918">How the iPod Changed My
-Life</a>
-[Huffington Post]</li>
-</ul>
-<p>You might also enjoy:</p>
-<ol>
-<li><a href="http://loudjet.com/a/steve-jobs-lesson-on-marketing-values-and-belief">Steve Jobs Lesson on Marketing: Values and
-Beliefs</a></li>
-<li><a href="http://loudjet.com/a/steve-jobs-henry-ford">Steve Jobs Is This Century’s Henry
-Ford</a></li>
-</ol>
-<p>Follow me on Twitter: <a href="http://twitter.com/jprichardson">@jprichardson</a></p>
-<p>-JP</p>
-]]></description><link>http://loudjet.com/a/saddened-by-steves-departure/</link><guid isPermaLink="true">http://loudjet.com/a/saddened-by-steves-departure/</guid><dc:creator><![CDATA[JP Richardson]]></dc:creator><pubDate>Thu, 25 Aug 2011 05:00:00 GMT</pubDate></item></channel></rss>
+]]></description><link>http://loudjet.com/a/sometimes-it-doesnt-matter-what-the-contract-states/</link><guid isPermaLink="true">http://loudjet.com/a/sometimes-it-doesnt-matter-what-the-contract-states/</guid><dc:creator><![CDATA[JP Richardson]]></dc:creator><pubDate>Mon, 29 Aug 2011 05:00:00 GMT</pubDate></item></channel></rss>
