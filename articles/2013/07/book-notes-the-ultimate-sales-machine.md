@@ -20,5 +20,14 @@ Chet goes on to make a case that by reading this book, you'll need to work and a
 Time Management Secrets of Billionaires
 ---------------------------------------
 
+Time management is an area that I've struggled with. So, I found this chapter to be extremely valuable. Chet states that a person must do the following six things:
+
+1. Touch it once. e.g. If you open an email, do something with it. Either respond or delete it. Essentially, anything that you touch must be taken care of.
+2. Make a daily list of the six most important tasks to accomplish. He states that you shouldn't have more than six.
+3. Plan how long each task will take.
+4. Assign time slots for each task.
+5. Focus on the difficult projects first.
+6. Ask yourself, "Will it hurt me to throw this away?"
+
 
 
